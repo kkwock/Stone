@@ -16,16 +16,26 @@ geneSummary <- function(x){
 # Create a list of gene names from gene_name column
 gene_list <- csv$gene_name
 
-# Looping through each name in the gene list and creating a new dataframe
-for(gene in gene_list){
-  if(gene == '.'){
-    temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
-  }else{
-    summ <- geneSummary(gene)
-    temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
+# for large dataset
+n <- 10000
+full.df <- data.frame()
+
+for(j in 1:ceiling(nrow(csv)/n)) {
+  print(j)
+  for(i in (n*(j-1)+1):(min(n*j, nrow(csv)))) {
+    # Looping through each name in the gene list and creating a new dataframe
+    for(gene in gene_list){
+      if(gene == '.'){
+        temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
+      }else{
+        summ <- geneSummary(gene)
+        temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
+      }
+      df <- rbind(df, temp)
+      full.df <- rbind(full.df, df)
+    }
   }
-  df <- rbind(df, temp)
 }
 
 # Create CSV file of annotations
-write.csv(df, 'data/Full_GlymaAnnotations.csv')
+write.csv(full.df, 'data/Full_GlymaAnnotations.csv')
