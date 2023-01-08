@@ -21,21 +21,22 @@ n <- 10000
 full.df <- data.frame()
 
 for(j in 1:ceiling(nrow(csv)/n)) {
-  print(j)
-  for(i in (n*(j-1)+1):(min(n*j, nrow(csv)))) {
-    # Looping through each name in the gene list and creating a new dataframe
-    for(gene in gene_list){
-      if(gene == '.'){
-        temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
-      }else{
-        summ <- geneSummary(gene)
-        temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
-      }
-      df <- rbind(df, temp)
-      full.df <- rbind(full.df, df)
+  nrange <- (n*(j-1)+1):(min(n*j, nrow(csv)))
+  cat(paste0(j, "/", ceiling(nrow(csv)/n)))
+  cat("\nrange: ", range(nrange))
+  
+  # Looping through each name in the gene list and creating a new dataframe
+  for(gene in gene_list[nrange]){
+    if(gene == '.'){
+      temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
+    }else{
+      summ <- geneSummary(gene)
+      temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
     }
+    df <- rbind(df, temp)
+    full.df <- rbind(full.df, df)
+    
+    # Create CSV file of annotations
+    write.csv(full.df, 'data/Full_GlymaAnnotations.csv')
   }
 }
-
-# Create CSV file of annotations
-write.csv(full.df, 'data/Full_GlymaAnnotations.csv')
