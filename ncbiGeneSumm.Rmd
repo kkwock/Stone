@@ -1,0 +1,120 @@
+---
+title: "Get the Gene Summary from NCBI Gene DB"
+output: html_document
+---
+
+```{r}
+# install via CRAN
+#install.packages("rentrez")
+
+# Function
+geneSummary <- function(x){
+  library(rentrez)
+
+  # searches through NCBI gene db
+  r_search <- entrez_search(db="gene", term=x) 
+  
+  # takes the UID of the first search input
+  summ <- entrez_summary(db='gene', id=r_search$ids[1])
+}
+
+
+#example gene name
+gene <- 'LOC100800175' 
+
+# Get Summary of Gene 
+summ <- geneSummary(gene)
+
+# Description
+summ$description
+```
+
+```{r}
+# GLYMA name
+summ$otheraliases
+```
+
+```{r}
+# Reading in the CSV file
+csv <- read.csv('../data/FPKM_full-table_all_rows.csv', header=T)
+df <- data.frame()
+
+# Create a list of gene names from gene_name column
+gene_list <- csv$gene_name
+
+# Looping through each name in the gene list and creating a new dataframe
+for(gene in gene_list){
+  if(gene == '.'){
+    temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
+  }else{
+    summ <- geneSummary(gene)
+    temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
+    }
+  df <- rbind(df, temp)
+}
+
+# Create CSV file of annotations
+write.csv(df, '2022Dec21_GlymaAnnotations.csv')
+```
+
+## Annotating Data Subsets
+
+-   **Location:** data/FPKM_tables/\*.csv
+
+| Group | Expression Level | CSV File                              |
+|-------|------------------|---------------------------------------|
+| t20   | up               | \`FPKM_t20_up_1.5\`                   |
+| t20   | down             | \`FPKM_t20_down_1.5\`                 |
+| t40   | up               | \`FPKM_t40_up_1.5\`                   |
+| t40   | down             | \`FPKM_t40_down_1.5\`                 |
+| both  | up               | \`FPKM_t20_t40_up_1.5\`               |
+| both  | down             | \`FPKM_t20_t40_down_1.5\`             |
+| all   | all              | \`FPKM_average+1_fold_change_pvalue\` |
+
+```{r}
+# reading in the files
+t20.up <- read.csv('data/FPKM_tables/FPKM_t20_up_1.5.csv', header=T)
+t20.down <- read.csv('data/FPKM_tables/FPKM_t20_down_1.5.csv', header=T)
+t40.up <- read.csv('data/FPKM_tables/FPKM_t40_up_1.5.csv', header=T)
+t40.down <- read.csv('data/FPKM_tables/FPKM_t40_down_1.5.csv', header=T)
+shared.up <- read.csv('data/FPKM_tables/FPKM_t20_t40_up_1.5.csv', header=T)
+shared.down <- read.csv('data/FPKM_tables/FPKM_t20_t40_down_1.5.csv', header=T)
+
+#test.shared.up <- t20.up[which(t20.up$t_id %in% t40.up$t_id),]
+#test.shared.down <- t20.down[which(t20.down$t_id %in% t40.down$t_id),]
+```
+
+```{r}
+source('ncbi-ann-glyma.R')
+# building data.frame t_id, gene_id, gene_name, group, expression.level
+t20.up.df <- annotate(t20.up, 'data/Annotations/t20.up_annotations.csv')
+t20.down.df <- annotate(t20.down, 'data/Annotations/t20.down_annotations.csv')
+t40.up.df <- annotate(t40.up, 'data/Annotations/t40.up_annotations.csv')
+t40.down.df <- annotate(t40.down, 'data/Annotations/t40.down_annotations.csv')
+shared.up.df <- annotate(shared.up, 'data/Annotations/shared.up_annotations.csv')
+shared.down.df <- annotate(shared.down, 'data/Annotations/shared.down_annotations.csv')
+```
+
+```{r, message=F, warning=F}
+library(dplyr)
+t20.up.df <- t20.up.df %>% mutate(id = t20.up$t_id, gene_id = t20.up$gene_id, 
+                                  group = 't20', expression = 'up')
+t20.down.df <- t20.down.df %>% mutate(id = t20.down$t_id, gene_id = t20.down$gene_id,
+                                      group = 't20', expression = 'down')
+t40.up.df <- t40.up.df %>% mutate(id = t40.up$t_id, gene_id = t40.up$gene_id,
+                                  group = 't40', expression = 'up')
+t40.down.df <- t40.down.df %>% mutate(id = t40.down$t_id, gene_id = t40.down$gene_id,
+                                      group = 't40', expression = 'down')
+shared.up.df <- shared.up.df %>% mutate(id = shared.up$t_id, 
+                                        gene_id = shared.up$gene_id,
+                                        group = 'shared', expression = 'up')
+shared.down.df <- shared.down.df %>% mutate(id = shared.down$t_id,
+                                            gene_id = shared.down$gene_id,
+                                            group = 'shared', expression = 'down')
+
+# combine all vectors into one df
+full.ann <- rbind(t20.up.df, t20.down.df, t40.up.df, t40.down.df, shared.up.df, shared.down.df)
+full.ann <- full.ann %>% select(id, group, expression, gene_id, gene_name, glyma, desc)
+
+write.csv(full.ann, 'data/Annotations/Full_DEG_Annotations.csv', row.names=F)
+```
