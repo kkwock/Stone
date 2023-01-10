@@ -118,3 +118,11 @@ full.ann <- full.ann %>% select(id, group, expression, gene_id, gene_name, glyma
 
 write.csv(full.ann, 'data/Annotations/Full_DEG_Annotations.csv', row.names=F)
 ```
+
+## GO-term Enrichment
+
+```{r}
+# Getting list of Glymaterms
+glyma.terms <- strsplit(na.omit(t20.up.df$glyma),split=",")
+glyma.terms <- unlist(sapply(glyma.terms, head, 1))
+```

@@ -21,7 +21,7 @@ annotate <- function(csv, output.name){
   gene_list <- csv$gene_name
   
   # for large dataset
-  n <- 1000
+  n <- 100
   df <- data.frame()
   full.df <- data.frame()
   
