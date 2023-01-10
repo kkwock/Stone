@@ -1,62 +1,62 @@
-"gene_name","glyma","desc"
-".",NA,NA
-"LOC100811437","GLYMA_04G053300","aminopeptidase M1"
-"LOC100813636","GLYMA_05G168400","ferredoxin-A"
-".",NA,NA
-".",NA,NA
-"LOC100820369","GLYMA_04G225500","protein RESPONSE TO LOW SULFUR 3"
-"LOC100792313","GLYMA_03G085500","GTP cyclohydrolase 1"
-"LOC100306576","GLYMA_11G236500","uncharacterized LOC100306576"
-".",NA,NA
-".",NA,NA
-"LOC100806690","GLYMA_06G072500","coiled-coil domain-containing protein 93"
-"LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2"
-"LOC100305418","GLYMA_12G002400","cytokinin-regulated kinase"
-"LOC100793208","GLYMA_04G2543001, GmSHMT04n","serine hydroxymethyltransferase 7"
-"LOC100788062","GLYMA_10G079900","NDR1/HIN1-like protein 10"
-"LOC102664858","GLYMA_18G056400","senescence associated gene 20"
-"LOC100777818","GLYMA_06G128700","calcineurin B-like protein 4"
-".",NA,NA
-".",NA,NA
-".",NA,NA
-"LOC100784098","GLYMA_15G171000","IQ domain-containing protein IQM1"
-".",NA,NA
-"LOC100805188","GLYMA_18G172600","protein SULFUR DEFICIENCY-INDUCED 1"
-".",NA,NA
-".",NA,NA
-"LOC100817267","GLYMA_09G246600","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380"
-"LOC100792931","GLYMA_07G266500","scarecrow-like protein 13-like"
-"LOC100784249","GLYMA_13G095100","probable xyloglucan endotransglucosylase/hydrolase protein 23"
-".",NA,NA
-".",NA,NA
-"LOC100779437","GLYMA_07G102400","protein C2-DOMAIN ABA-RELATED 4"
-"LOC100784908","GLYMA_11G109800","uncharacterized LOC100784908"
-".",NA,NA
-".",NA,NA
-".",NA,NA
-"LOC100801386","GLYMA_13G355000","ABC transporter G family member 36"
-"LOC100815756","GLYMA_05G169100","11S globulin seed storage protein 1"
-".",NA,NA
-"LOC100797211","GLYMA_10G204100","lysine histidine transporter-like 6"
-"LOC100812261","GLYMA_16G111700","glutamate receptor 3.6"
-".",NA,NA
-"LOC100793498","GLYMA_02G264200","U-box domain-containing protein 1"
-".",NA,NA
-".",NA,NA
-".",NA,NA
-"LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1"
-".",NA,NA
-".",NA,NA
-".",NA,NA
-".",NA,NA
-".",NA,NA
-".",NA,NA
-"CRK71","GLYMA_20G138100, GmCRK71","cysteine-rich receptor-like protein kinase"
-"LOC112999843","","small nucleolar RNA snoR145"
-"LOC100798343","GLYMA_20G092900","putative nuclear envelope-associated protein"
-"LOC100795896","GLYMA_13G204400","transcription factor bHLH130"
-".",NA,NA
-"LOC100779180","GLYMA_11G069600","laccase-11"
-"LOC102661371","GLYMA_18G209900v4","protein LURP-one-related 15-like"
-"LOC100799752","GLYMA_05G094400","mitogen-activated protein kinase kinase kinase 20"
-".",NA,NA
+"uid","gene_name","alias","desc"
+NA,".",NA,NA
+"100811437","LOC100811437","GLYMA_04G053300","aminopeptidase M1"
+"100813636","LOC100813636","GLYMA_05G168400","ferredoxin-A"
+NA,".",NA,NA
+NA,".",NA,NA
+"100820369","LOC100820369","GLYMA_04G225500","protein RESPONSE TO LOW SULFUR 3"
+"100792313","LOC100792313","GLYMA_03G085500","GTP cyclohydrolase 1"
+"100306576","LOC100306576","GLYMA_11G236500","uncharacterized LOC100306576"
+NA,".",NA,NA
+NA,".",NA,NA
+"100806690","LOC100806690","GLYMA_06G072500","coiled-coil domain-containing protein 93"
+"100818944","LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2"
+"100305418","LOC100305418","GLYMA_12G002400","cytokinin-regulated kinase"
+"100793208","LOC100793208","GLYMA_04G2543001, GmSHMT04n","serine hydroxymethyltransferase 7"
+"100788062","LOC100788062","GLYMA_10G079900","NDR1/HIN1-like protein 10"
+"102664858","LOC102664858","GLYMA_18G056400","senescence associated gene 20"
+"100777818","LOC100777818","GLYMA_06G128700","calcineurin B-like protein 4"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100784098","LOC100784098","GLYMA_15G171000","IQ domain-containing protein IQM1"
+NA,".",NA,NA
+"100805188","LOC100805188","GLYMA_18G172600","protein SULFUR DEFICIENCY-INDUCED 1"
+NA,".",NA,NA
+NA,".",NA,NA
+"100817267","LOC100817267","GLYMA_09G246600","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380"
+"100792931","LOC100792931","GLYMA_07G266500","scarecrow-like protein 13-like"
+"100784249","LOC100784249","GLYMA_13G095100","probable xyloglucan endotransglucosylase/hydrolase protein 23"
+NA,".",NA,NA
+NA,".",NA,NA
+"100779437","LOC100779437","GLYMA_07G102400","protein C2-DOMAIN ABA-RELATED 4"
+"100784908","LOC100784908","GLYMA_11G109800","uncharacterized LOC100784908"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100801386","LOC100801386","GLYMA_13G355000","ABC transporter G family member 36"
+"100815756","LOC100815756","GLYMA_05G169100","11S globulin seed storage protein 1"
+NA,".",NA,NA
+"100797211","LOC100797211","GLYMA_10G204100","lysine histidine transporter-like 6"
+"100812261","LOC100812261","GLYMA_16G111700","glutamate receptor 3.6"
+NA,".",NA,NA
+"100793498","LOC100793498","GLYMA_02G264200","U-box domain-containing protein 1"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"112999626","LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100782800","CRK71","GLYMA_20G138100, GmCRK71","cysteine-rich receptor-like protein kinase"
+"112999843","LOC112999843","","small nucleolar RNA snoR145"
+"100798343","LOC100798343","GLYMA_20G092900","putative nuclear envelope-associated protein"
+"100795896","LOC100795896","GLYMA_13G204400","transcription factor bHLH130"
+NA,".",NA,NA
+"100779180","LOC100779180","GLYMA_11G069600","laccase-11"
+"102661371","LOC102661371","GLYMA_18G209900v4","protein LURP-one-related 15-like"
+"100799752","LOC100799752","GLYMA_05G094400","mitogen-activated protein kinase kinase kinase 20"
+NA,".",NA,NA

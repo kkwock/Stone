@@ -21,7 +21,7 @@ annotate <- function(csv, output.name){
   gene_list <- csv$gene_name
   
   # for large dataset
-  n <- 100
+  n <- 1000
   df <- data.frame()
   full.df <- data.frame()
   
@@ -51,10 +51,10 @@ annotate <- function(csv, output.name){
       }
       
       if(gene == '.'){
-        temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
+        temp <- data.frame('uid' = NA, 'gene_name' = gene, 'alias' = NA, 'desc' = NA)
       }else{
         summ <- geneSummary(gene)
-        temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
+        temp <- data.frame('uid' = summ$uid, 'gene_name' = gene, 'alias' = summ$otheraliases, 'desc' = summ$description)
       }
       df <- rbind(df, temp)
     }
@@ -64,4 +64,14 @@ annotate <- function(csv, output.name){
     write.csv(full.df, output.name, row.names=F)
   }
   return(full.df)
+}
+
+# Rename Glyma Terms
+rename.glyma <- function(x){
+  library(stringr)
+  glyma.terms <- strsplit(na.omit(x['alias']),split=",")
+  glyma.terms <- unlist(sapply(glyma.terms, head, 1))
+  glyma.terms <- str_replace(glyma.terms, "GLYMA", "Glyma")
+  glyma.terms <- glyma.terms[grepl("^Glyma", glyma.terms)] 
+  return(glyma.terms)
 }

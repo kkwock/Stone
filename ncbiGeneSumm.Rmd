@@ -45,16 +45,16 @@ gene_list <- csv$gene_name
 # Looping through each name in the gene list and creating a new dataframe
 for(gene in gene_list){
   if(gene == '.'){
-    temp <- data.frame('gene_name' = gene, 'glyma' = NA, 'desc' = NA)
+    temp <- data.frame('gene_name' = gene, 'alias' = NA, 'desc' = NA)
   }else{
     summ <- geneSummary(gene)
-    temp <- data.frame('gene_name' = gene, 'glyma' = summ$otheraliases, 'desc' = summ$description)
+    temp <- data.frame('gene_name' = gene, 'alias' = summ$otheraliases, 'desc' = summ$description)
     }
   df <- rbind(df, temp)
 }
 
 # Create CSV file of annotations
-write.csv(df, '2022Dec21_GlymaAnnotations.csv')
+# write.csv(df, '2022Dec21_GlymaAnnotations.csv')
 ```
 
 ## Annotating Data Subsets
@@ -95,7 +95,7 @@ shared.up.df <- annotate(shared.up, 'data/Annotations/shared.up_annotations.csv'
 shared.down.df <- annotate(shared.down, 'data/Annotations/shared.down_annotations.csv')
 ```
 
-```{r, message=F, warning=F}
+```{r, message=F, warning=F, include=F, echo=F}
 library(dplyr)
 t20.up.df <- t20.up.df %>% mutate(id = t20.up$t_id, gene_id = t20.up$gene_id, 
                                   group = 't20', expression = 'up')
@@ -114,15 +114,66 @@ shared.down.df <- shared.down.df %>% mutate(id = shared.down$t_id,
 
 # combine all vectors into one df
 full.ann <- rbind(t20.up.df, t20.down.df, t40.up.df, t40.down.df, shared.up.df, shared.down.df)
-full.ann <- full.ann %>% select(id, group, expression, gene_id, gene_name, glyma, desc)
+full.ann <- full.ann %>% dplyr::select(id, group, expression, uid, gene_id, gene_name, alias, desc)
 
 write.csv(full.ann, 'data/Annotations/Full_DEG_Annotations.csv', row.names=F)
 ```
 
 ## GO-term Enrichment
 
+```{r, message=F, warning=F}
+
+glycine.db <- function(){
+  # Database for Glycine Max annotations
+  library(AnnotationHub)
+  hub <- AnnotationHub()
+  # query(hub, c("orgdb","glycine")) # to view the databases
+  orgdb <- hub[['AH100839']]
+  
+  return(orgdb)
+}
+
+annoGO <- function(x, orgdb){
+  # get gene_name --> GO terms
+  search.list <- x$gene_name
+  search.list[which(search.list == ".")] <- NA
+  search.list <- na.omit(search.list)
+  
+  # Annotate list of glyma terms
+  # gene2cat <- select(orgdb, search.list, "ALIAS")
+  
+  # Collapse list of GO-terms to each ID
+  df <- select(orgdb, search.list, columns(orgdb), "ALIAS")
+  collapsed.df <- df %>% 
+    group_by(ENTREZID, GENENAME) %>% 
+    summarise(GO = paste(GOALL, collapse=','))
+}
+
+orgdb <- glycine.db()
+t20.up.GO <- annoGO(t20.up, orgdb)
+```
+
 ```{r}
-# Getting list of Glymaterms
-glyma.terms <- strsplit(na.omit(t20.up.df$glyma),split=",")
-glyma.terms <- unlist(sapply(glyma.terms, head, 1))
+# Hypergeometric Test of overrepresented GO terms
+library(GOstats)
+library(GO.db)
+library(Category)
+library('MeSH.Gma.eg.db')
+
+
+# Create GOHyperGParams Object
+params=new("GOHyperGParams", 
+  geneIds=unlist(unique(at_list)), 
+  annotation="MeSH.Gma.eg.db", 
+  ontology="BP", 
+  pvalueCutoff=0.005, 
+  conditional=TRUE, 
+  testDirection="over")
+
+# Run HyperGeometric Test to find overrepresented GO Terms
+overRepresented=hyperGTest(params)
+overRepresented
+
+# Summary
+summary(overRepresented)[,c(1,2,5,6,7)]
 ```
