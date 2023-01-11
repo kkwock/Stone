@@ -75,3 +75,57 @@ rename.glyma <- function(x){
   glyma.terms <- glyma.terms[grepl("^Glyma", glyma.terms)] 
   return(glyma.terms)
 }
+
+# Annotate GO terms
+glycine.db <- function(){
+  # Database for Glycine Max annotations
+  library(AnnotationHub)
+  hub <- AnnotationHub()
+  # query(hub, c("orgdb","glycine")) # to view the databases
+  orgdb <- hub[['AH100839']]
+  
+  return(orgdb)
+}
+
+clean.list <- function(x){
+  x[which(x == ".")] <- NA
+  clean.list <- na.omit(x)
+  return(clean.list)
+}
+annoGO <- function(x, orgdb){
+  # get gene_name --> GO terms
+  search.list <- x$gene_name
+  search.list <- clean.list(search.list)
+  
+  # Annotate list of glyma terms
+  # gene2cat <- select(orgdb, search.list, "ALIAS")
+  
+  # Collapse list of GO-terms to each ID
+  df <- AnnotationDbi::select(orgdb, search.list, columns(orgdb), "ALIAS")
+  collapsed.df <- df %>% group_by(ENTREZID, GENENAME) %>% 
+    summarise(GO = paste(GO, collapse=','))
+  colnames(collapsed.df)[1] <- 'uid'
+  
+  return(collapsed.df)
+}
+
+GO.profile <- function(x, orgdb){
+  library(clusterProfiler)
+  
+  # get gene_name --> GO terms
+  search.list <- x$gene_name
+  search.list <- clean.list(search.list)
+  
+  # creating dataframe of each gene with list of annotations
+  df <- AnnotationDbi::select(orgdb, search.list, columns(orgdb), "ALIAS")
+  
+  # Entrez gene ID
+  yy <- groupGO(unique(df$ENTREZID), orgdb, ont="MF", level=2)
+  yy <- as.data.frame(yy[order(-yy$Count),])
+  yy <- subset(yy, Count>5)
+  
+  ego <- enrichGO(df$ENTREZID, orgdb, ont="MF", pAdjustMethod = "none")
+  # ego.df <- as.data.frame(ego)
+  
+  return(list(yy = yy, ego = ego))
+}

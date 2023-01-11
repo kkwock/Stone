@@ -71,7 +71,8 @@ for(gene in gene_list){
 | both  | down             | \`FPKM_t20_t40_down_1.5\`             |
 | all   | all              | \`FPKM_average+1_fold_change_pvalue\` |
 
-```{r}
+```{r, eval=F, include=T}
+source('ncbi-ann-glyma.R')
 # reading in the files
 t20.up <- read.csv('data/FPKM_tables/FPKM_t20_up_1.5.csv', header=T)
 t20.down <- read.csv('data/FPKM_tables/FPKM_t20_down_1.5.csv', header=T)
@@ -84,8 +85,7 @@ shared.down <- read.csv('data/FPKM_tables/FPKM_t20_t40_down_1.5.csv', header=T)
 #test.shared.down <- t20.down[which(t20.down$t_id %in% t40.down$t_id),]
 ```
 
-```{r}
-source('ncbi-ann-glyma.R')
+```{r, eval=F, include=T}
 # building data.frame t_id, gene_id, gene_name, group, expression.level
 t20.up.df <- annotate(t20.up, 'data/Annotations/t20.up_annotations.csv')
 t20.down.df <- annotate(t20.down, 'data/Annotations/t20.down_annotations.csv')
@@ -96,6 +96,13 @@ shared.down.df <- annotate(shared.down, 'data/Annotations/shared.down_annotation
 ```
 
 ```{r, message=F, warning=F, include=F, echo=F}
+t20.up.df <- read.csv('data/Annotations/t20.up_annotations.csv', header=T)
+t20.down.df <- read.csv('data/Annotations/t20.down_annotations.csv', header=T)
+t40.up.df <- read.csv('data/Annotations/t40.up_annotations.csv', header=T)
+t40.down.df <- read.csv('data/Annotations/t40.down_annotations.csv', header=T)
+shared.up.df <- read.csv('data/Annotations/shared.up_annotations.csv', header=T)
+shared.down.df <- read.csv('data/Annotations/shared.down_annotations.csv', header=T)
+
 library(dplyr)
 t20.up.df <- t20.up.df %>% mutate(id = t20.up$t_id, gene_id = t20.up$gene_id, 
                                   group = 't20', expression = 'up')
@@ -122,58 +129,19 @@ write.csv(full.ann, 'data/Annotations/Full_DEG_Annotations.csv', row.names=F)
 ## GO-term Enrichment
 
 ```{r, message=F, warning=F}
-
-glycine.db <- function(){
-  # Database for Glycine Max annotations
-  library(AnnotationHub)
-  hub <- AnnotationHub()
-  # query(hub, c("orgdb","glycine")) # to view the databases
-  orgdb <- hub[['AH100839']]
-  
-  return(orgdb)
-}
-
-annoGO <- function(x, orgdb){
-  # get gene_name --> GO terms
-  search.list <- x$gene_name
-  search.list[which(search.list == ".")] <- NA
-  search.list <- na.omit(search.list)
-  
-  # Annotate list of glyma terms
-  # gene2cat <- select(orgdb, search.list, "ALIAS")
-  
-  # Collapse list of GO-terms to each ID
-  df <- select(orgdb, search.list, columns(orgdb), "ALIAS")
-  collapsed.df <- df %>% 
-    group_by(ENTREZID, GENENAME) %>% 
-    summarise(GO = paste(GOALL, collapse=','))
-}
-
 orgdb <- glycine.db()
-t20.up.GO <- annoGO(t20.up, orgdb)
+
+# collapsed GO df
+collapsed.df <- annoGO(t20.up, orgdb)
+
+merge(t20.up.df, collapsed.df, by = "uid")
 ```
 
 ```{r}
-# Hypergeometric Test of overrepresented GO terms
-library(GOstats)
-library(GO.db)
-library(Category)
-library('MeSH.Gma.eg.db')
+# 
+goprofile <- GO.profile(t20.up, orgdb)
 
-
-# Create GOHyperGParams Object
-params=new("GOHyperGParams", 
-  geneIds=unlist(unique(at_list)), 
-  annotation="MeSH.Gma.eg.db", 
-  ontology="BP", 
-  pvalueCutoff=0.005, 
-  conditional=TRUE, 
-  testDirection="over")
-
-# Run HyperGeometric Test to find overrepresented GO Terms
-overRepresented=hyperGTest(params)
-overRepresented
-
-# Summary
-summary(overRepresented)[,c(1,2,5,6,7)]
+# Visualization
+library(enrichplot)
+dotplot(goprofile$ego, showCategory=10)
 ```
