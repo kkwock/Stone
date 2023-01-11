@@ -123,7 +123,7 @@ shared.down.df <- shared.down.df %>% mutate(id = shared.down$t_id,
 full.ann <- rbind(t20.up.df, t20.down.df, t40.up.df, t40.down.df, shared.up.df, shared.down.df)
 full.ann <- full.ann %>% dplyr::select(id, group, expression, uid, gene_id, gene_name, alias, desc)
 
-write.csv(full.ann, 'data/Annotations/Full_DEG_Annotations.csv', row.names=F)
+# write.csv(full.ann, 'data/Annotations/Full_DEG_Annotations.csv', row.names=F)
 ```
 
 ## GO-term Enrichment
@@ -134,7 +134,7 @@ orgdb <- glycine.db()
 # collapsed GO df
 collapsed.df <- annoGO(t20.up, orgdb)
 
-merge(t20.up.df, collapsed.df, by = "uid")
+merge <- merge(head(t20.up.df, 20), head(collapsed.df, 20), by = "uid", all = T)
 ```
 
 ```{r}
