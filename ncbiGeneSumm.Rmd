@@ -131,17 +131,44 @@ full.ann <- full.ann %>% dplyr::select(id, group, expression, uid, gene_id, gene
 ```{r, message=F, warning=F}
 orgdb <- glycine.db()
 
-# collapsed GO df
-collapsed.df <- annoGO(t20.up, orgdb)
+# Combining annotations with GO terms
+# And writing csv files for each. 
 
-merge <- merge(head(t20.up.df, 20), head(collapsed.df, 20), by = "uid", all = T)
+df.list <- list(t20.up.df, 
+             t20.down.df, 
+             t40.up.df, 
+             t40.down.df, 
+             shared.up.df, 
+             shared.down.df)
+
+csv.list <- c('t20.up.GO.csv', 
+              't20.down.GO.csv',
+              't40.up.GO.csv',
+              't40.down.GO.csv',
+              'shared.up.GO.csv', 
+              'shared.down.GO.csv')
+
+for(i in 1:length(csv.list)){
+  x <- df.list[i]
+  csv <- paste0("data/Annotations/",csv.list[i])
+  
+  write.GO(x, csv, orgdb)
+}
+
+new.df <- data.frame()
+for(i in 1:length(csv.list)){
+  csv <- paste0("data/Annotations/",csv.list[i])
+  temp <- read.csv(csv, header=T)
+  
+  new.df <- rbind(new.df, temp)
+}
 ```
 
 ```{r}
-# 
+#
 goprofile <- GO.profile(t20.up, orgdb)
 
 # Visualization
-library(enrichplot)
-dotplot(goprofile$ego, showCategory=10)
+# library(enrichplot)
+dotplot(goprofile$ego, showCategory=5) + ggtitle('t20.up')
 ```

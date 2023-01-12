@@ -1,0 +1,62 @@
+"uid","gene_name","alias","desc","id","gene_id","group","expression","GENENAME","GO"
+547619,"SHOOT2","GLYMA_19G190000","SHOOT2 protein",111713,"MSTRG.37698","shared","down",NA,NA
+100037478,"SACPD-C","GLYMA_14G121400, FAB2.3","stearoyl-ACP desaturase",84260,"MSTRG.28545","shared","down",NA,NA
+100305771,"LOC100305771","GLYMA_13G301400","uncharacterized LOC100305771",79118,"MSTRG.26861","shared","down",NA,NA
+100306683,"LOC100306683","GLYMA_17G117200","uncharacterized LOC100306683",98598,"MSTRG.33448","shared","down",NA,NA
+100500345,"LOC100500345","GLYMA_11G235000","uncharacterized LOC100500345",66827,"MSTRG.22804","shared","down",NA,NA
+100500459,"LOC100500459","GLYMA_05G068500v4","FCS-like zinc-finger domain-containing protein",24704,"MSTRG.8424","shared","down",NA,NA
+100527371,"LOC100527371","GLYMA_19G213100","uncharacterized LOC100527371",112231,"MSTRG.37911","shared","down",NA,NA
+100527721,"LOC100527721","GLYMA_11G060500","uncharacterized LOC100527721",62912,"MSTRG.21415","shared","down",NA,NA
+100775486,"LOC100775486","GLYMA_05G048500","zinc finger protein SHOOT GRAVITROPISM 5",24234,"MSTRG.8279","shared","down",NA,NA
+100776345,"LOC100776345","GLYMA_03G178000","40S ribosomal protein S23-like",15558,"MSTRG.5231","shared","down",NA,NA
+100779051,"LOC100779051","GLYMA_05G009000","early nodulin-93",23377,"MSTRG.7963","shared","down",NA,NA
+100779467,"LOC100779467","GLYMA_16G062000","kelch repeat-containing protein At3g27220",92815,"MSTRG.31444","shared","down",NA,NA
+100781661,"LOC100781661","GLYMA_02G287000","peroxisomal and mitochondrial division factor 2",11363,"MSTRG.3902","shared","down",NA,NA
+100783654,"LOC100783654","GLYMA_03G026000","uncharacterized LOC100783654",12357,"MSTRG.4272","shared","down",NA,NA
+100784666,"LOC100784666","GLYMA_01G061500","serine/threonine-protein kinase dst1",1464,"MSTRG.543","shared","down",NA,NA
+100786490,"LOC100786490","GLYMA_19G046300","LOB domain-containing protein 41",108696,"MSTRG.36736","shared","down",NA,NA
+100794816,"LOC100794816","GLYMA_05G222400","1-aminocyclopropane-1-carboxylate oxidase 1",28172,"MSTRG.9531","shared","down",NA,NA
+100799771,"LOC100799771","GLYMA_06G121500","transcriptional corepressor SEUSS",31354,"MSTRG.10739","shared","down",NA,NA
+100801545,"LOC100801545","GLYMA_05G133100","E3 ubiquitin-protein ligase UPL1",26218,"MSTRG.8805","shared","down",NA,NA
+100801918,"LOC100801918","GLYMA_06G122600","alcohol dehydrogenase 1",31372,"MSTRG.10741","shared","down",NA,NA
+100803038,"LOC100803038","GLYMA_17G238200","probable isoaspartyl peptidase/L-asparaginase 2",101251,"MSTRG.34278","shared","down",NA,NA
+100803056,"LOC100803056","GLYMA_10G089200","actin-related protein 7",56974,"MSTRG.19381","shared","down",NA,NA
+100803911,"LOC100803911","GLYMA_01G103500","auxin response factor 9",2415,"MSTRG.769","shared","down",NA,NA
+100807247,"LOC100807247","GLYMA_07G257700","stem-specific protein TSJT1",41088,"MSTRG.13908","shared","down",NA,NA
+100810689,"LOC100810689","GLYMA_17G083200","H/ACA ribonucleoprotein complex subunit 2-like protein",97862,"MSTRG.33165","shared","down",NA,NA
+100811997,"LOC100811997","GLYMA_20G098400","calreticulin",115359,"MSTRG.38890","shared","down",NA,NA
+100815403,"LOC100815403","GLYMA_12G200800","uncharacterized LOC100815403",71694,"MSTRG.24308","shared","down",NA,NA
+100816661,"LOC100816661","GLYMA_13G149700","putative mediator of RNA polymerase II transcription subunit 26",75933,"MSTRG.25655","shared","down",NA,NA
+100817130,"LOC100817130","GLYMA_18G132500","probable inactive purple acid phosphatase 1",104355,"MSTRG.35358","shared","down",NA,NA
+100820292,"LOC100820292","GLYMA_17G117100","early nodulin-93-like",98595,"MSTRG.33446","shared","down",NA,NA
+102577934,"C4H1","","cinnamate 4-hydroxylase CYP73",115685,"MSTRG.39030","shared","down",NA,NA
+102665617,"LOC102665617","GLYMA_11G022400","brassinosteroid-responsive RING protein 1",62129,"MSTRG.21114","shared","down",NA,NA
+102666841,"LOC100777575","","cyprosin-like",109546,"MSTRG.36922","shared","down",NA,NA
+106799481,"LOC106799481","","uncharacterized LOC106799481",40046,"MSTRG.13519","shared","down",NA,NA
+112999750,"IF7GT3","GLYMA_16G175200, GmIF7GT3","isoflavone 7-O-glucosyltransferase UGT3",95210,"MSTRG.32138","shared","down",NA,NA
+121174643,"LOC121174643","","receptor-like serine/threonine-protein kinase At2g45590",12248,"MSTRG.4233","shared","down",NA,NA
+NA,".",NA,NA,41307,"MSTRG.13996","shared","down",NA,"NA"
+NA,".",NA,NA,17643,"MSTRG.6048","shared","down",NA,"NA"
+NA,".",NA,NA,107732,"MSTRG.36435","shared","down",NA,"NA"
+NA,".",NA,NA,28772,"MSTRG.9753","shared","down",NA,"NA"
+NA,".",NA,NA,63065,"MSTRG.21475","shared","down",NA,"NA"
+NA,".",NA,NA,43192,"MSTRG.14717","shared","down",NA,"NA"
+NA,".",NA,NA,48169,"MSTRG.16404","shared","down",NA,"NA"
+NA,".",NA,NA,54597,"MSTRG.18580","shared","down",NA,"NA"
+NA,".",NA,NA,47689,"MSTRG.16245","shared","down",NA,"NA"
+NA,".",NA,NA,4031,"MSTRG.1309","shared","down",NA,"NA"
+NA,".",NA,NA,118978,"MSTRG.40165","shared","down",NA,"NA"
+NA,".",NA,NA,49437,"MSTRG.16829","shared","down",NA,"NA"
+NA,".",NA,NA,85515,"MSTRG.28955","shared","down",NA,"NA"
+NA,".",NA,NA,58358,"MSTRG.19716","shared","down",NA,"NA"
+NA,".",NA,NA,110373,"MSTRG.37208","shared","down",NA,"NA"
+NA,".",NA,NA,99506,"MSTRG.33812","shared","down",NA,"NA"
+NA,".",NA,NA,118157,"MSTRG.39922","shared","down",NA,"NA"
+NA,".",NA,NA,107859,"MSTRG.36473","shared","down",NA,"NA"
+NA,".",NA,NA,101959,"MSTRG.34542","shared","down",NA,"NA"
+NA,".",NA,NA,14531,"MSTRG.4886","shared","down",NA,"NA"
+NA,".",NA,NA,95939,"MSTRG.32397","shared","down",NA,"NA"
+NA,".",NA,NA,71333,"MSTRG.24183","shared","down",NA,"NA"
+NA,".",NA,NA,15136,"MSTRG.5082","shared","down",NA,"NA"
+NA,".",NA,NA,25263,"MSTRG.8540","shared","down",NA,"NA"
+NA,".",NA,NA,5932,"MSTRG.2061","shared","down",NA,"NA"

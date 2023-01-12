@@ -1,0 +1,1603 @@
+"","uid","gene_name","alias","desc","id","gene_id","group","expression","GENENAME","GO"
+"1",7157,"NIR","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53",8137,"MSTRG.2818","t20","up",NA,NA
+"2",21898,"SCA1","Lps, Ly87, Ran/M1, Rasl2-8","toll-like receptor 4",4273,"MSTRG.1405","t20","up",NA,NA
+"3",41640,"41640","Dmel_CG8790, BcDNA:GH02431, CG8790, DmDic1p, Dmel\CG8790","Dicarboxylate carrier 1",17848,"MSTRG.6126","t20","up",NA,NA
+"4",547566,"LOC547566","GLYMA_03G253200","indole-3-acetic acid induced protein ARG-2 homolog",17125,"MSTRG.5853","t20","up","indole-3-acetic acid induced protein ARG-2 homolog",NA
+"5",547630,"LOC547630","GLYMA_09G004400","adenosine 5'-phosphosulfate reductase",49440,"MSTRG.16830","t20","up","adenosine 5'-phosphosulfate reductase","GO:0016671,GO:0019419"
+"6",547685,"NRP-A","GLYMA_20G066100, NRP","N-rich protein",114662,"MSTRG.38679","t20","up","N-rich protein","GO:0005737,GO:0034976,GO:0009414"
+"7",547729,"LOC547729","GLYMA_10G106600, BGL","beta-glucosidase BoGH3B",57410,"MSTRG.19467","t20","up","beta-glucosidase BoGH3B","GO:0005576,GO:0008422,GO:0009251,GO:0102483,GO:0005975"
+"8",547756,"PEPC4","GLYMA_12G210600","phosphoenolpyruvate carboxylase",71878,"MSTRG.24390","t20","up","phosphoenolpyruvate carboxylase","GO:0005829,GO:0008964,GO:0015977,GO:0048366,GO:0006099"
+"9",547835,"LOC547835","GLYMA_07G007000, LOX1.4, SC514, loxA","lipoxygenase",35771,"MSTRG.12130","t20","up","lipoxygenase","GO:0005737,GO:0005506,GO:1990136,GO:0016702,GO:0006633,GO:0034440,GO:0031408"
+"10",547860,"LOX7","GLYMA_13G347800","lipoxygenase",80182,"MSTRG.27219","t20","up","lipoxygenase","GO:0005737,GO:0046872,GO:0016702,GO:0006633,GO:0031408"
+"11",547866,"LOC547866","GLYMA_20G170300","choline kinase",116887,"MSTRG.39457","t20","up","choline kinase","GO:0005737,GO:0004103,GO:0004305,GO:0006656,GO:0006646"
+"12",818294,"PIP2-3","AT2G37180, PIP2;3, PIP2C, PLASMA MEMBRANE INTRINSIC PROTEIN 2;3, PLASMA MEMBRANE INTRINSIC PROTEIN 2C, RESPONSIVE TO DESICCATION 28, T2N18.6, T2N18_6","Aquaporin-like superfamily protein",65326,"MSTRG.22343","t20","up",NA,NA
+"13",818395,"PHT1-1","AT2G38170, ATCAX1, F16M14.10, F16M14_10, HIGH AFFINITY CALCIUM ANTIPORTER CAX1, RARE COLD INDUCIBLE 4, RCI4, cation exchanger 1","cation exchanger 1",59219,"MSTRG.20028","t20","up",NA,NA
+"14",831207,"CHLH","AT5G13630, ABA-BINDING PROTEIN, ABAR, CCH, CCH1, CHLH, CONDITIONAL CHLORINA, GENOMES UNCOUPLED 5, H SUBUNIT OF MG-CHELATASE, T6I14.12","magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH)",14695,"MSTRG.4933","t20","up",NA,NA
+"15",851752,"HIR3","YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36","translation termination factor GTPase eRF3",23847,"MSTRG.8138","t20","up",NA,NA
+"16",100305418,"LOC100305418","GLYMA_12G002400","cytokinin-regulated kinase",67475,"MSTRG.23006","t20","up","cytokinin-regulated kinase","GO:0016021,GO:0005524,GO:0042803,GO:0004674"
+"17",100305767,"LOC100305767","GLYMA_08G158100","uncharacterized LOC100305767",44869,"MSTRG.15338","t20","up","uncharacterized LOC100305767","GO:0016021"
+"18",100305781,"GLYI-17","GLYMA_12G167400, GmGLYI-17","putative lactoylglutathione lyase",70964,"MSTRG.24069","t20","up","putative lactoylglutathione lyase",NA
+"19",100305934,"LOC100305934","GLYMA_06G053300","uncharacterized LOC100305934",29857,"MSTRG.10166","t20","up","uncharacterized LOC100305934",NA
+"20",100306006,"LOC100306006","GLYMA_15G256300","uncharacterized LOC100306006",91174,"MSTRG.30778","t20","up","uncharacterized LOC100306006",NA
+"21",100306170,"LOC100306170","GLYMA_10G230600","heavy-metal-associated domain-containing protein",60160,"MSTRG.20365","t20","up","heavy-metal-associated domain-containing protein","GO:0046872"
+"22",100306181,"LOC100306181","GLYMA_20G129900","BSP domain-containing protien",116036,"MSTRG.39148","t20","up","BSP domain-containing protien",NA
+"23",100306535,"LOC100306535","GLYMA_10G013700","uncharacterized LOC100306535",55394,"MSTRG.18857","t20","up","uncharacterized LOC100306535",NA
+"24",100306554,"LOC100306554","GLYMA_04G020300","plastocyanin",17840,"MSTRG.6121","t20","up","plastocyanin","GO:0009535,GO:0005507,GO:0009055"
+"25",100306576,"LOC100306576","GLYMA_11G236500","uncharacterized LOC100306576",66880,"MSTRG.22815","t20","up","uncharacterized LOC100306576",NA
+"26",100499653,"LOC100499653","GLYMA_06G259800","TIR-NBS-LRR type disease resistance protein",34327,"MSTRG.11656","t20","up","TIR-NBS-LRR type disease resistance protein","GO:0043531,GO:0006952"
+"27",100500210,"LOC100500210","GLYMA_13G250700","uncharacterized LOC100500210",78091,"MSTRG.26450","t20","up","uncharacterized LOC100500210","GO:0016021"
+"28",100500484,"LOC100500484","GLYMA_03G045600","dirigent-like protein",118690,"MSTRG.40098","t20","up","dirigent-like protein","GO:0048046"
+"29",100500597,"LOC100500597","GLYMA_13G054700","uncharacterized LOC100500597",73849,"MSTRG.24910","t20","up","uncharacterized LOC100500597",NA
+"30",100500640,"LOC100500640","GLYMA_17G036400, GmC/VIF2","cell wall / vacuolar inhibitor of fructosidase",96832,"MSTRG.32768","t20","up","cell wall / vacuolar inhibitor of fructosidase","GO:0004857"
+"31",100527578,"LOC100527578","GLYMA_18G005000","uncharacterized LOC100527578",101865,"MSTRG.34502","t20","up","uncharacterized LOC100527578","GO:0016021"
+"32",100527605,"LOC100527605","GLYMA_11G152000","uncharacterized LOC100527605",65420,"MSTRG.22383","t20","up","uncharacterized LOC100527605",NA
+"33",100527615,"LOC100527615","GLYMA_11G222300","tropinone reductase homolog At5g06060",66575,"MSTRG.22686","t20","up","tropinone reductase homolog At5g06060","GO:0016491"
+"34",100527644,"LOC100527644","GLYMA_18G191800","uncharacterized LOC100527644",105553,"MSTRG.35663","t20","up","uncharacterized LOC100527644","GO:0005504,GO:0009627"
+"35",100527669,"LOC100527669","GLYMA_16G177900","uncharacterized LOC100527669",95255,"MSTRG.32154","t20","up","uncharacterized LOC100527669","GO:0046872"
+"36",100736527,"PIP2-9","SlPIP2-9","aquaporin PIP2-9",6900,"MSTRG.2405","t20","up",NA,NA
+"37",100775519,"LOC100775519","GLYMA_07G212800","ferredoxin--nitrite reductase, chloroplastic",40172,"MSTRG.13569","t20","up","ferredoxin--nitrite reductase, chloroplastic","GO:0009570,GO:0051539,GO:0020037,GO:0046872,GO:0016491"
+"38",100776062,"LOC100776062","","probable protein phosphatase 2C 1",82756,"MSTRG.28183","t20","up",NA,NA
+"39",100776335,"LOC100776335","GLYMA_10G291400","caffeoylshikimate esterase",61410,"MSTRG.20856","t20","up","caffeoylshikimate esterase",NA
+"40",100776827,"LOC100776827","GLYMA_09G256100","probable polygalacturonase",54386,"MSTRG.18503","t20","up","probable polygalacturonase","GO:0004650,GO:0005975"
+"41",100777264,"LOC100777264","GLYMA_12G235100","protein SRG1-like",72293,"MSTRG.24558","t20","up","protein SRG1-like","GO:0046872,GO:0016491"
+"42",100777578,"LOC100777578","GLYMA_11G085300","probable serine/threonine-protein kinase PIX13",63374,"MSTRG.21610","t20","up","probable serine/threonine-protein kinase PIX13","GO:0005524,GO:0004674"
+"43",100777818,"LOC100777818","GLYMA_06G128700","calcineurin B-like protein 4",31512,"MSTRG.10798","t20","up","calcineurin B-like protein 4","GO:0005509"
+"44",100778270,"LOC100778270","GLYMA_18G300800","leucine-rich repeat extensin-like protein 6",107684,"MSTRG.36421","t20","up","leucine-rich repeat extensin-like protein 6",NA
+"45",100778340,"LOC100778340","GLYMA_13G095300","probable xyloglucan endotransglucosylase/hydrolase protein 23",74644,"MSTRG.25205","t20","up","probable xyloglucan endotransglucosylase/hydrolase protein 23","GO:0048046,GO:0004553,GO:0016762,GO:0042546,GO:0071555,GO:0010411"
+"46",100779095,"LOC100779095","GLYMA_07G262500","S-type anion channel SLAH4",41192,"MSTRG.13945","t20","up","S-type anion channel SLAH4","GO:0016021,GO:0005886,GO:0008308,GO:0006873"
+"47",100779097,"LOC100779097","","probable sulfate transporter 3.5",37535,"MSTRG.12767","t20","up",NA,NA
+"48",100779180,"LOC100779180","GLYMA_11G069600","laccase-11",63088,"MSTRG.21481","t20","up","laccase-11","GO:0048046,GO:0005507,GO:0052716,GO:0016491,GO:0046274"
+"49",100779437,"LOC100779437","GLYMA_07G102400","protein C2-DOMAIN ABA-RELATED 4",37808,"MSTRG.12875","t20","up","protein C2-DOMAIN ABA-RELATED 4","GO:0005634,GO:0005886,GO:0009738"
+"50",100779961,"HGO2","GLYMA_06G234200, GmHGO2","homogentisate 1,2-dioxygenase",33862,"MSTRG.11548","t20","up","homogentisate 1,2-dioxygenase",NA
+"51",100780697,"LOC100780697","GLYMA_15G072400","stem-specific protein TSJT1-like",87354,"MSTRG.29620","t20","up","stem-specific protein TSJT1-like",NA
+"52",100780762,"LOC100780762","GLYMA_10G124300","uncharacterized LOC100780762",57844,"MSTRG.19559","t20","up","uncharacterized LOC100780762","GO:0005737,GO:0016020"
+"53",100781785,"LOC100781785","GLYMA_15G021800","LRR receptor-like serine/threonine-protein kinase IOS1",86208,"MSTRG.29194","t20","up","LRR receptor-like serine/threonine-protein kinase IOS1","GO:0016021,GO:0005524,GO:0004674"
+"54",100781974,"LOC100781974","GLYMA_16G017200","soluble inorganic pyrophosphatase 1",91911,"MSTRG.31075","t20","up","soluble inorganic pyrophosphatase 1",NA
+"55",100782104,"LOC100782104","GLYMA_13G095200","probable xyloglucan endotransglucosylase/hydrolase protein 23",74643,"MSTRG.25204","t20","up","probable xyloglucan endotransglucosylase/hydrolase protein 23","GO:0048046,GO:0004553,GO:0016762,GO:0042546,GO:0071555,GO:0010411"
+"56",100782266,"CRK70","GLYMA_20G137900, GmCRK70","cysteine-rich receptor-like protein kinase",116216,"MSTRG.39210","t20","up","cysteine-rich receptor-like protein kinase","GO:0016021,GO:0005886,GO:0005524,GO:0004674,GO:0006468"
+"57",100782656,"LOC100782656","GLYMA_13G058400","membrane-anchored ubiquitin-fold protein 1",73911,"MSTRG.24941","t20","up","membrane-anchored ubiquitin-fold protein 1","GO:0005886"
+"58",100782656,"LOC100782656","GLYMA_13G058400","membrane-anchored ubiquitin-fold protein 1",73912,"MSTRG.24941","t20","up","membrane-anchored ubiquitin-fold protein 1","GO:0005886"
+"59",100782656,"LOC100782656","GLYMA_13G058400","membrane-anchored ubiquitin-fold protein 1",73914,"MSTRG.24941","t20","up","membrane-anchored ubiquitin-fold protein 1","GO:0005886"
+"60",100782800,"CRK71","GLYMA_20G138100, GmCRK71","cysteine-rich receptor-like protein kinase",116220,"MSTRG.39211","t20","up","cysteine-rich receptor-like protein kinase","GO:0016021,GO:0005886,GO:0005524,GO:0004674,GO:0006468"
+"61",100783376,"LOC100783376","GLYMA_14G016300","zinc finger CCCH domain-containing protein 29",81050,"MSTRG.27567","t20","up","zinc finger CCCH domain-containing protein 29","GO:0046872,GO:0060255,GO:0051171,GO:0080090"
+"62",100783382,"LOC100783382","GLYMA_07G086500","kinesin-like protein KIN-13B",37502,"MSTRG.12751","t20","up","kinesin-like protein KIN-13B","GO:0005874,GO:0005524,GO:0008017,GO:0003777,GO:0007018"
+"63",100783626,"LOC100783626","GLYMA_10G116600","AP2-like ethylene-responsive transcription factor TOE3",57638,"MSTRG.19519","t20","up","AP2-like ethylene-responsive transcription factor TOE3","GO:0005634,GO:0003677,GO:0003700"
+"64",100783889,"LOC100783889","GLYMA_05G001500","uncharacterized LOC100783889",23215,"MSTRG.7906","t20","up","uncharacterized LOC100783889",NA
+"65",100784098,"LOC100784098","GLYMA_15G171000","IQ domain-containing protein IQM1",89259,"MSTRG.30323","t20","up","IQ domain-containing protein IQM1","GO:0005634"
+"66",100784166,"LOC100784166","GLYMA_02G029200","protein JINGUBANG",5944,"MSTRG.2064","t20","up","protein JINGUBANG",NA
+"67",100784249,"LOC100784249","GLYMA_13G095100","probable xyloglucan endotransglucosylase/hydrolase protein 23",74641,"MSTRG.25203","t20","up","probable xyloglucan endotransglucosylase/hydrolase protein 23",NA
+"68",100784422,"LOC100784422","GLYMA_13G087800","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 1",74483,"MSTRG.25145","t20","up","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 1","GO:0004619,GO:0006096"
+"69",100784422,"LOC100784422","GLYMA_13G087800","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 1",74481,"MSTRG.25145","t20","up","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase 1","GO:0004619,GO:0006096"
+"70",100784637,"LOC100784637","GLYMA_08G074200","J domain-containing protein",43067,"MSTRG.14668","t20","up","J domain-containing protein","GO:0009507,GO:0061077"
+"71",100784766,"LOC100784766","GLYMA_20G030600","uncharacterized LOC100784766",113868,"MSTRG.38513","t20","up","uncharacterized LOC100784766","GO:0016021"
+"72",100784859,"LOC100784859","","uncharacterized LOC100784859",5706,"MSTRG.1977","t20","up","uncharacterized LOC100784859",NA
+"73",100784908,"LOC100784908","GLYMA_11G109800","uncharacterized LOC100784908",63918,"MSTRG.21827","t20","up","uncharacterized LOC100784908","GO:0046872"
+"74",100784964,"LOC100784964","GLYMA_13G365000","uncharacterized LOC100784964",80538,"MSTRG.27365","t20","up","uncharacterized LOC100784964",NA
+"75",100784972,"LOC100784972","GLYMA_14G099200","thermospermine synthase ACAULIS5",82897,"MSTRG.28235","t20","up","thermospermine synthase ACAULIS5","GO:0010487,GO:0006596"
+"76",100785655,"LOC100785655","GLYMA_05G043900","BTB/POZ and TAZ domain-containing protein 1",24133,"MSTRG.8245","t20","up","BTB/POZ and TAZ domain-containing protein 1",NA
+"77",100786800,"LOC100786800","GLYMA_09G026900","berberine bridge enzyme-like 13",49928,"MSTRG.17011","t20","up","berberine bridge enzyme-like 13","GO:0071949,GO:0016491"
+"78",100787229,"LOC100787229","GLYMA_12G222500","CBS domain-containing protein CBSX5",72058,"MSTRG.24468","t20","up","CBS domain-containing protein CBSX5","GO:0005737,GO:0031588,GO:0005634,GO:0016208,GO:0019901,GO:0019887,GO:0042149,GO:0006468,GO:0050790"
+"79",100787267,"LOC100787267","GLYMA_06G265700","dihydroflavonol-4-reductase-like",34496,"MSTRG.11691","t20","up","dihydroflavonol-4-reductase-like","GO:0003824"
+"80",100787515,"LOC100787515","GLYMA_17G021100","uncharacterized protein At4g15545",96530,"MSTRG.32637","t20","up","uncharacterized protein At4g15545","GO:0005886"
+"81",100787739,"LOC100787739","GLYMA_04G075800","uncharacterized LOC100787739",19009,"MSTRG.6573","t20","up","uncharacterized LOC100787739",NA
+"82",100787772,"LOC100787772","GLYMA_13G219900","transcription factor TCP2",77450,"MSTRG.26220","t20","up","transcription factor TCP2","GO:0005634,GO:0003700,GO:0043565,GO:2000032"
+"83",100788062,"LOC100788062","GLYMA_10G079900","NDR1/HIN1-like protein 10",56767,"MSTRG.19337","t20","up","NDR1/HIN1-like protein 10","GO:0046658,GO:0016021,GO:0009506,GO:0098542"
+"84",100788877,"LOC100788877","GLYMA_07G249900","uncharacterized LOC100788877",40925,"MSTRG.13845","t20","up","uncharacterized LOC100788877","GO:0009507,GO:0003690,GO:0009658,GO:0032502,GO:0006353,GO:0006355"
+"85",100788917,"LOC100788917","GLYMA_09G197100","glutamate receptor 3.6",53215,"MSTRG.18048","t20","up","glutamate receptor 3.6","GO:0016021,GO:0005886,GO:0015276,GO:0038023,GO:0004930"
+"86",100789223,"LOC100789223","GLYMA_14G217900","filament-like plant protein 4",85506,"MSTRG.28953","t20","up","filament-like plant protein 4",NA
+"87",100790504,"LOC100790504","GLYMA_01G023600","kinesin-like protein KIN-14B",714,"MSTRG.300","t20","up","kinesin-like protein KIN-14B","GO:0005524,GO:0008017,GO:0003777,GO:0009904,GO:0007018"
+"88",100790989,"LOC100790989","GLYMA_15G258100","LOB domain-containing protein 4-like",91209,"MSTRG.30788","t20","up","LOB domain-containing protein 4-like",NA
+"89",100791093,"LOC100791093","GLYMA_11G239900","uncharacterized LOC100791093",66957,"MSTRG.22840","t20","up","uncharacterized LOC100791093",NA
+"90",100791253,"LOC100791253","GLYMA_18G260700","probable calcium-binding protein CML46",106884,"MSTRG.36123","t20","up","probable calcium-binding protein CML46","GO:0005509"
+"91",100791492,"LOC100791492","GLYMA_13G338300","zinc transporter 1",79956,"MSTRG.27140","t20","up","zinc transporter 1","GO:0016021,GO:0016020,GO:0005385,GO:0071577"
+"92",100792313,"LOC100792313","GLYMA_03G085500","GTP cyclohydrolase 1",13686,"MSTRG.4614","t20","up","GTP cyclohydrolase 1","GO:0005737,GO:0005525,GO:0003934,GO:0008270,GO:0035998,GO:0006729,GO:0046654"
+"93",100792511,"LOC100792511","GLYMA_04G040300","transferase family protein",18233,"MSTRG.6293","t20","up","transferase family protein","GO:0016747"
+"94",100792830,"LOC100792830","GLYMA_18G020600","uncharacterized LOC100792830",102170,"MSTRG.34636","t20","up","uncharacterized LOC100792830",NA
+"95",100792839,"LOC100792839","GLYMA_10G018000","magnesium/proton exchanger",55470,"MSTRG.18892","t20","up","magnesium/proton exchanger","GO:0016021,GO:0016020,GO:0015491,GO:0030001"
+"96",100792931,"LOC100792931","GLYMA_07G266500","scarecrow-like protein 13-like",41274,"MSTRG.13983","t20","up","scarecrow-like protein 13-like","GO:0005634,GO:0003700,GO:0043565,GO:0006355"
+"97",100792940,"LOC100792940","GLYMA_15G017000","protein NRT1/ PTR FAMILY 1.2",86099,"MSTRG.29163","t20","up","protein NRT1/ PTR FAMILY 1.2","GO:0016021,GO:0005886,GO:0022857,GO:0006857"
+"98",100793120,"LOC100793120","GLYMA_08G093200","type IV inositol polyphosphate 5-phosphatase 9",43444,"MSTRG.14806","t20","up","type IV inositol polyphosphate 5-phosphatase 9","GO:0016791,GO:0046856"
+"99",100793208,"LOC100793208","GLYMA_04G2543001, GmSHMT04n","serine hydroxymethyltransferase 7",22930,"MSTRG.7766","t20","up","serine hydroxymethyltransferase 7",NA
+"100",100793275,"LOC100793275","GLYMA_14G118200","F-box protein SKP2B-like",84190,"MSTRG.28526","t20","up","F-box protein SKP2B-like","GO:0019005,GO:0031146"
+"101",100793416,"LOC100793416","GLYMA_05G177500","probable LRR receptor-like serine/threonine-protein kinase At5g10290",27154,"MSTRG.9171","t20","up","probable LRR receptor-like serine/threonine-protein kinase At5g10290","GO:0016021,GO:0005524,GO:0004672"
+"102",100793498,"LOC100793498","GLYMA_02G264200","U-box domain-containing protein 1",10939,"MSTRG.3731","t20","up","U-box domain-containing protein 1",NA
+"103",100794206,"LOC100794206","GLYMA_17G234000","protein SOB FIVE-LIKE 5",101186,"MSTRG.34247","t20","up","protein SOB FIVE-LIKE 5","GO:0009691,GO:0009736"
+"104",100794566,"LOC100794566","GLYMA_02G275900","protein kinase superfamily protein",11156,"MSTRG.3822","t20","up","protein kinase superfamily protein","GO:0005524,GO:0106310,GO:0004674,GO:0004712,GO:0007165"
+"105",100794600,"LOC100794600","GLYMA_19G011700","alpha-dioxygenase 1",107997,"MSTRG.36524","t20","up","alpha-dioxygenase 1","GO:0020037,GO:0016702,GO:0004601,GO:0006979"
+"106",100794625,"LOC100794625","GLYMA_20G125000","uncharacterized LOC100794625",115943,"MSTRG.39108","t20","up","uncharacterized LOC100794625","GO:0016021"
+"107",100795131,"LOC100795131","GLYMA_04G078100","uncharacterized LOC100795131",19057,"MSTRG.6593","t20","up","uncharacterized LOC100795131","GO:0016021"
+"108",100795759,"LOC100795759","GLYMA_08G214600","topless-related protein 1",46034,"MSTRG.15770","t20","up","topless-related protein 1","GO:0009791,GO:0006355,GO:0048608,GO:0048367"
+"109",100795896,"LOC100795896","GLYMA_13G204400","transcription factor bHLH130",77107,"MSTRG.26093","t20","up","transcription factor bHLH130","GO:0005634,GO:0000981,GO:0046983,GO:0000978,GO:0006357"
+"110",100796491,"LOC100796491","GLYMA_02G245700","probable calcium-binding protein CML18",10587,"MSTRG.3596","t20","up","probable calcium-binding protein CML18","GO:0005509"
+"111",100796620,"LOC100796620","GLYMA_07G127800","uncharacterized LOC100796620",38376,"MSTRG.13040","t20","up","uncharacterized LOC100796620","GO:0008104,GO:0015031"
+"112",100796730,"LOC100796730","GLYMA_12G157700","polynucleotide 3'-phosphatase ZDP",70638,"MSTRG.23998","t20","up","polynucleotide 3'-phosphatase ZDP","GO:0005634,GO:0003690,GO:0046404,GO:0046403,GO:0008270,GO:0006281,GO:0046939"
+"113",100796843,"LOC100796843","GLYMA_17G093900","two-component response regulator ARR5",98090,"MSTRG.33250","t20","up","two-component response regulator ARR5","GO:0016301,GO:0000160"
+"114",100797211,"LOC100797211","GLYMA_10G204100","lysine histidine transporter-like 6",59580,"MSTRG.20152","t20","up","lysine histidine transporter-like 6","GO:0016021,GO:0005886,GO:0015293,GO:0006865,GO:0009734"
+"115",100797418,"LOC100797418","GLYMA_03G202300","BEL1-like homeodomain protein 1",16037,"MSTRG.5426","t20","up","BEL1-like homeodomain protein 1","GO:0005634,GO:0000981,GO:0000978,GO:0006357"
+"116",100797572,"LOC100797572","GLYMA_02G055500","U-box domain-containing protein 5",6525,"MSTRG.2278","t20","up","U-box domain-containing protein 5",NA
+"117",100798018,"LOC100798018","GLYMA_13G253500","transcription factor bHLH25",78147,"MSTRG.26481","t20","up","transcription factor bHLH25","GO:0005634,GO:0046983"
+"118",100798036,"LOC100798036","GLYMA_07G134500","uncharacterized LOC100798036",38515,"MSTRG.13096","t20","up","uncharacterized LOC100798036","GO:0009535,GO:0016021"
+"119",100798318,"LOC100798318","GLYMA_11G171400","asparagine synthetase [glutamine-hydrolyzing] 2",65813,"MSTRG.22481","t20","up","asparagine synthetase [glutamine-hydrolyzing] 2",NA
+"120",100798343,"LOC100798343","GLYMA_20G092900","putative nuclear envelope-associated protein",115226,"MSTRG.38838","t20","up","putative nuclear envelope-associated protein",NA
+"121",100799244,"LOC100799244","GLYMA_13G354100","auxin-responsive protein IAA26",80328,"MSTRG.27282","t20","up","auxin-responsive protein IAA26","GO:0005634,GO:0009734,GO:0006355"
+"122",100799248,"LOC100799248","GLYMA_06G289300","transcription activator GLK1-like",34843,"MSTRG.11806","t20","up","transcription activator GLK1-like","GO:0005634,GO:0003677,GO:0003700,GO:0045893"
+"123",100799411,"LOC100799411","GLYMA_13G110700","serine/threonine-protein kinase RIPK",75062,"MSTRG.25331","t20","up","serine/threonine-protein kinase RIPK","GO:0005524,GO:0004672"
+"124",100799752,"LOC100799752","GLYMA_05G094400","mitogen-activated protein kinase kinase kinase 20",25417,"MSTRG.8560","t20","up","mitogen-activated protein kinase kinase kinase 20","GO:0005524,GO:0004674"
+"125",100799838,"LOC100799838","GLYMA_17G011600","S-type anion channel SLAH4",96360,"MSTRG.32547","t20","up","S-type anion channel SLAH4","GO:0016021,GO:0005886,GO:0008308,GO:0006873"
+"126",100799947,"LOC100799947","GLYMA_06G310700","WAT1-related protein At5g07050",35229,"MSTRG.11954","t20","up","WAT1-related protein At5g07050","GO:0016021,GO:0005886,GO:0022857"
+"127",100799978,"LOC100799978","GLYMA_15G108700","5'-adenylylsulfate reductase 3, chloroplastic",88061,"MSTRG.29884","t20","up","5'-adenylylsulfate reductase 3, chloroplastic",NA
+"128",100800017,"LOC100800017","GLYMA_17G064900","probable xyloglucan endotransglucosylase/hydrolase protein 23-like",97485,"MSTRG.33021","t20","up","probable xyloglucan endotransglucosylase/hydrolase protein 23-like","GO:0048046,GO:0004553,GO:0016762,GO:0042546,GO:0071555,GO:0010411"
+"129",100800156,"LOC100800156","GLYMA_08G297100","uncharacterized LOC100800156",47852,"MSTRG.16292","t20","up","uncharacterized LOC100800156","GO:0005737,GO:0003729,GO:0003727,GO:0045182,GO:0008270,GO:2000767"
+"130",100800632,"LOC100800632","GLYMA_05G082200","probable disease resistance protein At5g66900",25219,"MSTRG.8531","t20","up","probable disease resistance protein At5g66900","GO:0043531,GO:0050832"
+"131",100800707,"LOC100800707","GLYMA_01G015000","inactive poly [ADP-ribose] polymerase RCD1",525,"MSTRG.229","t20","up","inactive poly [ADP-ribose] polymerase RCD1","GO:0003950"
+"132",100800861,"LOC100800861","GLYMA_07G072700","DEAD-box ATP-dependent RNA helicase 8",37202,"MSTRG.12648","t20","up","DEAD-box ATP-dependent RNA helicase 8","GO:0010494,GO:0000932,GO:0005524,GO:0016787,GO:0003729,GO:0003724,GO:0033962,GO:0034063"
+"133",100801250,"LOC100801250","GLYMA_01G204600","glutamate dehydrogenase 2",4463,"MSTRG.1486","t20","up","glutamate dehydrogenase 2","GO:0005739,GO:0004352,GO:0000166,GO:0006538"
+"134",100801386,"LOC100801386","GLYMA_13G355000","ABC transporter G family member 36",80350,"MSTRG.27289","t20","up","ABC transporter G family member 36","GO:0016021,GO:0005886,GO:0140359,GO:0005524"
+"135",100801386,"LOC100801386","GLYMA_13G355000","ABC transporter G family member 36",80349,"MSTRG.27289","t20","up","ABC transporter G family member 36","GO:0016021,GO:0005886,GO:0140359,GO:0005524"
+"136",100801838,"TGA05","GLYMA_03G128200, GmTGA05","bZIP transcription factor 5",14483,"MSTRG.4857","t20","up","bZIP transcription factor 5","GO:0043565,GO:0006351"
+"137",100802677,"LOC100802677","GLYMA_16G022400","calcium-binding protein KIC",92033,"MSTRG.31113","t20","up","calcium-binding protein KIC","GO:0005509"
+"138",100802764,"LOC100802764","GLYMA_11G049300","LOB domain-containing protein 38",62699,"MSTRG.21326","t20","up","LOB domain-containing protein 38","GO:0010468"
+"139",100803062,"LOC100803062","GLYMA_18G153800","uncharacterized protein At5g65660",104811,"MSTRG.35473","t20","up","uncharacterized protein At5g65660","GO:0016021"
+"140",100803643,"LOC100803643","GLYMA_04G055700","F-box/LRR-repeat protein 15",18540,"MSTRG.6407","t20","up","F-box/LRR-repeat protein 15","GO:0010252,GO:1905393"
+"141",100804903,"LOC100804903","GLYMA_05G035000","nucleobase-ascorbate transporter 6",23950,"MSTRG.8179","t20","up","nucleobase-ascorbate transporter 6","GO:0016021,GO:0022857"
+"142",100805180,"LOC100805180","GLYMA_10G284400","serine/threonine-protein kinase STY46",61275,"MSTRG.20791","t20","up","serine/threonine-protein kinase STY46","GO:0005524,GO:0004672,GO:0004674"
+"143",100805188,"LOC100805188","GLYMA_18G172600","protein SULFUR DEFICIENCY-INDUCED 1",105195,"MSTRG.35559","t20","up","protein SULFUR DEFICIENCY-INDUCED 1",NA
+"144",100805895,"LOC100805895","GLYMA_09G274000, WRKY","probable WRKY transcription factor 70-like",54752,"MSTRG.18642","t20","up","probable WRKY transcription factor 70-like","GO:0005634,GO:0003700,GO:0043565"
+"145",100805946,"LOC100805946","GLYMA_11G194900","cell division cycle protein 48 homolog",65236,"MSTRG.22316","t20","up","cell division cycle protein 48 homolog","GO:0005829,GO:0005634,GO:0034098,GO:0005524,GO:0016887,GO:0031593,GO:0097352,GO:0071712,GO:0051228,GO:0030970,GO:0030433"
+"146",100806032,"LOC100806032","GLYMA_15G092500","transcription factor TCP2",87743,"MSTRG.29755","t20","up","transcription factor TCP2","GO:0005634,GO:0003700,GO:0043565,GO:2000032"
+"147",100806690,"LOC100806690","GLYMA_06G072500","coiled-coil domain-containing protein 93",30266,"MSTRG.10324","t20","up","coiled-coil domain-containing protein 93",NA
+"148",100807214,"LOC100807214","GLYMA_05G070400","type I inositol polyphosphate 5-phosphatase 2",24741,"MSTRG.8434","t20","up","type I inositol polyphosphate 5-phosphatase 2","GO:0034485,GO:0004439,GO:0046856"
+"149",100807570,"LOC100807570","GLYMA_20G224700","transcription factor UNE12",118041,"MSTRG.39887","t20","up","transcription factor UNE12","GO:0005634,GO:0000981,GO:0046983,GO:0000978,GO:0006357"
+"150",100807677,"LOC100807677","GLYMA_18G017500","uncharacterized LOC100807677",102122,"MSTRG.34607","t20","up","uncharacterized LOC100807677",NA
+"151",100808791,"LOC100808791","GLYMA_12G042400","glucose-1-phosphate adenylyltransferase large subunit 1",68338,"MSTRG.23308","t20","up","glucose-1-phosphate adenylyltransferase large subunit 1","GO:0009507,GO:0005524,GO:0008878,GO:0005978,GO:0019252"
+"152",100809258,"LOC100809258","GLYMA_02G195400","syntaxin-121",9570,"MSTRG.3213","t20","up","syntaxin-121","GO:0012505,GO:0016021,GO:0005886,GO:0031201,GO:0005484,GO:0000149,GO:0006887,GO:0006886,GO:0048278,GO:0006906"
+"153",100809557,"LOC100809557","GLYMA_13G069800","senescence-associated carboxylesterase 101",74126,"MSTRG.25028","t20","up","senescence-associated carboxylesterase 101","GO:0005634,GO:0052689,GO:0006952,GO:0006629"
+"154",100809749,"LOC100809749","GLYMA_07G121900","putative ABC transporter C family member 15",38244,"MSTRG.12991","t20","up","putative ABC transporter C family member 15","GO:0016021,GO:0016020,GO:0140359,GO:0005524,GO:0042626,GO:0055085"
+"155",100809943,"LOC100809943","GLYMA_08G364000","T-complex protein 1 subunit zeta 1",49217,"MSTRG.16759","t20","up","T-complex protein 1 subunit zeta 1","GO:0005832,GO:0005524,GO:0016887,GO:0051082,GO:0006457"
+"156",100810127,"LOC100810127","GLYMA_08G150800","uroporphyrinogen-III C-methyltransferase",44725,"MSTRG.15289","t20","up","uroporphyrinogen-III C-methyltransferase",NA
+"157",100810277,"LOC100810277","GLYMA_07G139400","non-specific lipid transfer protein GPI-anchored 5",38617,"MSTRG.13132","t20","up","non-specific lipid transfer protein GPI-anchored 5","GO:0005504,GO:0009627"
+"158",100810449,"LOC100810449","GLYMA_07G190100","F-box protein At1g61340",39703,"MSTRG.13397","t20","up","F-box protein At1g61340",NA
+"159",100810609,"LOC100810609","GLYMA_06G067200","adenine phosphoribosyltransferase 2-like",30140,"MSTRG.10280","t20","up","adenine phosphoribosyltransferase 2-like","GO:0005737,GO:0003999,GO:0006168,GO:0044209,GO:0006166"
+"160",100811437,"LOC100811437","GLYMA_04G053300","aminopeptidase M1",18500,"MSTRG.6394","t20","up","aminopeptidase M1","GO:0043231,GO:0016020,GO:0004177,GO:0008237,GO:0008270,GO:0005737,GO:0070006,GO:0042277,GO:0043171,GO:0006508"
+"161",100811455,"LOC100811455","GLYMA_12G181100","GABA transporter 1",71276,"MSTRG.24159","t20","up","GABA transporter 1","GO:0016021,GO:0005886,GO:0015293,GO:0006865,GO:0009734"
+"162",100811514,"LOC100811514","GLYMA_14G111800","aspartate aminotransferase P2, mitochondrial",83181,"MSTRG.28301","t20","up","aspartate aminotransferase P2, mitochondrial","GO:0004069,GO:0030170,GO:0009058,GO:0006520"
+"163",100811537,"LOC100811537","GLYMA_15G200600","probable flavin-containing monooxygenase 1",89859,"MSTRG.30465","t20","up","probable flavin-containing monooxygenase 1","GO:0050660,GO:0004499,GO:0050661"
+"164",100812131,"LOC100812131","GLYMA_18G271500","receptor-like protein kinase ANXUR2",107081,"MSTRG.36201","t20","up","receptor-like protein kinase ANXUR2","GO:0005886,GO:0005524,GO:0004672,GO:0046777"
+"165",100812261,"LOC100812261","GLYMA_16G111700","glutamate receptor 3.6",93940,"MSTRG.31731","t20","up","glutamate receptor 3.6","GO:0016021,GO:0005886,GO:0015276,GO:0038023"
+"166",100812481,"LOC100812481","GLYMA_02G296600","zinc finger CCCH domain-containing protein 29",11556,"MSTRG.3979","t20","up","zinc finger CCCH domain-containing protein 29","GO:0046872,GO:0060255,GO:0051171,GO:0080090"
+"167",100812612,"LOC100812612","GLYMA_07G098500","heavy metal-associated isoprenylated plant protein 47",37727,"MSTRG.12838","t20","up","heavy metal-associated isoprenylated plant protein 47",NA
+"168",100813471,"LOC100813471","GLYMA_13G084000","putative nitrate reductase 1",74396,"MSTRG.25115","t20","up","putative nitrate reductase 1",NA
+"169",100813492,"LOC100813492","GLYMA_07G057900","jasmonoyl--L-amino acid synthetase JAR4",36900,"MSTRG.12541","t20","up","jasmonoyl--L-amino acid synthetase JAR4","GO:0005737,GO:0016881"
+"170",100813627,"LOC100813627","GLYMA_12G215000","thioredoxin-like protein CXXS1-like",71946,"MSTRG.24422","t20","up","thioredoxin-like protein CXXS1-like",NA
+"171",100813636,"LOC100813636","GLYMA_05G168400","ferredoxin-A",26998,"MSTRG.9103","t20","up","ferredoxin-A","GO:0009507,GO:0051537,GO:0009055,GO:0046872"
+"172",100813653,"LOC100813653","GLYMA_06G139300","protein RESPONSE TO LOW SULFUR 3",31765,"MSTRG.10891","t20","up","protein RESPONSE TO LOW SULFUR 3","GO:0098869"
+"173",100813901,"LOC100813901","GLYMA_09G208200","cellulose synthase-like protein D3",53437,"MSTRG.18139","t20","up","cellulose synthase-like protein D3","GO:0016021,GO:0005886,GO:0016760,GO:0051753,GO:0030244,GO:0009833"
+"174",100814253,"LOC100814253","GLYMA_01G178500","calcium uniporter protein 2, mitochondrial",3963,"MSTRG.1277","t20","up","calcium uniporter protein 2, mitochondrial","GO:0031305,GO:1990246,GO:0005262,GO:0015292,GO:0036444,GO:0051560"
+"175",100814727,"LOC100814727","GLYMA_13G344700","B-box zinc finger protein",80103,"MSTRG.27192","t20","up","B-box zinc finger protein","GO:0008270"
+"176",100815312,"LOC100815312","GLYMA_17G230600","probable protein phosphatase 2C 72",101097,"MSTRG.34209","t20","up","probable protein phosphatase 2C 72","GO:0005829,GO:0005634,GO:0016791"
+"177",100815501,"LOC100815501","GLYMA_09G209400","diacylglycerol lipase-beta",53450,"MSTRG.18146","t20","up","diacylglycerol lipase-beta","GO:0006629"
+"178",100815718,"LOC100815718","GLYMA_11G245000","ultraviolet-B receptor UVR8",67081,"MSTRG.22883","t20","up","ultraviolet-B receptor UVR8",NA
+"179",100815756,"LOC100815756","GLYMA_05G169100","11S globulin seed storage protein 1",27012,"MSTRG.9108","t20","up","11S globulin seed storage protein 1","GO:0005783,GO:0000326,GO:0045735"
+"180",100815770,"LOC100815770","GLYMA_06G075500","ubiquitin carboxyl-terminal hydrolase 26",30339,"MSTRG.10347","t20","up","ubiquitin carboxyl-terminal hydrolase 26","GO:0005634,GO:0004197,GO:0004843,GO:0016579,GO:0006511"
+"181",100816232,"LOC100816232","GLYMA_18G236700","probable polygalacturonase",106443,"MSTRG.35952","t20","up","probable polygalacturonase","GO:0004650,GO:0005975"
+"182",100817267,"LOC100817267","GLYMA_09G246600","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380",54215,"MSTRG.18423","t20","up","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380","GO:0016021,GO:0005524,GO:0004672"
+"183",100818119,"LOC100818119","GLYMA_15G115600","cytochrome b561 and DOMON domain-containing protein At5g47530",88166,"MSTRG.29940","t20","up","cytochrome b561 and DOMON domain-containing protein At5g47530","GO:0016021,GO:0046872"
+"184",100818139,"LOC100818139","GLYMA_08G017900","heavy metal-associated isoprenylated plant protein 39",41900,"MSTRG.14207","t20","up","heavy metal-associated isoprenylated plant protein 39","GO:0046872"
+"185",100818944,"LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2",116110,"MSTRG.39176","t20","up","BTB/POZ domain-containing protein NPY2","GO:0009958,GO:0016567"
+"186",100819818,"LOC100819818","GLYMA_11G178300","calmodulin-binding receptor-like cytoplasmic kinase 2",65938,"MSTRG.22508","t20","up","calmodulin-binding receptor-like cytoplasmic kinase 2","GO:0005886,GO:0005524,GO:0004674,GO:0006468"
+"187",100820369,"LOC100820369","GLYMA_04G225500","protein RESPONSE TO LOW SULFUR 3",22314,"MSTRG.7530","t20","up","protein RESPONSE TO LOW SULFUR 3","GO:0098869"
+"188",100820578,"LOC100820578","GLYMA_06G316600","E3 ubiquitin protein ligase RIN2",35359,"MSTRG.11995","t20","up","E3 ubiquitin protein ligase RIN2","GO:0016021,GO:0005886,GO:0043130,GO:0061630,GO:0034052,GO:0006511"
+"189",102660194,"LOC102660194","GLYMA_11G163100","senescence associated gene 20",65633,"MSTRG.22443","t20","up","senescence associated gene 20",NA
+"190",102660573,"LOC102660573","GLYMA_12G236500","probable disease resistance protein At1g61300",72324,"MSTRG.24566","t20","up","probable disease resistance protein At1g61300","GO:0043531,GO:0006952"
+"191",102661371,"LOC102661371","GLYMA_18G209900v4","protein LURP-one-related 15-like",105931,"MSTRG.35769","t20","up","protein LURP-one-related 15-like",NA
+"192",102662018,"LOC102662018","GLYMA_04G164300","dr1-associated corepressor homolog",20932,"MSTRG.7086","t20","up","dr1-associated corepressor homolog",NA
+"193",102662356,"LOC102662356","GLYMA_10G052800","uncharacterized LOC102662356",56274,"MSTRG.19175","t20","up","uncharacterized LOC102662356",NA
+"194",102664858,"LOC102664858","GLYMA_18G056400","senescence associated gene 20",102902,"MSTRG.34907","t20","up","senescence associated gene 20",NA
+"195",102665230,"LOC102665230","GLYMA_09G098400v4","BTB/POZ and TAZ domain-containing protein 1-like",51320,"MSTRG.17477","t20","up","BTB/POZ and TAZ domain-containing protein 1-like",NA
+"196",106794537,"LOC100809077","","uncharacterized LOC106794537",455,"MSTRG.209","t20","up",NA,NA
+"197",106795504,"LOC106795504","GLYMA_13G208700","uncharacterized LOC106795504",77186,"MSTRG.26128","t20","up","uncharacterized LOC106795504",NA
+"198",106799011,"LOC100809371","","callose synthase 10",32569,"MSTRG.11183","t20","up",NA,NA
+"199",106799532,"LOC106799532","GLYMA_08G151100","protein QUIRKY-like",44726,"MSTRG.15290","t20","up","protein QUIRKY-like",NA
+"200",112999626,"LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1",91040,"MSTRG.30735","t20","up","VQ motif-containing protein 1",NA
+"201",112999843,"LOC112999843","","small nucleolar RNA snoR145",92190,"MSTRG.31181","t20","up","small nucleolar RNA snoR145",NA
+"202",113001185,"LOC100785433","","TMV resistance protein N-like",118761,"MSTRG.40109","t20","up",NA,NA
+"203",NA,".",NA,NA,10129,"MSTRG.3407","t20","up",NA,NA
+"204",NA,".",NA,NA,112557,"MSTRG.38054","t20","up",NA,NA
+"205",NA,".",NA,NA,49841,"MSTRG.16974","t20","up",NA,NA
+"206",NA,".",NA,NA,68101,"MSTRG.23223","t20","up",NA,NA
+"207",NA,".",NA,NA,2412,"MSTRG.769","t20","up",NA,NA
+"208",NA,".",NA,NA,51753,"MSTRG.17586","t20","up",NA,NA
+"209",NA,".",NA,NA,4553,"MSTRG.1521","t20","up",NA,NA
+"210",NA,".",NA,NA,32731,"MSTRG.11240","t20","up",NA,NA
+"211",NA,".",NA,NA,8167,"MSTRG.2826","t20","up",NA,NA
+"212",NA,".",NA,NA,113819,"MSTRG.38502","t20","up",NA,NA
+"213",NA,".",NA,NA,118443,"MSTRG.40025","t20","up",NA,NA
+"214",NA,".",NA,NA,86670,"MSTRG.29368","t20","up",NA,NA
+"215",NA,".",NA,NA,51819,"MSTRG.17600","t20","up",NA,NA
+"216",NA,".",NA,NA,21488,"MSTRG.7254","t20","up",NA,NA
+"217",NA,".",NA,NA,43914,"MSTRG.14987","t20","up",NA,NA
+"218",NA,".",NA,NA,92956,"MSTRG.31488","t20","up",NA,NA
+"219",NA,".",NA,NA,84062,"MSTRG.28494","t20","up",NA,NA
+"220",NA,".",NA,NA,11154,"MSTRG.3822","t20","up",NA,NA
+"221",NA,".",NA,NA,54505,"MSTRG.18541","t20","up",NA,NA
+"222",NA,".",NA,NA,67156,"MSTRG.22913","t20","up",NA,NA
+"223",NA,".",NA,NA,79837,"MSTRG.27106","t20","up",NA,NA
+"224",NA,".",NA,NA,86206,"MSTRG.29194","t20","up",NA,NA
+"225",NA,".",NA,NA,7076,"MSTRG.2466","t20","up",NA,NA
+"226",NA,".",NA,NA,45543,"MSTRG.15587","t20","up",NA,NA
+"227",NA,".",NA,NA,118033,"MSTRG.39884","t20","up",NA,NA
+"228",NA,".",NA,NA,42777,"MSTRG.14562","t20","up",NA,NA
+"229",NA,".",NA,NA,83475,"MSTRG.28364","t20","up",NA,NA
+"230",NA,".",NA,NA,93744,"MSTRG.31682","t20","up",NA,NA
+"231",NA,".",NA,NA,61158,"MSTRG.20741","t20","up",NA,NA
+"232",NA,".",NA,NA,42491,"MSTRG.14448","t20","up",NA,NA
+"233",NA,".",NA,NA,62738,"MSTRG.21341","t20","up",NA,NA
+"234",NA,".",NA,NA,112724,"MSTRG.38122","t20","up",NA,NA
+"235",NA,".",NA,NA,41597,"MSTRG.14095","t20","up",NA,NA
+"236",NA,".",NA,NA,86207,"MSTRG.29194","t20","up",NA,NA
+"237",NA,".",NA,NA,24923,"MSTRG.8473","t20","up",NA,NA
+"238",NA,".",NA,NA,30930,"MSTRG.10569","t20","up",NA,NA
+"239",NA,".",NA,NA,118619,"MSTRG.40078","t20","up",NA,NA
+"240",NA,".",NA,NA,11725,"MSTRG.4046","t20","up",NA,NA
+"241",NA,".",NA,NA,83742,"MSTRG.28421","t20","up",NA,NA
+"242",NA,".",NA,NA,34364,"MSTRG.11665","t20","up",NA,NA
+"243",NA,".",NA,NA,116211,"MSTRG.39210","t20","up",NA,NA
+"244",NA,".",NA,NA,80763,"MSTRG.27452","t20","up",NA,NA
+"245",NA,".",NA,NA,74640,"MSTRG.25203","t20","up",NA,NA
+"246",NA,".",NA,NA,85410,"MSTRG.28904","t20","up",NA,NA
+"247",NA,".",NA,NA,5200,"MSTRG.1757","t20","up",NA,NA
+"248",NA,".",NA,NA,98147,"MSTRG.33275","t20","up",NA,NA
+"249",NA,".",NA,NA,64473,"MSTRG.22062","t20","up",NA,NA
+"250",NA,".",NA,NA,102034,"MSTRG.34572","t20","up",NA,NA
+"251",NA,".",NA,NA,113983,"MSTRG.38542","t20","up",NA,NA
+"252",NA,".",NA,NA,4807,"MSTRG.1609","t20","up",NA,NA
+"253",NA,".",NA,NA,27922,"MSTRG.9427","t20","up",NA,NA
+"254",NA,".",NA,NA,86671,"MSTRG.29368","t20","up",NA,NA
+"255",NA,".",NA,NA,36004,"MSTRG.12213","t20","up",NA,NA
+"256",NA,".",NA,NA,52656,"MSTRG.17836","t20","up",NA,NA
+"257",NA,".",NA,NA,39851,"MSTRG.13444","t20","up",NA,NA
+"258",NA,".",NA,NA,66576,"MSTRG.22686","t20","up",NA,NA
+"259",NA,".",NA,NA,82345,"MSTRG.28016","t20","up",NA,NA
+"260",NA,".",NA,NA,68677,"MSTRG.23432","t20","up",NA,NA
+"261",NA,".",NA,NA,74485,"MSTRG.25145","t20","up",NA,NA
+"262",NA,".",NA,NA,18522,"MSTRG.6402","t20","up",NA,NA
+"263",NA,".",NA,NA,86931,"MSTRG.29454","t20","up",NA,NA
+"264",NA,".",NA,NA,89763,"MSTRG.30444","t20","up",NA,NA
+"265",NA,".",NA,NA,117262,"MSTRG.39593","t20","up",NA,NA
+"266",NA,".",NA,NA,62316,"MSTRG.21183","t20","up",NA,NA
+"267",NA,".",NA,NA,40170,"MSTRG.13569","t20","up",NA,NA
+"268",NA,".",NA,NA,69100,"MSTRG.23574","t20","up",NA,NA
+"269",NA,".",NA,NA,87312,"MSTRG.29605","t20","up",NA,NA
+"270",NA,".",NA,NA,78199,"MSTRG.26504","t20","up",NA,NA
+"271",NA,".",NA,NA,39077,"MSTRG.13243","t20","up",NA,NA
+"272",NA,".",NA,NA,29414,"MSTRG.10000","t20","up",NA,NA
+"273",NA,".",NA,NA,101128,"MSTRG.34221","t20","up",NA,NA
+"274",NA,".",NA,NA,10230,"MSTRG.3451","t20","up",NA,NA
+"275",NA,".",NA,NA,61902,"MSTRG.21023","t20","up",NA,NA
+"276",NA,".",NA,NA,87009,"MSTRG.29478","t20","up",NA,NA
+"277",NA,".",NA,NA,56839,"MSTRG.19358","t20","up",NA,NA
+"278",NA,".",NA,NA,20250,"MSTRG.6935","t20","up",NA,NA
+"279",NA,".",NA,NA,41894,"MSTRG.14204","t20","up",NA,NA
+"280",NA,".",NA,NA,108140,"MSTRG.36581","t20","up",NA,NA
+"281",NA,".",NA,NA,82758,"MSTRG.28183","t20","up",NA,NA
+"282",NA,".",NA,NA,22553,"MSTRG.7619","t20","up",NA,NA
+"283",NA,".",NA,NA,67887,"MSTRG.23159","t20","up",NA,NA
+"284",NA,".",NA,NA,36611,"MSTRG.12429","t20","up",NA,NA
+"285",NA,".",NA,NA,44885,"MSTRG.15345","t20","up",NA,NA
+"286",NA,".",NA,NA,96030,"MSTRG.32423","t20","up",NA,NA
+"287",NA,".",NA,NA,32085,"MSTRG.11007","t20","up",NA,NA
+"288",NA,".",NA,NA,97340,"MSTRG.32969","t20","up",NA,NA
+"289",NA,".",NA,NA,587,"MSTRG.256","t20","up",NA,NA
+"290",NA,".",NA,NA,1467,"MSTRG.543","t20","up",NA,NA
+"291",NA,".",NA,NA,22229,"MSTRG.7496","t20","up",NA,NA
+"292",NA,".",NA,NA,11828,"MSTRG.4086","t20","up",NA,NA
+"293",NA,".",NA,NA,37837,"MSTRG.12885","t20","up",NA,NA
+"294",NA,".",NA,NA,365,"MSTRG.155","t20","up",NA,NA
+"295",NA,".",NA,NA,92958,"MSTRG.31488","t20","up",NA,NA
+"296",NA,".",NA,NA,29497,"MSTRG.10029","t20","up",NA,NA
+"297",NA,".",NA,NA,90560,"MSTRG.30621","t20","up",NA,NA
+"298",NA,".",NA,NA,111791,"MSTRG.37726","t20","up",NA,NA
+"299",NA,".",NA,NA,42261,"MSTRG.14361","t20","up",NA,NA
+"300",NA,".",NA,NA,16980,"MSTRG.5801","t20","up",NA,NA
+"301",NA,".",NA,NA,92955,"MSTRG.31488","t20","up",NA,NA
+"302",NA,".",NA,NA,30619,"MSTRG.10447","t20","up",NA,NA
+"303",NA,".",NA,NA,88929,"MSTRG.30236","t20","up",NA,NA
+"304",NA,".",NA,NA,91341,"MSTRG.30843","t20","up",NA,NA
+"305",NA,".",NA,NA,3627,"MSTRG.1132","t20","up",NA,NA
+"306",NA,".",NA,NA,96341,"MSTRG.32539","t20","up",NA,NA
+"307",NA,".",NA,NA,8523,"MSTRG.2956","t20","up",NA,NA
+"308",NA,".",NA,NA,52739,"MSTRG.17859","t20","up",NA,NA
+"309",NA,".",NA,NA,98003,"MSTRG.33218","t20","up",NA,NA
+"310",NA,".",NA,NA,82178,"MSTRG.27972","t20","up",NA,NA
+"311",NA,".",NA,NA,11662,"MSTRG.4028","t20","up",NA,NA
+"312",NA,".",NA,NA,107352,"MSTRG.36304","t20","up",NA,NA
+"313",NA,".",NA,NA,79839,"MSTRG.27106","t20","up",NA,NA
+"314",NA,".",NA,NA,67216,"MSTRG.22929","t20","up",NA,NA
+"315",NA,".",NA,NA,2694,"MSTRG.845","t20","up",NA,NA
+"316",NA,".",NA,NA,54627,"MSTRG.18595","t20","up",NA,NA
+"317",NA,".",NA,NA,34242,"MSTRG.11643","t20","up",NA,NA
+"318",NA,".",NA,NA,91821,"MSTRG.31026","t20","up",NA,NA
+"319",NA,".",NA,NA,50772,"MSTRG.17324","t20","up",NA,NA
+"320",NA,".",NA,NA,115715,"MSTRG.39039","t20","up",NA,NA
+"321",NA,".",NA,NA,93783,"MSTRG.31689","t20","up",NA,NA
+"322",NA,".",NA,NA,59680,"MSTRG.20186","t20","up",NA,NA
+"323",NA,".",NA,NA,117749,"MSTRG.39768","t20","up",NA,NA
+"324",NA,".",NA,NA,60178,"MSTRG.20370","t20","up",NA,NA
+"325",NA,".",NA,NA,84235,"MSTRG.28539","t20","up",NA,NA
+"326",NA,".",NA,NA,85053,"MSTRG.28779","t20","up",NA,NA
+"327",NA,".",NA,NA,98249,"MSTRG.33303","t20","up",NA,NA
+"328",NA,".",NA,NA,65143,"MSTRG.22283","t20","up",NA,NA
+"329",547619,"SHOOT2","GLYMA_19G190000","SHOOT2 protein",111713,"MSTRG.37698","t20","down",NA,NA
+"330",837387,"PPCK2","AT1G08650, ATPPCK1, PHOSPHOENOLPYRUVATE CARBOXYLASE KINASE, PHOSPHOENOLPYRUVATE CARBOXYLASE KINASE 1, phosphoenolpyruvate carboxylase kinase 1","phosphoenolpyruvate carboxylase kinase 1",117994,"MSTRG.39869","t20","down",NA,NA
+"331",852871,"BOR2","YGL013C, AMY1, ANT1, BOR2, CYH3, NRA2, SMR2, TIL1, TPE1, TPE3","drug-responsive transcription factor PDR1",32734,"MSTRG.11240","t20","down",NA,NA
+"332",100037478,"SACPD-C","GLYMA_14G121400, FAB2.3","stearoyl-ACP desaturase",84260,"MSTRG.28545","t20","down",NA,NA
+"333",100101876,"BZIP71","GLYMA_06G040400","transcription factor bZIP71",29611,"MSTRG.10076","t20","down",NA,NA
+"334",100305477,"LOC100305477","GLYMA_03G180700","V-type proton ATPase subunit G-like protein",15631,"MSTRG.5257","t20","down",NA,NA
+"335",100305771,"LOC100305771","GLYMA_13G301400","uncharacterized LOC100305771",79118,"MSTRG.26861","t20","down",NA,NA
+"336",100306090,"LOC100306090","GLYMA_11G098100","uncharacterized LOC100306090",63621,"MSTRG.21723","t20","down",NA,NA
+"337",100306683,"LOC100306683","GLYMA_17G117200","uncharacterized LOC100306683",98598,"MSTRG.33448","t20","down",NA,NA
+"338",100500345,"LOC100500345","GLYMA_11G235000","uncharacterized LOC100500345",66827,"MSTRG.22804","t20","down",NA,NA
+"339",100500459,"LOC100500459","GLYMA_05G068500v4","FCS-like zinc-finger domain-containing protein",24704,"MSTRG.8424","t20","down",NA,NA
+"340",100527371,"LOC100527371","GLYMA_19G213100","uncharacterized LOC100527371",112231,"MSTRG.37911","t20","down",NA,NA
+"341",100527721,"LOC100527721","GLYMA_11G060500","uncharacterized LOC100527721",62912,"MSTRG.21415","t20","down",NA,NA
+"342",100775182,"LOC100775182","GLYMA_08G004800","alcohol dehydrogenase",41598,"MSTRG.14095","t20","down",NA,NA
+"343",100775486,"LOC100775486","GLYMA_05G048500","zinc finger protein SHOOT GRAVITROPISM 5",24234,"MSTRG.8279","t20","down",NA,NA
+"344",100775553,"LOC100775553","GLYMA_08G175400","nicotianamine synthase",45226,"MSTRG.15473","t20","down",NA,NA
+"345",100776345,"LOC100776345","GLYMA_03G178000","40S ribosomal protein S23-like",15558,"MSTRG.5231","t20","down",NA,NA
+"346",100777720,"LOC100777720","GLYMA_10G057800","uncharacterized LOC100777720",56345,"MSTRG.19204","t20","down",NA,NA
+"347",100778024,"LOC100778024","GLYMA_14G096700","glutaredoxin-C6",82834,"MSTRG.28212","t20","down",NA,NA
+"348",100779051,"LOC100779051","GLYMA_05G009000","early nodulin-93",23377,"MSTRG.7963","t20","down",NA,NA
+"349",100779467,"LOC100779467","GLYMA_16G062000","kelch repeat-containing protein At3g27220",92815,"MSTRG.31444","t20","down",NA,NA
+"350",100779626,"LOC100779626","GLYMA_15G152000","ethylene-responsive transcription factor RAP2-3",88810,"MSTRG.30195","t20","down",NA,NA
+"351",100781661,"LOC100781661","GLYMA_02G287000","peroxisomal and mitochondrial division factor 2",11363,"MSTRG.3902","t20","down",NA,NA
+"352",100782328,"LOC100782328","GLYMA_15G039700","ubiquitin-conjugating enzyme E2 7",86632,"MSTRG.29351","t20","down",NA,NA
+"353",100783168,"ALMT34","GLYMA_20G216800, GmALMT34","aluminum-activated malate transporter family protein",117859,"MSTRG.39820","t20","down",NA,NA
+"354",100783654,"LOC100783654","GLYMA_03G026000","uncharacterized LOC100783654",12357,"MSTRG.4272","t20","down",NA,NA
+"355",100784666,"LOC100784666","GLYMA_01G061500","serine/threonine-protein kinase dst1",1464,"MSTRG.543","t20","down",NA,NA
+"356",100786490,"LOC100786490","GLYMA_19G046300","LOB domain-containing protein 41",108696,"MSTRG.36736","t20","down",NA,NA
+"357",100788955,"LOC100788955","GLYMA_10G295400","2-isopropylmalate synthase 2, chloroplastic",61527,"MSTRG.20891","t20","down",NA,NA
+"358",100790297,"LOC100790297","GLYMA_14G131300","glucan endo-1,3-beta-glucosidase 5",83476,"MSTRG.28364","t20","down",NA,NA
+"359",100791586,"LOC100791586","GLYMA_02G149900","RNA demethylase ALKBH10B",8538,"MSTRG.2963","t20","down",NA,NA
+"360",100792961,"LOC100792961","GLYMA_01G208600","uncharacterized LOC100792961",4548,"MSTRG.1521","t20","down",NA,NA
+"361",100794625,"LOC100794625","GLYMA_20G125000","uncharacterized LOC100794625",115944,"MSTRG.39108","t20","down","uncharacterized LOC100794625","GO:0016021"
+"362",100794816,"LOC100794816","GLYMA_05G222400","1-aminocyclopropane-1-carboxylate oxidase 1",28172,"MSTRG.9531","t20","down",NA,NA
+"363",100794894,"LOC100794894","GLYMA_09G069000","MOB kinase activator-like 1A",50770,"MSTRG.17324","t20","down",NA,NA
+"364",100796006,"LOC100796006","GLYMA_11G104500","ADP-ribosylation factor GTPase-activating protein AGD2",63799,"MSTRG.21779","t20","down",NA,NA
+"365",100796470,"LOC100796470","GLYMA_17G008400","E3 ubiquitin-protein ligase UPL5",96307,"MSTRG.32520","t20","down",NA,NA
+"366",100796676,"LOC100796676","GLYMA_10G083500","uncharacterized LOC100796676",56842,"MSTRG.19358","t20","down",NA,NA
+"367",100798019,"LOC100798019","GLYMA_06G134900","small heat shock protein, chloroplastic-like",31651,"MSTRG.10846","t20","down",NA,NA
+"368",100798340,"LOC100798340","GLYMA_12G109500","probable protein phosphatase 2C 52",69688,"MSTRG.23780","t20","down",NA,NA
+"369",100798755,"LOC100798755","GLYMA_08G182900","WAT1-related protein At1g68170",45371,"MSTRG.15536","t20","down",NA,NA
+"370",100799771,"LOC100799771","GLYMA_06G121500","transcriptional corepressor SEUSS",31354,"MSTRG.10739","t20","down",NA,NA
+"371",100800060,"LOC100800060","GLYMA_03G116200","hydroquinone glucosyltransferase",14262,"MSTRG.4781","t20","down",NA,NA
+"372",100801043,"LOC100801043","GLYMA_07G053200","serine/arginine-rich splicing factor RS31",36775,"MSTRG.12499","t20","down",NA,NA
+"373",100801545,"LOC100801545","GLYMA_05G133100","E3 ubiquitin-protein ligase UPL1",26218,"MSTRG.8805","t20","down",NA,NA
+"374",100801918,"LOC100801918","GLYMA_06G122600","alcohol dehydrogenase 1",31372,"MSTRG.10741","t20","down",NA,NA
+"375",100802677,"LOC100802677","GLYMA_16G022400","calcium-binding protein KIC",92035,"MSTRG.31113","t20","down","calcium-binding protein KIC","GO:0005509"
+"376",100803038,"LOC100803038","GLYMA_17G238200","probable isoaspartyl peptidase/L-asparaginase 2",101251,"MSTRG.34278","t20","down",NA,NA
+"377",100803056,"LOC100803056","GLYMA_10G089200","actin-related protein 7",56974,"MSTRG.19381","t20","down",NA,NA
+"378",100803278,"LOC100803278","GLYMA_11G231400","RING-H2 finger protein ATL66",66765,"MSTRG.22765","t20","down",NA,NA
+"379",100803651,"LOC100803651","GLYMA_12G195700","histone-lysine N-methyltransferase ATXR2",71614,"MSTRG.24276","t20","down",NA,NA
+"380",100803679,"LOC100803679","GLYMA_06G105900, ACCase-A","acetyl-CoA carboxylase 1",31028,"MSTRG.10608","t20","down",NA,NA
+"381",100803911,"LOC100803911","GLYMA_01G103500","auxin response factor 9",2415,"MSTRG.769","t20","down",NA,NA
+"382",100807188,"LOC100807188","GLYMA_12G061400","ATP-dependent zinc metalloprotease FTSH 10, mitochondrial",68727,"MSTRG.23449","t20","down",NA,NA
+"383",100807247,"LOC100807247","GLYMA_07G257700","stem-specific protein TSJT1",41088,"MSTRG.13908","t20","down",NA,NA
+"384",100807371,"LOC100807371","GLYMA_12G029900","uncharacterized LOC100807371",68102,"MSTRG.23223","t20","down",NA,NA
+"385",100808320,"LOC100808320","GLYMA_07G021300","uncharacterized LOC100808320",36094,"MSTRG.12247","t20","down",NA,NA
+"386",100808961,"LOC100808961","GLYMA_04G189600","serine/threonine-protein kinase AFC2",21496,"MSTRG.7254","t20","down",NA,NA
+"387",100809325,"LOC100809325","GLYMA_20G012000","tRNase Z TRZ1",113512,"MSTRG.38402","t20","down",NA,NA
+"388",100809811,"LOC100809811","GLYMA_18G011100","E3 ubiquitin-protein ligase AIRP2",101986,"MSTRG.34555","t20","down",NA,NA
+"389",100810689,"LOC100810689","GLYMA_17G083200","H/ACA ribonucleoprotein complex subunit 2-like protein",97862,"MSTRG.33165","t20","down",NA,NA
+"390",100811105,"LOC100811105","GLYMA_19G231600","protein SREK1IP1",112599,"MSTRG.38068","t20","down",NA,NA
+"391",100811997,"LOC100811997","GLYMA_20G098400","calreticulin",115359,"MSTRG.38890","t20","down",NA,NA
+"392",100812234,"LOC100812234","GLYMA_07G270900","START domain-containing protein 10",41413,"MSTRG.14026","t20","down",NA,NA
+"393",100813230,"LOC100813230","GLYMA_10G067000","dehydration-responsive element-binding protein 1B",56556,"MSTRG.19267","t20","down",NA,NA
+"394",100815403,"LOC100815403","GLYMA_12G200800","uncharacterized LOC100815403",71694,"MSTRG.24308","t20","down",NA,NA
+"395",100816661,"LOC100816661","GLYMA_13G149700","putative mediator of RNA polymerase II transcription subunit 26",75933,"MSTRG.25655","t20","down",NA,NA
+"396",100817130,"LOC100817130","GLYMA_18G132500","probable inactive purple acid phosphatase 1",104355,"MSTRG.35358","t20","down",NA,NA
+"397",100820292,"LOC100820292","GLYMA_17G117100","early nodulin-93-like",98595,"MSTRG.33446","t20","down",NA,NA
+"398",102577934,"C4H1","","cinnamate 4-hydroxylase CYP73",115685,"MSTRG.39030","t20","down",NA,NA
+"399",102663438,"LOC102663438","GLYMA_07G040000","uncharacterized LOC102663438",36514,"MSTRG.12390","t20","down",NA,NA
+"400",102665617,"LOC102665617","GLYMA_11G022400","brassinosteroid-responsive RING protein 1",62129,"MSTRG.21114","t20","down",NA,NA
+"401",102666841,"LOC100777575","","cyprosin-like",109546,"MSTRG.36922","t20","down",NA,NA
+"402",106799481,"LOC106799481","","uncharacterized LOC106799481",40046,"MSTRG.13519","t20","down",NA,NA
+"403",111138523,"LOC111138523","GLYMA_13G115900","RING/U-box superfamily protein",75178,"MSTRG.25378","t20","down",NA,NA
+"404",112935895,"LOC112935895","GLYMA_11G250400v4","REF/SRPP-like protein",67217,"MSTRG.22929","t20","down",NA,NA
+"405",112999750,"IF7GT3","GLYMA_16G175200, GmIF7GT3","isoflavone 7-O-glucosyltransferase UGT3",95210,"MSTRG.32138","t20","down",NA,NA
+"406",121174643,"LOC121174643","","receptor-like serine/threonine-protein kinase At2g45590",12248,"MSTRG.4233","t20","down",NA,NA
+"407",NA,".",NA,NA,14531,"MSTRG.4886","t20","down",NA,NA
+"408",NA,".",NA,NA,41307,"MSTRG.13996","t20","down",NA,NA
+"409",NA,".",NA,NA,43457,"MSTRG.14812","t20","down",NA,NA
+"410",NA,".",NA,NA,26710,"MSTRG.8985","t20","down",NA,NA
+"411",NA,".",NA,NA,28775,"MSTRG.9753","t20","down",NA,NA
+"412",NA,".",NA,NA,99506,"MSTRG.33812","t20","down",NA,NA
+"413",NA,".",NA,NA,118978,"MSTRG.40165","t20","down",NA,NA
+"414",NA,".",NA,NA,85515,"MSTRG.28955","t20","down",NA,NA
+"415",NA,".",NA,NA,8807,"MSTRG.3043","t20","down",NA,NA
+"416",NA,".",NA,NA,63065,"MSTRG.21475","t20","down",NA,NA
+"417",NA,".",NA,NA,21495,"MSTRG.7254","t20","down",NA,NA
+"418",NA,".",NA,NA,95939,"MSTRG.32397","t20","down",NA,NA
+"419",NA,".",NA,NA,4031,"MSTRG.1309","t20","down",NA,NA
+"420",NA,".",NA,NA,80329,"MSTRG.27282","t20","down",NA,NA
+"421",NA,".",NA,NA,48169,"MSTRG.16404","t20","down",NA,NA
+"422",NA,".",NA,NA,58358,"MSTRG.19716","t20","down",NA,NA
+"423",NA,".",NA,NA,107732,"MSTRG.36435","t20","down",NA,NA
+"424",NA,".",NA,NA,77704,"MSTRG.26312","t20","down",NA,NA
+"425",NA,".",NA,NA,98426,"MSTRG.33380","t20","down",NA,NA
+"426",NA,".",NA,NA,37091,"MSTRG.12607","t20","down",NA,NA
+"427",NA,".",NA,NA,49437,"MSTRG.16829","t20","down",NA,NA
+"428",NA,".",NA,NA,96800,"MSTRG.32753","t20","down",NA,NA
+"429",NA,".",NA,NA,15136,"MSTRG.5082","t20","down",NA,NA
+"430",NA,".",NA,NA,28772,"MSTRG.9753","t20","down",NA,NA
+"431",NA,".",NA,NA,73913,"MSTRG.24941","t20","down",NA,NA
+"432",NA,".",NA,NA,112529,"MSTRG.38044","t20","down",NA,NA
+"433",NA,".",NA,NA,107859,"MSTRG.36473","t20","down",NA,NA
+"434",NA,".",NA,NA,54506,"MSTRG.18541","t20","down",NA,NA
+"435",NA,".",NA,NA,118612,"MSTRG.40078","t20","down",NA,NA
+"436",NA,".",NA,NA,54597,"MSTRG.18580","t20","down",NA,NA
+"437",NA,".",NA,NA,50078,"MSTRG.17062","t20","down",NA,NA
+"438",NA,".",NA,NA,24420,"MSTRG.8345","t20","down",NA,NA
+"439",NA,".",NA,NA,17643,"MSTRG.6048","t20","down",NA,NA
+"440",NA,".",NA,NA,47689,"MSTRG.16245","t20","down",NA,NA
+"441",NA,".",NA,NA,97707,"MSTRG.33106","t20","down",NA,NA
+"442",NA,".",NA,NA,71333,"MSTRG.24183","t20","down",NA,NA
+"443",NA,".",NA,NA,110373,"MSTRG.37208","t20","down",NA,NA
+"444",NA,".",NA,NA,25263,"MSTRG.8540","t20","down",NA,NA
+"445",NA,".",NA,NA,99083,"MSTRG.33651","t20","down",NA,NA
+"446",NA,".",NA,NA,108120,"MSTRG.36577","t20","down",NA,NA
+"447",NA,".",NA,NA,5932,"MSTRG.2061","t20","down",NA,NA
+"448",NA,".",NA,NA,101959,"MSTRG.34542","t20","down",NA,NA
+"449",NA,".",NA,NA,43192,"MSTRG.14717","t20","down",NA,NA
+"450",NA,".",NA,NA,118157,"MSTRG.39922","t20","down",NA,NA
+"451",NA,".",NA,NA,105475,"MSTRG.35640","t20","down",NA,NA
+"452",7157,"ACS","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53",41901,"MSTRG.14208","t40","up",NA,NA
+"453",7157,"SIK1","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53",7470,"MSTRG.2595","t40","up",NA,NA
+"454",7316,"ACS1","HMG20","ubiquitin C",27958,"MSTRG.9439","t40","up",NA,NA
+"455",8877,"SPK-1","SPHK","sphingosine kinase 1",4455,"MSTRG.1481","t40","up",NA,NA
+"456",11920,"G6PDH","C030026E19Rik","ataxia telangiectasia mutated",109509,"MSTRG.36908","t40","up",NA,NA
+"457",41275,"41275","Dmel_CG14688, CG14688, Dmel\CG14688, PHYH, PHYHD1","Phytanoyl-CoA dioxygenase domain containing 1",102605,"MSTRG.34808","t40","up",NA,NA
+"458",547622,"DREB1-like","GLYMA_09G147200, CBF, DREB1","CRT binding factor 1",52262,"MSTRG.17706","t40","up",NA,NA
+"459",547668,"LOC547668","GLYMA_15G042000, NDX1","nodulin homeobox",86696,"MSTRG.29373","t40","up",NA,NA
+"460",547794,"LOC547794","GLYMA_13G333100, GmTIP1;6, TIP1-6","nodulin-26",79835,"MSTRG.27105","t40","up",NA,NA
+"461",732593,"LOC732593","GLYMA_06G321600","FAD-linked oxidoreductase 2",35462,"MSTRG.12036","t40","up",NA,NA
+"462",778182,"LOC778182","GLYMA_03G227700, MYB160","transcription factor MYB86",16551,"MSTRG.5643","t40","up",NA,NA
+"463",817097,"matR","AT2G25580, F3N11.3, F3N11_3, mitochondrial editing factor 8","Tetratricopeptide repeat (TPR)-like superfamily protein",23154,"MSTRG.7827","t40","up",NA,NA
+"464",818429,"WRKY12","AT2G38470, ATWRKY33, T19C21.4, T19C21_4, WRKY DNA-BINDING PROTEIN 33, WRKY DNA-binding protein 33","WRKY DNA-binding protein 33",4916,"MSTRG.1650","t40","up",NA,NA
+"465",826796,"CRK39","AT4G11890, ABA- AND  OSMOTIC-STRESS-INDUCIBLE RECEPTOR-LIKE CYTOSOLIC KINASE1, CRK45, T26M18.100, T26M18_100, cysteine-rich receptor-like protein kinase 45","Protein kinase superfamily protein",66258,"MSTRG.22577","t40","up",NA,NA
+"466",835318,"CRK42","AT5G52420, K24M7.17, K24M7_17","uncharacterized protein",76819,"MSTRG.25984","t40","up",NA,NA
+"467",840119,"SYP24","AT1G32270, F27G20.2, SYNTAXIN 24, SYP24","syntaxin",111928,"MSTRG.37788","t40","up",NA,NA
+"468",842733,"WRKY62","AT1G64280, ARABIDOPSIS NONEXPRESSER OF PR GENES 1, ATNPR1, F15H21.6, F15H21_6, NIM1, NON-INDUCIBLE IMMUNITY 1, NONEXPRESSER OF PR GENES 1, REGULATORY PROTEIN NPR1, SAI1, SALICYLIC ACID INSENSITIVE 1","regulatory protein (NPR1)",102905,"MSTRG.34909","t40","up",NA,NA
+"469",851752,"HIR3","YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36","translation termination factor GTPase eRF3",23845,"MSTRG.8138","t40","up",NA,NA
+"470",4344063,"HSF-19","OSNPB_070640900, HSF12, HSF19, HSFB4B, OJ1340_C08.141-1, OJ1340_C08.141-2, OsHSF12, OsHsf-19, rHsf12","heat stress transcription factor B-4b-like",60327,"MSTRG.20418","t40","up",NA,NA
+"471",100233234,"LOC100233234","GLYMA_10G180600, GmCRY2a1, GmCRY2a2","cryptochrome 2",59091,"MSTRG.19975","t40","up",NA,NA
+"472",100301877,"NFR5A","GLYMA_11G063100","Nod factor receptor protein 5A",62967,"MSTRG.21438","t40","up",NA,NA
+"473",100301906,"NAC11","GLYMA_19G108800, GmNAC181","transcriptional factor NAC11",110014,"MSTRG.37066","t40","up",NA,NA
+"474",100305387,"LOC100305387","GLYMA_13G054300","FERONIA receptor-like kinase",73841,"MSTRG.24907","t40","up",NA,NA
+"475",100305418,"LOC100305418","GLYMA_12G002400","cytokinin-regulated kinase",67475,"MSTRG.23006","t40","up","cytokinin-regulated kinase","GO:0016021,GO:0005524,GO:0042803,GO:0004674"
+"476",100305727,"LOC100305727","GLYMA_02G212100","uncharacterized LOC100305727",9912,"MSTRG.3338","t40","up",NA,NA
+"477",100305807,"LOC100305807","GLYMA_11G105800","uncharacterized LOC100305807",63831,"MSTRG.21792","t40","up",NA,NA
+"478",100306014,"LOC100306014","GLYMA_12G024100","uncharacterized LOC100306014",67934,"MSTRG.23178","t40","up",NA,NA
+"479",100306576,"LOC100306576","GLYMA_11G236500","uncharacterized LOC100306576",66880,"MSTRG.22815","t40","up","uncharacterized LOC100306576",NA
+"480",100306610,"LOC100306610","GLYMA_07G139300","uncharacterized LOC100306610",38616,"MSTRG.13131","t40","up",NA,NA
+"481",100499858,"LOC100499858","GLYMA_13G286600","uncharacterized LOC100499858",78846,"MSTRG.26740","t40","up",NA,NA
+"482",100500122,"LOC100500122","GLYMA_02G282400","reticulon-like protein B8",11279,"MSTRG.3876","t40","up",NA,NA
+"483",100500381,"LOC100500381","GLYMA_06G100900","uncharacterized LOC100500381",30916,"MSTRG.10564","t40","up",NA,NA
+"484",100500517,"LOC100500517","GLYMA_02G092500","CASP-like protein 12",7278,"MSTRG.2536","t40","up",NA,NA
+"485",100500550,"LOC100500550","GLYMA_03G246800","uncharacterized LOC100500550",16973,"MSTRG.5798","t40","up",NA,NA
+"486",100526874,"LOC100526874","GLYMA_13G133100","C2H2-type zinc finger protein",75554,"MSTRG.25512","t40","up",NA,NA
+"487",100526897,"LOC100526897","GLYMA_03G173300","C2H2-type zinc finger protein",15465,"MSTRG.5200","t40","up",NA,NA
+"488",100527088,"LOC100527088","GLYMA_03G040900","putative LURP-one-related protein",12674,"MSTRG.4368","t40","up",NA,NA
+"489",100527108,"LOC100527108","GLYMA_15G228500","uncharacterized LOC100527108",90531,"MSTRG.30619","t40","up",NA,NA
+"490",100527307,"LOC100527307","GLYMA_07G243900","SRPBCC domain-containing protein",40797,"MSTRG.13802","t40","up",NA,NA
+"491",100527399,"LOC100527399","GLYMA_08G032800","uncharacterized LOC100527399",42218,"MSTRG.14340","t40","up",NA,NA
+"492",100527485,"LOC100527485","GLYMA_11G119900","BURP domain-containing protein",64106,"MSTRG.21909","t40","up",NA,NA
+"493",100527593,"LOC100527593","GLYMA_17G113000","putative stellacyanin",98531,"MSTRG.33412","t40","up",NA,NA
+"494",100527629,"LOC100527629","GLYMA_04G021600","putative expansin",17865,"MSTRG.6134","t40","up",NA,NA
+"495",100775768,"LOC100775768","GLYMA_10G066000","serine/threonine-protein kinase CTR1",56530,"MSTRG.19259","t40","up",NA,NA
+"496",100776165,"LOC100776165","GLYMA_11G193600","probable xyloglucan endotransglucosylase/hydrolase protein 32-like",65203,"MSTRG.22301","t40","up",NA,NA
+"497",100776413,"LOC100776413","GLYMA_13G331400","probable NOT transcription complex subunit VIP2",79796,"MSTRG.27091","t40","up",NA,NA
+"498",100776419,"LOC100776419","GLYMA_06G107800, GmSHMT06n","serine hydroxymethyltransferase 7",31067,"MSTRG.10621","t40","up",NA,NA
+"499",100776430,"LOC100776430","GLYMA_07G195300","stem-specific protein TSJT1",39816,"MSTRG.13431","t40","up",NA,NA
+"500",100776582,"LOC100776582","GLYMA_13G346700","endochitinase PR4",80154,"MSTRG.27212","t40","up",NA,NA
+"501",100776660,"LOC100776660","GLYMA_10G115300","cytochrome P450 71D8-like",57617,"MSTRG.19510","t40","up",NA,NA
+"502",100777197,"LOC100777197","GLYMA_10G115500","cytochrome P450 71D8-like",57619,"MSTRG.19512","t40","up",NA,NA
+"503",100777818,"LOC100777818","GLYMA_06G128700","calcineurin B-like protein 4",31512,"MSTRG.10798","t40","up","calcineurin B-like protein 4","GO:0005509"
+"504",100778084,"LOC100778084","GLYMA_10G070200v4, C4DT","glycinol 4-dimethylallyltransferase-like",56623,"MSTRG.19288","t40","up",NA,NA
+"505",100778239,"LOC100778239","GLYMA_01G048400","ribonuclease 3",1219,"MSTRG.478","t40","up",NA,NA
+"506",100778278,"LOC100778278","GLYMA_18G301600","uncharacterized protein At2g33490",107694,"MSTRG.36425","t40","up",NA,NA
+"507",100778656,"LOC100778656","GLYMA_11G039000","NAD-capped RNA hydrolase DXO1",62492,"MSTRG.21236","t40","up",NA,NA
+"508",100778890,"LOC100778890","GLYMA_06G188900","HIPL1 protein",32869,"MSTRG.11298","t40","up",NA,NA
+"509",100779180,"LOC100779180","GLYMA_11G069600","laccase-11",63088,"MSTRG.21481","t40","up","laccase-11","GO:0048046,GO:0005507,GO:0052716,GO:0016491,GO:0046274"
+"510",100779395,"LOC100779395","GLYMA_05G124800","berberine bridge enzyme-like 28",26071,"MSTRG.8741","t40","up",NA,NA
+"511",100779437,"LOC100779437","GLYMA_07G102400","protein C2-DOMAIN ABA-RELATED 4",37808,"MSTRG.12875","t40","up","protein C2-DOMAIN ABA-RELATED 4","GO:0005634,GO:0005886,GO:0009738"
+"512",100779499,"LOC100779499","GLYMA_09G023600, GmHD-ZIPIII-5","homeobox-leucine zipper protein ATHB-14-like",49864,"MSTRG.16984","t40","up",NA,NA
+"513",100779570,"LOC100779570","GLYMA_12G154400","cytochrome c oxidase copper chaperone 1",70518,"MSTRG.23983","t40","up",NA,NA
+"514",100779571,"LOC100779571","GLYMA_20G119100","probable protein phosphatase 2C 15",115793,"MSTRG.39060","t40","up",NA,NA
+"515",100779615,"LOC100779615","GLYMA_07G233900","pleiotropic drug resistance protein 3",40617,"MSTRG.13723","t40","up",NA,NA
+"516",100779987,"LOC100779987","GLYMA_07G103000, AT1G18270","uncharacterized LOC100779987",37823,"MSTRG.12881","t40","up",NA,NA
+"517",100780084,"LOC100780084","GLYMA_19G016100","probable galacturonosyltransferase-like 10",108063,"MSTRG.36555","t40","up",NA,NA
+"518",100780503,"LOC100780503","GLYMA_07G103700","NDR1/HIN1-like protein 10",37842,"MSTRG.12889","t40","up",NA,NA
+"519",100780528,"LOC100780528","GLYMA_16G058300","DNA replication complex GINS protein PSF2",92739,"MSTRG.31418","t40","up",NA,NA
+"520",100780563,"LOC100780563","GLYMA_17G110300","xylogalacturonan beta-1,3-xylosyltransferase",98464,"MSTRG.33389","t40","up",NA,NA
+"521",100780567,"LOC100780567","GLYMA_09G099900","probable LRR receptor-like serine/threonine-protein kinase At1g56130",51366,"MSTRG.17491","t40","up",NA,NA
+"522",100780940,"LOC100780940","GLYMA_02G088700","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 1.4",7180,"MSTRG.2507","t40","up",NA,NA
+"523",100781212,"LOC100781212","GLYMA_13G363000","acyl-protein thioesterase 2",80507,"MSTRG.27346","t40","up",NA,NA
+"524",100781718,"LOC100781718","GLYMA_04G240100","WAT1-related protein At5g40210",22670,"MSTRG.7658","t40","up",NA,NA
+"525",100781890,"LOC100781890","GLYMA_20G059100","OBERON-like protein",114464,"MSTRG.38638","t40","up",NA,NA
+"526",100782473,"LOC100782473","GLYMA_07G204800","phospholipase A1-IIgamma",40006,"MSTRG.13503","t40","up",NA,NA
+"527",100782572,"LOC100782572","GLYMA_03G187900","probable 2-oxoglutarate-dependent dioxygenase SLC1",15746,"MSTRG.5301","t40","up",NA,NA
+"528",100782663,"LOC100782663","GLYMA_14G208000","NDR1/HIN1-like protein 6",85311,"MSTRG.28870","t40","up",NA,NA
+"529",100782693,"LOC100782693","GLYMA_16G063500","F-box/kelch-repeat protein At3g23880",92845,"MSTRG.31456","t40","up",NA,NA
+"530",100782800,"CRK71","GLYMA_20G138100, GmCRK71","cysteine-rich receptor-like protein kinase",116220,"MSTRG.39211","t40","up","cysteine-rich receptor-like protein kinase","GO:0016021,GO:0005886,GO:0005524,GO:0004674,GO:0006468"
+"531",100782929,"LOC100782929","GLYMA_10G232800","mitogen-activated protein kinase kinase kinase YODA",60209,"MSTRG.20383","t40","up",NA,NA
+"532",100783199,"LOC100783199","GLYMA_06G063700","zinc finger protein 1",30080,"MSTRG.10249","t40","up",NA,NA
+"533",100783677,"LOC100783677","","extensin-2-like",64350,"MSTRG.22007","t40","up",NA,NA
+"534",100783801,"LOC100783801","GLYMA_10G140200","putative expansin-A17",58170,"MSTRG.19646","t40","up",NA,NA
+"535",100783849,"LOC100783849","GLYMA_19G202900","probable carboxylesterase 15",112024,"MSTRG.37818","t40","up",NA,NA
+"536",100784098,"LOC100784098","GLYMA_15G171000","IQ domain-containing protein IQM1",89259,"MSTRG.30323","t40","up","IQ domain-containing protein IQM1","GO:0005634"
+"537",100784113,"LOC100784113","GLYMA_16G122700","aspartyl protease family protein",94177,"MSTRG.31780","t40","up",NA,NA
+"538",100784124,"LOC100784124","GLYMA_08G180400","high affinity sulfate transporter 2",45324,"MSTRG.15511","t40","up",NA,NA
+"539",100784249,"LOC100784249","GLYMA_13G095100","probable xyloglucan endotransglucosylase/hydrolase protein 23",74641,"MSTRG.25203","t40","up","probable xyloglucan endotransglucosylase/hydrolase protein 23",NA
+"540",100784278,"LOC100784278","GLYMA_07G103900","NDR1/HIN1-like protein 10",37848,"MSTRG.12894","t40","up",NA,NA
+"541",100784827,"LOC100784827","GLYMA_08G194600","ABC transporter C family member 8",45656,"MSTRG.15627","t40","up",NA,NA
+"542",100784831,"LOC100784831","GLYMA_16G064100","MDIS1-interacting receptor like kinase 2",92853,"MSTRG.31460","t40","up",NA,NA
+"543",100784908,"LOC100784908","GLYMA_11G109800","uncharacterized LOC100784908",63918,"MSTRG.21827","t40","up","uncharacterized LOC100784908","GO:0046872"
+"544",100784982,"LOC100784982","GLYMA_14G130000","molybdate transporter 1",83452,"MSTRG.28356","t40","up",NA,NA
+"545",100785028,"LOC100785028","GLYMA_09G087400","probable inositol transporter 2",51113,"MSTRG.17419","t40","up",NA,NA
+"546",100785143,"LOC100785143","GLYMA_14G218100","cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG1-like",85516,"MSTRG.28955","t40","up",NA,NA
+"547",100785248,"LOC100785248","GLYMA_03G149200","sugar transporter ERD6-like 7",14976,"MSTRG.5018","t40","up",NA,NA
+"548",100785345,"LOC100785345","GLYMA_15G021900","LRR receptor-like serine/threonine-protein kinase IOS1",86210,"MSTRG.29198","t40","up",NA,NA
+"549",100785391,"LOC100785391","GLYMA_02G204700","serine carboxypeptidase 24",9742,"MSTRG.3283","t40","up",NA,NA
+"550",100785662,"LOC100785662","GLYMA_06G302700","peroxidase 3",118823,"MSTRG.40136","t40","up",NA,NA
+"551",100785752,"LOC100785752","GLYMA_02G237300","probable LRR receptor-like serine/threonine-protein kinase At1g06840",10399,"MSTRG.3521","t40","up",NA,NA
+"552",100785788,"LOC100785788","GLYMA_03G024500","ruBisCO-associated protein",12325,"MSTRG.4260","t40","up",NA,NA
+"553",100785963,"LOC100785963","GLYMA_19G065800","putative aminoacrylate hydrolase RutD",109177,"MSTRG.36841","t40","up",NA,NA
+"554",100786002,"LOC100786002","GLYMA_05G156500","uncharacterized LOC100786002",26768,"MSTRG.9011","t40","up",NA,NA
+"555",100786017,"LOC100786017","GLYMA_13G263800","protein SRG1",78353,"MSTRG.26562","t40","up",NA,NA
+"556",100786257,"LOC100786257","GLYMA_09G203500","phosphoenolpyruvate carboxykinase (ATP) 1",53335,"MSTRG.18094","t40","up",NA,NA
+"557",100787073,"LOC100787073","GLYMA_13G106400","peroxidase N-like",74936,"MSTRG.25299","t40","up",NA,NA
+"558",100787174,"LOC100787174","GLYMA_18G171400","E3 ubiquitin-protein ligase PRT1",105176,"MSTRG.35553","t40","up",NA,NA
+"559",100787211,"LOC100787211","GLYMA_11G029700v4","uncharacterized LOC100787211",62273,"MSTRG.21167","t40","up",NA,NA
+"560",100787246,"PT11C","GLYMA_11G210500, GmPT11c","prenyltransferase family protein PT11c",76048,"MSTRG.25693","t40","up",NA,NA
+"561",100787396,"LOC100787396","GLYMA_19G222900","putative expansin-A17",112414,"MSTRG.37996","t40","up",NA,NA
+"562",100787405,"LOC100787405","GLYMA_11G004800","sugar transport protein 13",61702,"MSTRG.20962","t40","up",NA,NA
+"563",100787465,"LOC100787465","GLYMA_15G008900","probable polygalacturonase At1g80170",85909,"MSTRG.29085","t40","up",NA,NA
+"564",100787531,"LOC100787531","GLYMA_10G079700","NDR1/HIN1-like protein 10",56765,"MSTRG.19336","t40","up",NA,NA
+"565",100787601,"LOC100787601","GLYMA_05G175800","uncharacterized LOC100787601",27122,"MSTRG.9157","t40","up",NA,NA
+"566",100787718,"LOC100787718","GLYMA_18G026900","putative serine/threonine-protein kinase-like protein CCR3",102289,"MSTRG.34690","t40","up",NA,NA
+"567",100788062,"LOC100788062","GLYMA_10G079900","NDR1/HIN1-like protein 10",56767,"MSTRG.19337","t40","up","NDR1/HIN1-like protein 10","GO:0046658,GO:0016021,GO:0009506,GO:0098542"
+"568",100788151,"LOC100788151","GLYMA_06G175100","leucine-rich repeat receptor-like serine/threonine/tyrosine-protein kinase SOBIR1",32594,"MSTRG.11193","t40","up",NA,NA
+"569",100788442,"LOC100788442","GLYMA_03G024566v4","ruBisCO-associated protein-like",12327,"MSTRG.4263","t40","up",NA,NA
+"570",100788567,"LOC100788567","GLYMA_01G231000","ethylene-responsive transcription factor ERF022",5068,"MSTRG.1707","t40","up",NA,NA
+"571",100788976,"LOC100788976","GLYMA_19G224600","transcription factor MYB61",112445,"MSTRG.38012","t40","up",NA,NA
+"572",100789009,"LOC100789009","GLYMA_20G186200","AP2/ERF and B3 domain-containing transcription repressor RAV2",117255,"MSTRG.39591","t40","up",NA,NA
+"573",100789081,"LOC100789081","GLYMA_08G003700","uncharacterized acetyltransferase At3g50280",41571,"MSTRG.14083","t40","up",NA,NA
+"574",100789148,"LOC100789148","GLYMA_03G084200","membrane protein of ER body 2",13664,"MSTRG.4612","t40","up",NA,NA
+"575",100789312,"LOC100789312","GLYMA_10G265100","uncharacterized LOC100789312",60848,"MSTRG.20634","t40","up",NA,NA
+"576",100789537,"LOC100789537","GLYMA_20G186500","transcription factor HHO3",117260,"MSTRG.39593","t40","up",NA,NA
+"577",100789630,"LOC100789630","GLYMA_09G163900","kunitz trypsin inhibitor 5",52540,"MSTRG.17799","t40","up",NA,NA
+"578",100790182,"LOC100790182","GLYMA_02G242900","U-box domain-containing protein 21",10532,"MSTRG.3571","t40","up",NA,NA
+"579",100790279,"LOC100790279","GLYMA_06G145300","peroxidase 52-like",31913,"MSTRG.10945","t40","up",NA,NA
+"580",100790322,"LOC100790322","GLYMA_16G220500","thioredoxin H9",96041,"MSTRG.32427","t40","up",NA,NA
+"581",100790891,"LOC100790891","GLYMA_18G118300","uncharacterized LOC100790891",104040,"MSTRG.35287","t40","up",NA,NA
+"582",100790964,"LOC100790964","GLYMA_13G033900","rust resistance kinase Lr10",73314,"MSTRG.24761","t40","up",NA,NA
+"583",100791015,"LOC100791015","GLYMA_01G019200","phosphoenolpyruvate carboxykinase (ATP) 1",622,"MSTRG.266","t40","up",NA,NA
+"584",100791152,"LOC100791152","GLYMA_06G215600","probable receptor-like protein kinase At5g20050",33443,"MSTRG.11458","t40","up",NA,NA
+"585",100791196,"LOC100791196","GLYMA_16G161100","UPF0481 protein At3g47200",94951,"MSTRG.32043","t40","up",NA,NA
+"586",100791196,"LOC100791196","GLYMA_16G161100","UPF0481 protein At3g47200",94950,"MSTRG.32043","t40","up",NA,NA
+"587",100791341,"LOC100791341","GLYMA_14G102700","chorismate mutase 2",82954,"MSTRG.28254","t40","up",NA,NA
+"588",100791666,"LOC100791666","GLYMA_05G209100","uncharacterized LOC100791666",27881,"MSTRG.9419","t40","up",NA,NA
+"589",100791945,"LOC100791945","GLYMA_18G096700","uncharacterized LOC100791945",103617,"MSTRG.35178","t40","up",NA,NA
+"590",100792035,"LOC100792035","GLYMA_07G083700","bark storage protein A",37442,"MSTRG.12725","t40","up",NA,NA
+"591",100792313,"LOC100792313","GLYMA_03G085500","GTP cyclohydrolase 1",13686,"MSTRG.4614","t40","up","GTP cyclohydrolase 1","GO:0005737,GO:0005525,GO:0003934,GO:0008270,GO:0035998,GO:0006729,GO:0046654"
+"592",100792365,"LOC100792365","GLYMA_05G032700","histone-lysine N-methyltransferase SETD1A",23913,"MSTRG.8166","t40","up",NA,NA
+"593",100792833,"LOC100792833","GLYMA_18G208800","probable WRKY transcription factor 33",105907,"MSTRG.35761","t40","up",NA,NA
+"594",100792870,"LOC100792870","GLYMA_12G053900","cyanogenic beta-glucosidase",68584,"MSTRG.23399","t40","up",NA,NA
+"595",100792931,"LOC100792931","GLYMA_07G266500","scarecrow-like protein 13-like",41274,"MSTRG.13983","t40","up","scarecrow-like protein 13-like","GO:0005634,GO:0003700,GO:0043565,GO:0006355"
+"596",100793120,"LOC100793120","GLYMA_08G093200","type IV inositol polyphosphate 5-phosphatase 9",43445,"MSTRG.14806","t40","up","type IV inositol polyphosphate 5-phosphatase 9","GO:0016791,GO:0046856"
+"597",100793189,"CRK41","GLYMA_11G207500, GmCRK41","cysteine-rich receptor-like protein kinase",66284,"MSTRG.22584","t40","up",NA,NA
+"598",100793208,"LOC100793208","GLYMA_04G2543001, GmSHMT04n","serine hydroxymethyltransferase 7",22930,"MSTRG.7766","t40","up","serine hydroxymethyltransferase 7",NA
+"599",100793498,"LOC100793498","GLYMA_02G264200","U-box domain-containing protein 1",10939,"MSTRG.3731","t40","up","U-box domain-containing protein 1",NA
+"600",100793554,"LOC100793554","GLYMA_04G184000","boron transporter 1",21354,"MSTRG.7206","t40","up",NA,NA
+"601",100793598,"LOC100793598","GLYMA_06G102000","protein PHOSPHATE-INDUCED 1",30941,"MSTRG.10572","t40","up",NA,NA
+"602",100793934,"LOC100793934","GLYMA_12G023300","L-ascorbate oxidase homolog",67917,"MSTRG.23173","t40","up",NA,NA
+"603",100794151,"LOC100794151","GLYMA_08G027000","lupeol synthase",42101,"MSTRG.14288","t40","up",NA,NA
+"604",100794374,"LOC100794374","GLYMA_09G238100","amino acid transporter AVT1I",54037,"MSTRG.18360","t40","up",NA,NA
+"605",100794703,"LOC100794703","GLYMA_08G094400","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 1.2",43469,"MSTRG.14816","t40","up",NA,NA
+"606",100795427,"LOC100795427","GLYMA_09G168600","probable cyclic nucleotide-gated ion channel 20, chloroplastic",52632,"MSTRG.17828","t40","up",NA,NA
+"607",100795681,"LOC100795681","GLYMA_20G125500","uncharacterized LOC100795681",115952,"MSTRG.39112","t40","up",NA,NA
+"608",100795719,"LOC100795719","GLYMA_06G024000","protein PSK SIMULATOR 2",29269,"MSTRG.9946","t40","up",NA,NA
+"609",100795828,"LOC100795828","GLYMA_10G045200","zinc finger protein ZAT11",56030,"MSTRG.19107","t40","up",NA,NA
+"610",100795896,"LOC100795896","GLYMA_13G204400","transcription factor bHLH130",77107,"MSTRG.26093","t40","up","transcription factor bHLH130","GO:0005634,GO:0000981,GO:0046983,GO:0000978,GO:0006357"
+"611",100795913,"LOC100795913","GLYMA_14G212200","U-box domain-containing protein 20",85408,"MSTRG.28903","t40","up",NA,NA
+"612",100795948,"LOC100795948","GLYMA_17G058100","uncharacterized LOC100795948",97341,"MSTRG.32969","t40","up",NA,NA
+"613",100795950,"LOC100795950","GLYMA_09G266000","subtilisin-like protease SBT4.14",54582,"MSTRG.18573","t40","up",NA,NA
+"614",100796453,"LOC100796453","GLYMA_15G109500","probable F-box protein At4g22030",88072,"MSTRG.29887","t40","up",NA,NA
+"615",100796496,"LOC100796496","GLYMA_02G306200","scarecrow-like transcription factor PAT1",11738,"MSTRG.4049","t40","up",NA,NA
+"616",100796623,"ANN11","GLYMA_15G238400","annexin D4-like",90779,"MSTRG.30685","t40","up",NA,NA
+"617",100797018,"LOC100797018","GLYMA_02G148200","probable aspartic proteinase GIP2",8508,"MSTRG.2953","t40","up",NA,NA
+"618",100797211,"LOC100797211","GLYMA_10G204100","lysine histidine transporter-like 6",59580,"MSTRG.20152","t40","up","lysine histidine transporter-like 6","GO:0016021,GO:0005886,GO:0015293,GO:0006865,GO:0009734"
+"619",100797371,"LOC100797371","GLYMA_09G048900","isoflavone 2'-hydroxylase",50345,"MSTRG.17176","t40","up",NA,NA
+"620",100797561,"LOC100797561","GLYMA_02G024200","uncharacterized LOC100797561",5849,"MSTRG.2030","t40","up",NA,NA
+"621",100797583,"LOC100797583","GLYMA_18G210500","alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial",105949,"MSTRG.35772","t40","up",NA,NA
+"622",100797784,"LOC100797784","GLYMA_19G255300","cyclic nucleotide-gated ion channel 1",113082,"MSTRG.38259","t40","up",NA,NA
+"623",100798009,"LOC100798009","GLYMA_13G272100","sodium/calcium exchanger NCL2",78524,"MSTRG.26630","t40","up",NA,NA
+"624",100798011,"LOC100798011","GLYMA_05G110600","transcription factor bHLH18",25804,"MSTRG.8656","t40","up",NA,NA
+"625",100798343,"LOC100798343","GLYMA_20G092900","putative nuclear envelope-associated protein",115226,"MSTRG.38838","t40","up","putative nuclear envelope-associated protein",NA
+"626",100798520,"LOC100798520","GLYMA_12G030700","chaperone protein dnaJ 11-like protein",68128,"MSTRG.23231","t40","up",NA,NA
+"627",100798636,"LOC100798636","GLYMA_18G287700","heat shock cognate 70 kDa protein 2",107422,"MSTRG.36332","t40","up",NA,NA
+"628",100798683,"LOC100798683","GLYMA_12G218100","exosome complex exonuclease RRP44 homolog A",72001,"MSTRG.24443","t40","up",NA,NA
+"629",100798963,"LOC100798963","GLYMA_01G007500","receptor-like protein kinase HSL1",377,"MSTRG.163","t40","up",NA,NA
+"630",100799023,"LOC100799023","GLYMA_11G159021v4","UPF0496 protein 4",64746,"MSTRG.22158","t40","up",NA,NA
+"631",100799162,"LOC100799162","GLYMA_18G211000","cationic peroxidase 1",105953,"MSTRG.35775","t40","up",NA,NA
+"632",100799350,"LOC100799350","GLYMA_03G005000","ELMO domain-containing protein A",11957,"MSTRG.4135","t40","up",NA,NA
+"633",100799496,"LOC100799496","GLYMA_09G004800","probable F-box protein At4g22030",49448,"MSTRG.16833","t40","up",NA,NA
+"634",100799729,"LOC100799729","GLYMA_04G186300","short-chain dehydrogenase TIC 32, chloroplastic",21403,"MSTRG.7225","t40","up",NA,NA
+"635",100799752,"LOC100799752","GLYMA_05G094400","mitogen-activated protein kinase kinase kinase 20",25417,"MSTRG.8560","t40","up","mitogen-activated protein kinase kinase kinase 20","GO:0005524,GO:0004674"
+"636",100799780,"LOC100799780","GLYMA_13G053800","receptor-like protein kinase FERONIA",73834,"MSTRG.24902","t40","up",NA,NA
+"637",100799835,"LOC100799835","GLYMA_17G244200","patatin-like protein 2",101352,"MSTRG.34320","t40","up",NA,NA
+"638",100800042,"LOC100800042","GLYMA_10G119300","cucumisin",57696,"MSTRG.19534","t40","up",NA,NA
+"639",100800078,"LOC100800078","GLYMA_11G230300","putative serine/threonine-protein kinase-like protein CCR3",66742,"MSTRG.22753","t40","up",NA,NA
+"640",100800451,"LOC100800451","GLYMA_20G144600","linoleate 9S-lipoxygenase 5",116364,"MSTRG.39261","t40","up",NA,NA
+"641",100800966,"LOC100800966","GLYMA_11G214500","U-box domain-containing protein",66406,"MSTRG.22622","t40","up",NA,NA
+"642",100801021,"LOC100801021","GLYMA_06G087700","protein SAWADEE HOMEODOMAIN HOMOLOG 2",30608,"MSTRG.10446","t40","up",NA,NA
+"643",100801122,"LOC100801122","GLYMA_03G114700","UPF0481 protein At3g47200",14239,"MSTRG.4773","t40","up",NA,NA
+"644",100801328,"LOC100801328","GLYMA_04G096300","GATA transcription factor 24",19471,"MSTRG.6745","t40","up",NA,NA
+"645",100801372,"LOC100801372","GLYMA_13G364700","probable polygalacturonase At3g15720",80532,"MSTRG.27362","t40","up",NA,NA
+"646",100801386,"LOC100801386","GLYMA_13G355000","ABC transporter G family member 36",80350,"MSTRG.27289","t40","up","ABC transporter G family member 36","GO:0016021,GO:0005886,GO:0140359,GO:0005524"
+"647",100801736,"LOC100801736","GLYMA_06G238400","protein RICE SALT SENSITIVE 3",33953,"MSTRG.11578","t40","up",NA,NA
+"648",100801760,"LOC100801760","GLYMA_07G036700","protein BIG GRAIN 1-like B",36456,"MSTRG.12361","t40","up",NA,NA
+"649",100802020,"LOC100802020","GLYMA_18G294300","putative glutamine amidotransferase GAT1_2.1",107553,"MSTRG.36377","t40","up",NA,NA
+"650",100802508,"LOC100802508","GLYMA_09G072000","ethylene-responsive transcription factor ERF017",50833,"MSTRG.17343","t40","up",NA,NA
+"651",100802708,"LOC100802708","","protein ALP1-like",50701,"MSTRG.17303","t40","up",NA,NA
+"652",100802991,"LOC100802991","GLYMA_07G270300","uncharacterized LOC100802991",41386,"MSTRG.14018","t40","up",NA,NA
+"653",100803092,"LOC100803092","GLYMA_19G020700","aldose 1-epimerase-like",108192,"MSTRG.36591","t40","up",NA,NA
+"654",100803784,"LOC100803784","GLYMA_18G021700","protein NRT1/ PTR FAMILY 5.1",102203,"MSTRG.34646","t40","up",NA,NA
+"655",100803799,"LOC100803799","GLYMA_03G025200","ruBisCO-associated protein",12332,"MSTRG.4266","t40","up",NA,NA
+"656",100803806,"LOC100803806","GLYMA_11G137100","pumilio homolog 2",64421,"MSTRG.22036","t40","up",NA,NA
+"657",100804277,"LOC100804277","","protein ALP1-like",97220,"MSTRG.32927","t40","up",NA,NA
+"658",100804630,"LOC100804630","GLYMA_17G141000","uncharacterized LOC100804630",99067,"MSTRG.33642","t40","up",NA,NA
+"659",100804712,"LOC100804712","GLYMA_12G100400","vascular-related unknown protein 1",69517,"MSTRG.23723","t40","up",NA,NA
+"660",100805036,"LOC100805036","GLYMA_03G054100v4","disease resistance protein RPV1-like",12929,"MSTRG.4434","t40","up",NA,NA
+"661",100805188,"LOC100805188","GLYMA_18G172600","protein SULFUR DEFICIENCY-INDUCED 1",105195,"MSTRG.35559","t40","up","protein SULFUR DEFICIENCY-INDUCED 1",NA
+"662",100805331,"LOC100805331","GLYMA_08G100400","phospholipase A1-Igamma1, chloroplastic",43586,"MSTRG.14861","t40","up",NA,NA
+"663",100805529,"LOC100805529","GLYMA_09G210600","disease resistance protein RPM1",53470,"MSTRG.18155","t40","up",NA,NA
+"664",100805697,"LOC100805697","GLYMA_09G073200","respiratory burst oxidase homolog protein E",50852,"MSTRG.17351","t40","up",NA,NA
+"665",100805807,"LOC100805807","GLYMA_06G106700","uncharacterized LOC100805807",31046,"MSTRG.10612","t40","up",NA,NA
+"666",100805858,"LOC100805858","GLYMA_16G130900","probable serine protease EDA2-like",94354,"MSTRG.31829","t40","up",NA,NA
+"667",100806077,"LOC100806077","GLYMA_02G059700","lysM domain receptor-like kinase 4",6610,"MSTRG.2306","t40","up",NA,NA
+"668",100806204,"LOC100806204","GLYMA_15G052000","high affinity sulfate transporter 2",86932,"MSTRG.29454","t40","up",NA,NA
+"669",100806458,"LOC100806458","GLYMA_03G120000","alpha-L-arabinofuranosidase 1",14337,"MSTRG.4803","t40","up",NA,NA
+"670",100806530,"LOC100806530","GLYMA_06G310100","probable carboxylesterase 15",35217,"MSTRG.11946","t40","up",NA,NA
+"671",100806595,"LOC100806595","GLYMA_02G151700","peroxidase 3",8570,"MSTRG.2979","t40","up",NA,NA
+"672",100806690,"LOC100806690","GLYMA_06G072500","coiled-coil domain-containing protein 93",30266,"MSTRG.10324","t40","up","coiled-coil domain-containing protein 93",NA
+"673",100806797,"LOC100806797","GLYMA_03G1577002","calcium-transporting ATPase 12, plasma membrane-type",15125,"MSTRG.5075","t40","up",NA,NA
+"674",100806805,"LOC100806805","GLYMA_03G016300","BON1-associated protein 2",12161,"MSTRG.4205","t40","up",NA,NA
+"675",100807221,"LOC100807221","GLYMA_13G208000","probable aspartic proteinase GIP2",77174,"MSTRG.26121","t40","up",NA,NA
+"676",100807334,"LOC100807334","GLYMA_03G016400","uncharacterized LOC100807334",12162,"MSTRG.4206","t40","up",NA,NA
+"677",100807819,"LOC100807819","GLYMA_09G049200","isoflavone 2'-hydroxylase",50350,"MSTRG.17179","t40","up",NA,NA
+"678",100807943,"LOC100807943","GLYMA_06G294100","protein ACCELERATED CELL DEATH 6",34925,"MSTRG.11836","t40","up",NA,NA
+"679",100808550,"LOC100808550","GLYMA_17G011700","probable F-box protein At4g22030",96361,"MSTRG.32548","t40","up",NA,NA
+"680",100808584,"LOC100808584","GLYMA_18G266900","probable endo-1,3(4)-beta-glucanase ARB_01444",106996,"MSTRG.36166","t40","up",NA,NA
+"681",100808692,"LOC100808692","GLYMA_08G169451v4","transcription factor JUNGBRUNNEN 1",45080,"MSTRG.15418","t40","up",NA,NA
+"682",100809088,"LOC100809088","","probable F-box protein At4g22030",96362,"MSTRG.32549","t40","up",NA,NA
+"683",100809369,"LOC100809369","GLYMA_06G026100","uncharacterized LOC100809369",29314,"MSTRG.9966","t40","up",NA,NA
+"684",100809413,"LOC100809413","GLYMA_16G085900","disease resistance protein RPV1",93315,"MSTRG.31595","t40","up",NA,NA
+"685",100809509,"LOC100809509","GLYMA_19G081200","MDIS1-interacting receptor like kinase 2",109460,"MSTRG.36901","t40","up",NA,NA
+"686",100809588,"LOC100809588","GLYMA_15G072200","putative serine/threonine-protein kinase",87352,"MSTRG.29619","t40","up",NA,NA
+"687",100809839,"LOC100809839","GLYMA_19G199300","E3 ubiquitin-protein ligase PUB22",111939,"MSTRG.37793","t40","up",NA,NA
+"688",100809924,"LOC100809924","GLYMA_15G078600","glutaredoxin-C9",87498,"MSTRG.29673","t40","up",NA,NA
+"689",100810158,"LOC100810158","GLYMA_01G012800","uncharacterized LOC100810158",482,"MSTRG.213","t40","up",NA,NA
+"690",100810503,"LOC100810503","GLYMA_17G180500","L-ascorbate oxidase homolog",99937,"MSTRG.33935","t40","up",NA,NA
+"691",100810579,"LOC100810579","GLYMA_12G075200","exocyst complex component EXO70H1",69025,"MSTRG.23547","t40","up",NA,NA
+"692",100810725,"LOC100810725","GLYMA_18G249100","PRA1 family protein F2-like",106679,"MSTRG.36052","t40","up",NA,NA
+"693",100810910,"LOC100810910","GLYMA_04G100300","protein PHOSPHATE-INDUCED 1",19567,"MSTRG.6772","t40","up",NA,NA
+"694",100811355,"LOC100811355","GLYMA_08G301600","uncharacterized LOC100811355",47939,"MSTRG.16318","t40","up",NA,NA
+"695",100811437,"LOC100811437","GLYMA_04G053300","aminopeptidase M1",18500,"MSTRG.6394","t40","up","aminopeptidase M1","GO:0043231,GO:0016020,GO:0004177,GO:0008237,GO:0008270,GO:0005737,GO:0070006,GO:0042277,GO:0043171,GO:0006508"
+"696",100811511,"LOC100811511","GLYMA_14G190700","calmodulin-binding receptor-like cytoplasmic kinase 2",84973,"MSTRG.28746","t40","up",NA,NA
+"697",100811587,"LOC100811587","GLYMA_02G086100","RNA-dependent RNA polymerase 1",7129,"MSTRG.2495","t40","up",NA,NA
+"698",100811876,"LOC100811876","GLYMA_15G219400","nuclear-pore anchor",90331,"MSTRG.30571","t40","up",NA,NA
+"699",100811928,"LOC100811928","GLYMA_02G026700","paired amphipathic helix protein Sin3-like 4",5895,"MSTRG.2051","t40","up",NA,NA
+"700",100811928,"LOC100811928","GLYMA_02G026700","paired amphipathic helix protein Sin3-like 4",5896,"MSTRG.2051","t40","up",NA,NA
+"701",100811969,"LOC100811969","GLYMA_19G200200","E3 ubiquitin-protein ligase PUB22",111956,"MSTRG.37800","t40","up",NA,NA
+"702",100811980,"LOC100811980","GLYMA_04G190400","leucine-rich repeat receptor-like serine/threonine/tyrosine-protein kinase SOBIR1",21512,"MSTRG.7261","t40","up",NA,NA
+"703",100812261,"LOC100812261","GLYMA_16G111700","glutamate receptor 3.6",93940,"MSTRG.31731","t40","up","glutamate receptor 3.6","GO:0016021,GO:0005886,GO:0015276,GO:0038023"
+"704",100812510,"LOC100812510","GLYMA_11G001200","leucine-rich repeat protein 2",61629,"MSTRG.20935","t40","up",NA,NA
+"705",100812586,"LOC100812586","GLYMA_13G067900","probable galacturonosyltransferase-like 10",74100,"MSTRG.25013","t40","up",NA,NA
+"706",100813304,"LOC100813304","GLYMA_13G102200","probable serine/threonine-protein kinase PIX13",74835,"MSTRG.25268","t40","up",NA,NA
+"707",100813434,"LOC100813434","GLYMA_20G089100","putative expansin-A17",115139,"MSTRG.38804","t40","up",NA,NA
+"708",100813457,"LOC100813457","GLYMA_05G185500","neutral/alkaline invertase 3, chloroplastic",27318,"MSTRG.9235","t40","up",NA,NA
+"709",100813636,"LOC100813636","GLYMA_05G168400","ferredoxin-A",26998,"MSTRG.9103","t40","up","ferredoxin-A","GO:0009507,GO:0051537,GO:0009055,GO:0046872"
+"710",100813697,"LOC100799113","","uncharacterized LOC100813697",93019,"MSTRG.31501","t40","up",NA,NA
+"711",100813697,"LOC100799113","","uncharacterized LOC100813697",93020,"MSTRG.31501","t40","up",NA,NA
+"712",100814085,"LOC100814085","GLYMA_17G242000","serine/threonine-protein kinase tricornered",101311,"MSTRG.34305","t40","up",NA,NA
+"713",100814180,"LOC100814180","GLYMA_13G302601v4","coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 2-like",79133,"MSTRG.26869","t40","up",NA,NA
+"714",100814612,"LOC100814612","GLYMA_17G257200","cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG1-like",101618,"MSTRG.34426","t40","up",NA,NA
+"715",100814739,"LOC100814739","GLYMA_14G031300","BTB/POZ domain and ankyrin repeat-containing protein NPR1",81352,"MSTRG.27681","t40","up",NA,NA
+"716",100815336,"LOC100815336","GLYMA_02G268200","1-aminocyclopropane-1-carboxylate oxidase-like",11013,"MSTRG.3754","t40","up",NA,NA
+"717",100815486,"LOC100815486","GLYMA_16G033900","TMV resistance protein N",92260,"MSTRG.31211","t40","up",NA,NA
+"718",100815756,"LOC100815756","GLYMA_05G169100","11S globulin seed storage protein 1",27012,"MSTRG.9108","t40","up","11S globulin seed storage protein 1","GO:0005783,GO:0000326,GO:0045735"
+"719",100815760,"LOC100815760","GLYMA_05G215900","probable WRKY transcription factor 41",28023,"MSTRG.9470","t40","up",NA,NA
+"720",100815815,"LOC100815815","GLYMA_08G086100","protein CHROMATIN REMODELING 4",43295,"MSTRG.14749","t40","up",NA,NA
+"721",100816220,"LOC100816220","GLYMA_10G240200","transcription factor TCP19",60370,"MSTRG.20435","t40","up",NA,NA
+"722",100816285,"LOC100816285","GLYMA_05G237100","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 2.5",28521,"MSTRG.9657","t40","up",NA,NA
+"723",100817267,"LOC100817267","GLYMA_09G246600","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380",54215,"MSTRG.18423","t40","up","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380","GO:0016021,GO:0005524,GO:0004672"
+"724",100817285,"LOC100817285","GLYMA_02G063900","MLO-like protein 12",6717,"MSTRG.2333","t40","up",NA,NA
+"725",100817389,"LOC100816849","","cellulose synthase-like protein E2-like",80988,"MSTRG.27547","t40","up",NA,NA
+"726",100817623,"LOC100817623","GLYMA_09G172100","U-box domain-containing protein 21",52710,"MSTRG.17849","t40","up",NA,NA
+"727",100817780,"LOC100817780","GLYMA_01G002100","auxin response factor 19",254,"MSTRG.113","t40","up",NA,NA
+"728",100818203,"LOC100818203","GLYMA_18G110200","aspartyl protease family protein 2",103882,"MSTRG.35247","t40","up",NA,NA
+"729",100818282,"FWL2","GmFWL2","protein FW2.2-like 2",40154,"MSTRG.13562","t40","up",NA,NA
+"730",100818475,"LOC100818475","GLYMA_15G266400","LRR receptor-like serine/threonine-protein kinase IOS1",91334,"MSTRG.30840","t40","up",NA,NA
+"731",100818724,"LOC100818724","GLYMA_10G176500","isoflavone-7-O-methyltransferase 9",59018,"MSTRG.19939","t40","up",NA,NA
+"732",100818944,"LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2",116110,"MSTRG.39176","t40","up","BTB/POZ domain-containing protein NPY2","GO:0009958,GO:0016567"
+"733",100819184,"LOC100819184","GLYMA_14G048900","1-aminocyclopropane-1-carboxylate oxidase-like",81674,"MSTRG.27815","t40","up",NA,NA
+"734",100819209,"LOC100819209","GLYMA_08G062700","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380",42840,"MSTRG.14584","t40","up",NA,NA
+"735",100819225,"LOC100819225","GLYMA_09G134900","silicon efflux transporter LSI3",52023,"MSTRG.17656","t40","up",NA,NA
+"736",100819364,"LOC100819364","GLYMA_07G045600","1-phosphatidylinositol-3-phosphate 5-kinase FAB1B",36619,"MSTRG.12433","t40","up",NA,NA
+"737",100819379,"LOC100819379","GLYMA_16G012500","GDSL esterase/lipase 5",91831,"MSTRG.31030","t40","up",NA,NA
+"738",100819543,"LOC100819543","GLYMA_15G099700","LEC14B homolog",87903,"MSTRG.29808","t40","up",NA,NA
+"739",100819812,"LOC100819812","","uncharacterized LOC100819812",63046,"MSTRG.21467","t40","up",NA,NA
+"740",100819866,"LOC100819866","GLYMA_13G037000","uncharacterized LOC100819866",73426,"MSTRG.24784","t40","up",NA,NA
+"741",100820209,"LOC100820209","GLYMA_05G123000","probable WRKY transcription factor 9",26048,"MSTRG.8732","t40","up",NA,NA
+"742",100820356,"LOC100820356","GLYMA_11G244000","E3 ubiquitin-protein ligase RGLG5",67062,"MSTRG.22874","t40","up",NA,NA
+"743",100820369,"LOC100820369","GLYMA_04G225500","protein RESPONSE TO LOW SULFUR 3",22314,"MSTRG.7530","t40","up","protein RESPONSE TO LOW SULFUR 3","GO:0098869"
+"744",100820497,"LOC100820497","GLYMA_18G201850v4","probable 2-oxoglutarate-dependent dioxygenase At5g05600",105761,"MSTRG.35716","t40","up",NA,NA
+"745",102659758,"LOC102659758","GLYMA_06G046800","uncharacterized LOC102659758",29714,"MSTRG.10117","t40","up",NA,NA
+"746",102659833,"LOC102659833","GLYMA_15G257600","1-aminocyclopropane-1-carboxylate oxidase homolog 1",91201,"MSTRG.30787","t40","up",NA,NA
+"747",102660238,"LOC102660238","GLYMA_17G155300","uncharacterized LOC102660238",99353,"MSTRG.33763","t40","up",NA,NA
+"748",102660244,"LOC102660244","GLYMA_06G294400","protein ACCELERATED CELL DEATH 6",34931,"MSTRG.11837","t40","up",NA,NA
+"749",102660301,"LOC102660301","GLYMA_02G252500","uncharacterized LOC102660301",10717,"MSTRG.3642","t40","up",NA,NA
+"750",102660467,"LOC102660467","GLYMA_14G118500","uncharacterized LOC102660467",84202,"MSTRG.28530","t40","up",NA,NA
+"751",102660925,"LOC102660925","GLYMA_13G005100","VQ motif-containing protein 22",72767,"MSTRG.24667","t40","up",NA,NA
+"752",102661371,"LOC102661371","GLYMA_18G209900v4","protein LURP-one-related 15-like",105931,"MSTRG.35769","t40","up","protein LURP-one-related 15-like",NA
+"753",102662076,"LOC102662076","GLYMA_03G032300","putative cysteine-rich receptor-like protein kinase 35",12517,"MSTRG.4308","t40","up",NA,NA
+"754",102662104,"LOC102662104","GLYMA_13G033200","rust resistance kinase Lr10",73305,"MSTRG.24754","t40","up",NA,NA
+"755",102664858,"LOC102664858","GLYMA_18G056400","senescence associated gene 20",102902,"MSTRG.34907","t40","up","senescence associated gene 20",NA
+"756",102665310,"LOC102665310","GLYMA_02G083500v4","extensin-like",7086,"MSTRG.2473","t40","up",NA,NA
+"757",102665380,"LOC100802692","","probable serine/threonine-protein kinase At1g18390",52914,"MSTRG.17931","t40","up",NA,NA
+"758",102665971,"LOC102665971","GLYMA_01G011800","uncharacterized LOC102665971",446,"MSTRG.205","t40","up",NA,NA
+"759",102666115,"LOC102666115","GLYMA_20G064500","VQ motif-containing protein 22",114620,"MSTRG.38672","t40","up",NA,NA
+"760",102666149,"LOC102666149","GLYMA_02G043500","F-box protein At2g26160",6294,"MSTRG.2188","t40","up",NA,NA
+"761",102667089,"LOC102667089","","uncharacterized LOC102667089",103138,"MSTRG.34993","t40","up",NA,NA
+"762",102667104,"LOC102667104","GLYMA_08G018300","probable WRKY transcription factor 29",41906,"MSTRG.14211","t40","up",NA,NA
+"763",102667868,"LOC102667868","GLYMA_08G351800","1-aminocyclopropane-1-carboxylate oxidase homolog 12",48981,"MSTRG.16677","t40","up",NA,NA
+"764",102668575,"LOC102668575","","uncharacterized LOC102668575",47061,"MSTRG.16096","t40","up",NA,NA
+"765",102669056,"LOC102669056","GLYMA_01G145200","uncharacterized LOC102669056",3258,"MSTRG.1003","t40","up",NA,NA
+"766",102669093,"LOC102669093","GLYMA_06G200600","exocyst complex component EXO70B1",33121,"MSTRG.11372","t40","up",NA,NA
+"767",102669340,"LOC100792603","","toll/interleukin-1 receptor-like protein",52496,"MSTRG.17791","t40","up",NA,NA
+"768",102669549,"LOC102669549","GLYMA_02G298100","heavy metal-associated isoprenylated plant protein 47",11582,"MSTRG.3991","t40","up",NA,NA
+"769",102670105,"LOC102670105","GLYMA_05G215700","uncharacterized LOC102670105",28019,"MSTRG.9468","t40","up",NA,NA
+"770",106794104,"LOC106794104","GLYMA_09G281800","isoliquiritigenin 2'-O-methyltransferase",54948,"MSTRG.18700","t40","up",NA,NA
+"771",106794901,"LOC106794901","GLYMA_10G115200","cytochrome P450 71D8-like",57616,"MSTRG.19509","t40","up",NA,NA
+"772",106797139,"LOC106797139","GLYMA_18G270700","receptor-like protein kinase FERONIA",107070,"MSTRG.36197","t40","up",NA,NA
+"773",111240476,"LOC111240476","GLYMA_04G136200","putative calcium-binding protein",20296,"MSTRG.6949","t40","up",NA,NA
+"774",112997608,"LOC112997608","","cysteine-rich receptor-like protein kinase 2",102710,"MSTRG.34841","t40","up",NA,NA
+"775",112998383,"LOC112998383","","putative calcium-binding protein CML19",65535,"MSTRG.22415","t40","up",NA,NA
+"776",112999065,"LOC112999065","","18S ribosomal RNA",119229,"MSTRG.40363","t40","up",NA,NA
+"777",112999210,"LOC112999106","","28S ribosomal RNA",119094,"MSTRG.40278","t40","up",NA,NA
+"778",112999626,"LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1",91040,"MSTRG.30735","t40","up","VQ motif-containing protein 1",NA
+"779",112999843,"LOC112999843","","small nucleolar RNA snoR145",92190,"MSTRG.31181","t40","up","small nucleolar RNA snoR145",NA
+"780",113000773,"LOC113000773","","putative receptor-like protein kinase At4g00960",116244,"MSTRG.39215","t40","up",NA,NA
+"781",113001461,"LOC113001461","GLYMA_04G228900","uncharacterized LOC113001461",22371,"MSTRG.7559","t40","up",NA,NA
+"782",113664110,"IDL2A","GLYMA_01G090400v4, GmIDL2A","IDA-like protein",2110,"MSTRG.708","t40","up",NA,NA
+"783",121173010,"LOC121173010","GLYMA_11G178501v4","uncharacterized LOC121173010",65910,"MSTRG.22502","t40","up",NA,NA
+"784",NA,".",NA,NA,107723,"MSTRG.36432","t40","up",NA,NA
+"785",NA,".",NA,NA,58219,"MSTRG.19664","t40","up",NA,NA
+"786",NA,".",NA,NA,80743,"MSTRG.27449","t40","up",NA,NA
+"787",NA,".",NA,NA,54076,"MSTRG.18374","t40","up",NA,NA
+"788",NA,".",NA,NA,94812,"MSTRG.31989","t40","up",NA,NA
+"789",NA,".",NA,NA,68389,"MSTRG.23331","t40","up",NA,NA
+"790",NA,".",NA,NA,74485,"MSTRG.25145","t40","up",NA,NA
+"791",NA,".",NA,NA,26621,"MSTRG.8951","t40","up",NA,NA
+"792",NA,".",NA,NA,68392,"MSTRG.23331","t40","up",NA,NA
+"793",NA,".",NA,NA,26568,"MSTRG.8931","t40","up",NA,NA
+"794",NA,".",NA,NA,93157,"MSTRG.31558","t40","up",NA,NA
+"795",NA,".",NA,NA,107555,"MSTRG.36377","t40","up",NA,NA
+"796",NA,".",NA,NA,118756,"MSTRG.40109","t40","up",NA,NA
+"797",NA,".",NA,NA,16498,"MSTRG.5619","t40","up",NA,NA
+"798",NA,".",NA,NA,98092,"MSTRG.33250","t40","up",NA,NA
+"799",NA,".",NA,NA,49758,"MSTRG.16947","t40","up",NA,NA
+"800",NA,".",NA,NA,78272,"MSTRG.26528","t40","up",NA,NA
+"801",NA,".",NA,NA,68724,"MSTRG.23448","t40","up",NA,NA
+"802",NA,".",NA,NA,86095,"MSTRG.29161","t40","up",NA,NA
+"803",NA,".",NA,NA,95268,"MSTRG.32158","t40","up",NA,NA
+"804",NA,".",NA,NA,98466,"MSTRG.33389","t40","up",NA,NA
+"805",NA,".",NA,NA,78199,"MSTRG.26504","t40","up",NA,NA
+"806",NA,".",NA,NA,117261,"MSTRG.39593","t40","up",NA,NA
+"807",NA,".",NA,NA,116876,"MSTRG.39453","t40","up",NA,NA
+"808",NA,".",NA,NA,10129,"MSTRG.3407","t40","up",NA,NA
+"809",NA,".",NA,NA,73237,"MSTRG.24742","t40","up",NA,NA
+"810",NA,".",NA,NA,106233,"MSTRG.35877","t40","up",NA,NA
+"811",NA,".",NA,NA,75209,"MSTRG.25392","t40","up",NA,NA
+"812",NA,".",NA,NA,16876,"MSTRG.5759","t40","up",NA,NA
+"813",NA,".",NA,NA,48361,"MSTRG.16461","t40","up",NA,NA
+"814",NA,".",NA,NA,4702,"MSTRG.1576","t40","up",NA,NA
+"815",NA,".",NA,NA,83742,"MSTRG.28421","t40","up",NA,NA
+"816",NA,".",NA,NA,102034,"MSTRG.34572","t40","up",NA,NA
+"817",NA,".",NA,NA,36565,"MSTRG.12414","t40","up",NA,NA
+"818",NA,".",NA,NA,43802,"MSTRG.14947","t40","up",NA,NA
+"819",NA,".",NA,NA,11320,"MSTRG.3888","t40","up",NA,NA
+"820",NA,".",NA,NA,68649,"MSTRG.23420","t40","up",NA,NA
+"821",NA,".",NA,NA,485,"MSTRG.213","t40","up",NA,NA
+"822",NA,".",NA,NA,8154,"MSTRG.2823","t40","up",NA,NA
+"823",NA,".",NA,NA,16924,"MSTRG.5771","t40","up",NA,NA
+"824",NA,".",NA,NA,66429,"MSTRG.22634","t40","up",NA,NA
+"825",NA,".",NA,NA,68728,"MSTRG.23444","t40","up",NA,NA
+"826",NA,".",NA,NA,35399,"MSTRG.12011","t40","up",NA,NA
+"827",NA,".",NA,NA,113090,"MSTRG.38259","t40","up",NA,NA
+"828",NA,".",NA,NA,102327,"MSTRG.34708","t40","up",NA,NA
+"829",NA,".",NA,NA,74482,"MSTRG.25145","t40","up",NA,NA
+"830",NA,".",NA,NA,3715,"MSTRG.1167","t40","up",NA,NA
+"831",NA,".",NA,NA,32085,"MSTRG.11007","t40","up",NA,NA
+"832",NA,".",NA,NA,5683,"MSTRG.1962","t40","up",NA,NA
+"833",NA,".",NA,NA,39850,"MSTRG.13444","t40","up",NA,NA
+"834",NA,".",NA,NA,77417,"MSTRG.26209","t40","up",NA,NA
+"835",NA,".",NA,NA,43841,"MSTRG.14956","t40","up",NA,NA
+"836",NA,".",NA,NA,42777,"MSTRG.14562","t40","up",NA,NA
+"837",NA,".",NA,NA,44227,"MSTRG.15106","t40","up",NA,NA
+"838",NA,".",NA,NA,103378,"MSTRG.35074","t40","up",NA,NA
+"839",NA,".",NA,NA,98149,"MSTRG.33275","t40","up",NA,NA
+"840",NA,".",NA,NA,4389,"MSTRG.1451","t40","up",NA,NA
+"841",NA,".",NA,NA,74719,"MSTRG.25236","t40","up",NA,NA
+"842",NA,".",NA,NA,86931,"MSTRG.29454","t40","up",NA,NA
+"843",NA,".",NA,NA,16879,"MSTRG.5759","t40","up",NA,NA
+"844",NA,".",NA,NA,7374,"MSTRG.2561","t40","up",NA,NA
+"845",NA,".",NA,NA,644,"MSTRG.277","t40","up",NA,NA
+"846",NA,".",NA,NA,80745,"MSTRG.27449","t40","up",NA,NA
+"847",NA,".",NA,NA,116211,"MSTRG.39210","t40","up",NA,NA
+"848",NA,".",NA,NA,108940,"MSTRG.36798","t40","up",NA,NA
+"849",NA,".",NA,NA,104094,"MSTRG.35303","t40","up",NA,NA
+"850",NA,".",NA,NA,61559,"MSTRG.20900","t40","up",NA,NA
+"851",NA,".",NA,NA,88782,"MSTRG.30185","t40","up",NA,NA
+"852",NA,".",NA,NA,118610,"MSTRG.40078","t40","up",NA,NA
+"853",NA,".",NA,NA,36497,"MSTRG.12376","t40","up",NA,NA
+"854",NA,".",NA,NA,107114,"MSTRG.36215","t40","up",NA,NA
+"855",NA,".",NA,NA,2618,"MSTRG.828","t40","up",NA,NA
+"856",NA,".",NA,NA,4448,"MSTRG.1480","t40","up",NA,NA
+"857",NA,".",NA,NA,53452,"MSTRG.18147","t40","up",NA,NA
+"858",NA,".",NA,NA,92958,"MSTRG.31488","t40","up",NA,NA
+"859",NA,".",NA,NA,6511,"MSTRG.2272","t40","up",NA,NA
+"860",NA,".",NA,NA,81676,"MSTRG.27815","t40","up",NA,NA
+"861",NA,".",NA,NA,58378,"MSTRG.19724","t40","up",NA,NA
+"862",NA,".",NA,NA,15124,"MSTRG.5075","t40","up",NA,NA
+"863",NA,".",NA,NA,88474,"MSTRG.30063","t40","up",NA,NA
+"864",NA,".",NA,NA,29789,"MSTRG.10143","t40","up",NA,NA
+"865",NA,".",NA,NA,1467,"MSTRG.543","t40","up",NA,NA
+"866",NA,".",NA,NA,87828,"MSTRG.29787","t40","up",NA,NA
+"867",NA,".",NA,NA,62738,"MSTRG.21341","t40","up",NA,NA
+"868",NA,".",NA,NA,75213,"MSTRG.25393","t40","up",NA,NA
+"869",NA,".",NA,NA,92961,"MSTRG.31488","t40","up",NA,NA
+"870",NA,".",NA,NA,54505,"MSTRG.18541","t40","up",NA,NA
+"871",NA,".",NA,NA,5345,"MSTRG.1819","t40","up",NA,NA
+"872",NA,".",NA,NA,51753,"MSTRG.17586","t40","up",NA,NA
+"873",NA,".",NA,NA,97907,"MSTRG.33180","t40","up",NA,NA
+"874",NA,".",NA,NA,41363,"MSTRG.14013","t40","up",NA,NA
+"875",NA,".",NA,NA,107698,"MSTRG.36425","t40","up",NA,NA
+"876",NA,".",NA,NA,26438,"MSTRG.8887","t40","up",NA,NA
+"877",NA,".",NA,NA,113086,"MSTRG.38259","t40","up",NA,NA
+"878",NA,".",NA,NA,85053,"MSTRG.28779","t40","up",NA,NA
+"879",NA,".",NA,NA,56611,"MSTRG.19285","t40","up",NA,NA
+"880",NA,".",NA,NA,10322,"MSTRG.3489","t40","up",NA,NA
+"881",NA,".",NA,NA,88337,"MSTRG.30012","t40","up",NA,NA
+"882",NA,".",NA,NA,113819,"MSTRG.38502","t40","up",NA,NA
+"883",NA,".",NA,NA,75210,"MSTRG.25392","t40","up",NA,NA
+"884",NA,".",NA,NA,68585,"MSTRG.23399","t40","up",NA,NA
+"885",NA,".",NA,NA,43711,"MSTRG.14906","t40","up",NA,NA
+"886",NA,".",NA,NA,100221,"MSTRG.33984","t40","up",NA,NA
+"887",NA,".",NA,NA,34364,"MSTRG.11665","t40","up",NA,NA
+"888",NA,".",NA,NA,112724,"MSTRG.38122","t40","up",NA,NA
+"889",NA,".",NA,NA,92971,"MSTRG.31488","t40","up",NA,NA
+"890",NA,".",NA,NA,41757,"MSTRG.14149","t40","up",NA,NA
+"891",NA,".",NA,NA,10299,"MSTRG.3479","t40","up",NA,NA
+"892",NA,".",NA,NA,112753,"MSTRG.38130","t40","up",NA,NA
+"893",NA,".",NA,NA,42468,"MSTRG.14441","t40","up",NA,NA
+"894",NA,".",NA,NA,95732,"MSTRG.32333","t40","up",NA,NA
+"895",NA,".",NA,NA,58624,"MSTRG.19807","t40","up",NA,NA
+"896",NA,".",NA,NA,11154,"MSTRG.3822","t40","up",NA,NA
+"897",NA,".",NA,NA,92973,"MSTRG.31488","t40","up",NA,NA
+"898",NA,".",NA,NA,100711,"MSTRG.34085","t40","up",NA,NA
+"899",NA,".",NA,NA,96030,"MSTRG.32423","t40","up",NA,NA
+"900",NA,".",NA,NA,42853,"MSTRG.14586","t40","up",NA,NA
+"901",NA,".",NA,NA,118319,"MSTRG.39980","t40","up",NA,NA
+"902",NA,".",NA,NA,4807,"MSTRG.1609","t40","up",NA,NA
+"903",NA,".",NA,NA,95257,"MSTRG.32156","t40","up",NA,NA
+"904",NA,".",NA,NA,68587,"MSTRG.23400","t40","up",NA,NA
+"905",NA,".",NA,NA,98450,"MSTRG.33386","t40","up",NA,NA
+"906",NA,".",NA,NA,87983,"MSTRG.29834","t40","up",NA,NA
+"907",NA,".",NA,NA,61856,"MSTRG.21005","t40","up",NA,NA
+"908",NA,".",NA,NA,52228,"MSTRG.17696","t40","up",NA,NA
+"909",NA,".",NA,NA,64377,"MSTRG.22019","t40","up",NA,NA
+"910",NA,".",NA,NA,117749,"MSTRG.39768","t40","up",NA,NA
+"911",NA,".",NA,NA,7344,"MSTRG.2551","t40","up",NA,NA
+"912",NA,".",NA,NA,53181,"MSTRG.18038","t40","up",NA,NA
+"913",NA,".",NA,NA,8152,"MSTRG.2823","t40","up",NA,NA
+"914",NA,".",NA,NA,16979,"MSTRG.5801","t40","up",NA,NA
+"915",NA,".",NA,NA,114516,"MSTRG.38645","t40","up",NA,NA
+"916",NA,".",NA,NA,27483,"MSTRG.9302","t40","up",NA,NA
+"917",NA,".",NA,NA,84159,"MSTRG.28519","t40","up",NA,NA
+"918",NA,".",NA,NA,118605,"MSTRG.40078","t40","up",NA,NA
+"919",NA,".",NA,NA,32049,"MSTRG.10996","t40","up",NA,NA
+"920",NA,".",NA,NA,118033,"MSTRG.39884","t40","up",NA,NA
+"921",NA,".",NA,NA,97491,"MSTRG.33025","t40","up",NA,NA
+"922",NA,".",NA,NA,62101,"MSTRG.21101","t40","up",NA,NA
+"923",NA,".",NA,NA,53917,"MSTRG.18323","t40","up",NA,NA
+"924",NA,".",NA,NA,86061,"MSTRG.29145","t40","up",NA,NA
+"925",NA,".",NA,NA,89691,"MSTRG.30425","t40","up",NA,NA
+"926",NA,".",NA,NA,57376,"MSTRG.19454","t40","up",NA,NA
+"927",NA,".",NA,NA,11364,"MSTRG.3902","t40","up",NA,NA
+"928",NA,".",NA,NA,81445,"MSTRG.27724","t40","up",NA,NA
+"929",NA,".",NA,NA,97331,"MSTRG.32967","t40","up",NA,NA
+"930",NA,".",NA,NA,11590,"MSTRG.3997","t40","up",NA,NA
+"931",NA,".",NA,NA,19629,"MSTRG.6791","t40","up",NA,NA
+"932",NA,".",NA,NA,93382,"MSTRG.31610","t40","up",NA,NA
+"933",NA,".",NA,NA,74935,"MSTRG.25299","t40","up",NA,NA
+"934",NA,".",NA,NA,22229,"MSTRG.7496","t40","up",NA,NA
+"935",NA,".",NA,NA,21488,"MSTRG.7254","t40","up",NA,NA
+"936",NA,".",NA,NA,68126,"MSTRG.23230","t40","up",NA,NA
+"937",NA,".",NA,NA,66919,"MSTRG.22828","t40","up",NA,NA
+"938",NA,".",NA,NA,94769,"MSTRG.31975","t40","up",NA,NA
+"939",NA,".",NA,NA,4917,"MSTRG.1650","t40","up",NA,NA
+"940",NA,".",NA,NA,94922,"MSTRG.32034","t40","up",NA,NA
+"941",NA,".",NA,NA,91335,"MSTRG.30840","t40","up",NA,NA
+"942",NA,".",NA,NA,5200,"MSTRG.1757","t40","up",NA,NA
+"943",NA,".",NA,NA,23423,"MSTRG.7977","t40","up",NA,NA
+"944",NA,".",NA,NA,86207,"MSTRG.29194","t40","up",NA,NA
+"945",NA,".",NA,NA,43864,"MSTRG.14965","t40","up",NA,NA
+"946",NA,".",NA,NA,114107,"MSTRG.38564","t40","up",NA,NA
+"947",NA,".",NA,NA,97676,"MSTRG.33096","t40","up",NA,NA
+"948",NA,".",NA,NA,92308,"MSTRG.31232","t40","up",NA,NA
+"949",NA,".",NA,NA,91202,"MSTRG.30787","t40","up",NA,NA
+"950",NA,".",NA,NA,12326,"MSTRG.4263","t40","up",NA,NA
+"951",NA,".",NA,NA,50224,"MSTRG.17125","t40","up",NA,NA
+"952",NA,".",NA,NA,27357,"MSTRG.9250","t40","up",NA,NA
+"953",NA,".",NA,NA,52881,"MSTRG.17917","t40","up",NA,NA
+"954",NA,".",NA,NA,59489,"MSTRG.20124","t40","up",NA,NA
+"955",NA,".",NA,NA,54889,"MSTRG.18687","t40","up",NA,NA
+"956",NA,".",NA,NA,64538,"MSTRG.22092","t40","up",NA,NA
+"957",NA,".",NA,NA,74395,"MSTRG.25115","t40","up",NA,NA
+"958",NA,".",NA,NA,9882,"MSTRG.3326","t40","up",NA,NA
+"959",NA,".",NA,NA,44302,"MSTRG.15137","t40","up",NA,NA
+"960",NA,".",NA,NA,32874,"MSTRG.11299","t40","up",NA,NA
+"961",NA,".",NA,NA,25231,"MSTRG.8535","t40","up",NA,NA
+"962",NA,".",NA,NA,74640,"MSTRG.25203","t40","up",NA,NA
+"963",NA,".",NA,NA,80693,"MSTRG.27434","t40","up",NA,NA
+"964",NA,".",NA,NA,32843,"MSTRG.11290","t40","up",NA,NA
+"965",NA,".",NA,NA,27957,"MSTRG.9439","t40","up",NA,NA
+"966",NA,".",NA,NA,49757,"MSTRG.16947","t40","up",NA,NA
+"967",NA,".",NA,NA,90223,"MSTRG.30545","t40","up",NA,NA
+"968",NA,".",NA,NA,92371,"MSTRG.31254","t40","up",NA,NA
+"969",NA,".",NA,NA,15634,"MSTRG.5257","t40","up",NA,NA
+"970",NA,".",NA,NA,104935,"MSTRG.35503","t40","up",NA,NA
+"971",NA,".",NA,NA,12849,"MSTRG.4402","t40","up",NA,NA
+"972",NA,".",NA,NA,10535,"MSTRG.3572","t40","up",NA,NA
+"973",NA,".",NA,NA,87348,"MSTRG.29617","t40","up",NA,NA
+"974",NA,".",NA,NA,106821,"MSTRG.36098","t40","up",NA,NA
+"975",NA,".",NA,NA,50324,"MSTRG.17166","t40","up",NA,NA
+"976",NA,".",NA,NA,14644,"MSTRG.4918","t40","up",NA,NA
+"977",NA,".",NA,NA,86063,"MSTRG.29145","t40","up",NA,NA
+"978",NA,".",NA,NA,62810,"MSTRG.21366","t40","up",NA,NA
+"979",NA,".",NA,NA,28516,"MSTRG.9653","t40","up",NA,NA
+"980",NA,".",NA,NA,618,"MSTRG.266","t40","up",NA,NA
+"981",NA,".",NA,NA,30894,"MSTRG.10552","t40","up",NA,NA
+"982",NA,".",NA,NA,117262,"MSTRG.39593","t40","up",NA,NA
+"983",NA,".",NA,NA,117838,"MSTRG.39812","t40","up",NA,NA
+"984",NA,".",NA,NA,26432,"MSTRG.8884","t40","up",NA,NA
+"985",NA,".",NA,NA,25118,"MSTRG.8514","t40","up",NA,NA
+"986",NA,".",NA,NA,86062,"MSTRG.29145","t40","up",NA,NA
+"987",89,"DRR1","ACTN3D","actinin alpha 3",65394,"MSTRG.22372","t40","down",NA,NA
+"988",351,"ASP1","AAA, ABETA, ABPP, AD1, APPI, CTFgamma, CVAP, PN-II, PN2, alpha-sAPP, preA4","amyloid beta precursor protein",82573,"MSTRG.28098","t40","down",NA,NA
+"989",351,"RPL37","AAA, ABETA, ABPP, AD1, APPI, CTFgamma, CVAP, PN-II, PN2, alpha-sAPP, preA4","amyloid beta precursor protein",35727,"MSTRG.12111","t40","down",NA,NA
+"990",1956,"GRP","ERBB, ERBB1, ERRP, HER1, NISBD2, PIG61, mENA","epidermal growth factor receptor",68348,"MSTRG.23312","t40","down",NA,NA
+"991",7157,"TSA","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53",111113,"MSTRG.37472","t40","down",NA,NA
+"992",547619,"SHOOT2","GLYMA_19G190000","SHOOT2 protein",111713,"MSTRG.37698","t40","down",NA,NA
+"993",547938,"LOC547938","GLYMA_06G160300","defensin-like protein",32246,"MSTRG.11070","t40","down",NA,NA
+"994",548080,"LOC548080","GLYMA_02G245100","HMG-Y related protein variant A",10568,"MSTRG.3590","t40","down",NA,NA
+"995",778190,"BZIP99","GLYMA_13G193700, GmTGA19","bZIP transcription factor",76907,"MSTRG.26017","t40","down",NA,NA
+"996",818982,"LBD37","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6",49237,"MSTRG.16771","t40","down",NA,NA
+"997",821717,"IQD14","AT3G21630, AtCERK1, AtLYK1, LYK1, LYSM DOMAIN RECEPTOR-LIKE KINASE 1, LYSM RLK1, LysM-containing receptor-like kinase 1, chitin elicitor receptor kinase 1","chitin elicitor receptor kinase 1",23809,"MSTRG.8125","t40","down",NA,NA
+"998",836163,"LBD30","AT5G60410, AT5G60420, ATSIZ1, MUF9.5, MUF9_5","DNA-binding protein with MIZ/SP-RING zinc finger, PHD-finger and SAP domain-containing protein",37609,"MSTRG.12799","t40","down",NA,NA
+"999",839515,"GSTF7","AT1G02930, ARABIDOPSIS GLUTATHIONE S-TRANSFERASE 1, ARABIDOPSIS THALIANA GLUATIONE S-TRANSFERASE F3, ATGST1, ATGSTF3, ATGSTF6, EARLY RESPONSIVE TO DEHYDRATION 11, ERD11, F22D16.7, F22D16_7, GLUTATHIONE S-TRANSFERASE, GLUTATHIONE S-TRANSFERASE 1, GST1, glutathione S-transferase 6","glutathione S-transferase 6",55508,"MSTRG.18909","t40","down",NA,NA
+"1000",852848,"CAT4","YGL035C, CAT4, SSN1, TDS22","transcription factor MIG1",17765,"MSTRG.6093","t40","down",NA,NA
+"1001",100037453,"KASII-B","GLYMA_13G112700","plastid 3-keto-acyl-ACP synthase II-B",75104,"MSTRG.25349","t40","down",NA,NA
+"1002",100037478,"SACPD-C","GLYMA_14G121400, FAB2.3","stearoyl-ACP desaturase",84260,"MSTRG.28545","t40","down",NA,NA
+"1003",100037484,"LOC100037484","GLYMA_20G171100","hypoxanthine-guanine phosphoribosyltransferase-like",116907,"MSTRG.39468","t40","down",NA,NA
+"1004",100101848,"LOC100101848","GLYMA_10G214500","auxin down-regulated protein",59842,"MSTRG.20244","t40","down",NA,NA
+"1005",100170736,"LOC100170736","","(S)-2-hydroxy-acid oxidase GLO1",43519,"MSTRG.14836","t40","down",NA,NA
+"1006",100233234,"LOC100233234","GLYMA_10G180600, GmCRY2a1, GmCRY2a2","cryptochrome 2",59092,"MSTRG.19975","t40","down",NA,NA
+"1007",100233234,"LOC100233234","GLYMA_10G180600, GmCRY2a1, GmCRY2a2","cryptochrome 2",59090,"MSTRG.19975","t40","down",NA,NA
+"1008",100305628,"LOC100305628","GLYMA_13G301600","uncharacterized LOC100305628",79120,"MSTRG.26862","t40","down",NA,NA
+"1009",100305663,"LOC100305663","GLYMA_05G028000","putative 40S ribosomal protein S9",23800,"MSTRG.8122","t40","down",NA,NA
+"1010",100305687,"LOC100305687","GLYMA_08G217700","uncharacterized LOC100305687",46090,"MSTRG.15792","t40","down",NA,NA
+"1011",100305716,"LOC100305716","GLYMA_08G082100","uncharacterized LOC100305716",43202,"MSTRG.14720","t40","down",NA,NA
+"1012",100305732,"LOC100305732","GLYMA_03G242900","superoxide dismutase [Cu-Zn]",16900,"MSTRG.5763","t40","down",NA,NA
+"1013",100305735,"LOC100305735","GLYMA_10G144800","uncharacterized LOC100305735",58282,"MSTRG.19686","t40","down",NA,NA
+"1014",100305771,"LOC100305771","GLYMA_13G301400","uncharacterized LOC100305771",79118,"MSTRG.26861","t40","down",NA,NA
+"1015",100305798,"LOC100305798","GLYMA_09G239000","uncharacterized LOC100305798",54049,"MSTRG.18365","t40","down",NA,NA
+"1016",100305823,"LOC100305823","GLYMA_06G298600","uncharacterized LOC100305823",35000,"MSTRG.11867","t40","down",NA,NA
+"1017",100306069,"LOC100306069","GLYMA_06G111500","uncharacterized LOC100306069",31143,"MSTRG.10651","t40","down",NA,NA
+"1018",100306092,"LOC100306092","GLYMA_07G018000, GmTIP2;3, GmTIP2;5, TIP2-3","aquaporin TIP2-3",36010,"MSTRG.12215","t40","down",NA,NA
+"1019",100306279,"LOC100306279","GLYMA_01G209400","40S ribosomal protein S30",4568,"MSTRG.1528","t40","down",NA,NA
+"1020",100306301,"LOC100306301","GLYMA_19G211800","60S ribosomal protein L18",112213,"MSTRG.37900","t40","down",NA,NA
+"1021",100306305,"LOC100306305","GLYMA_06G064200","60S ribosomal protein L39",30085,"MSTRG.10254","t40","down",NA,NA
+"1022",100306384,"LOC100306384","GLYMA_03G125800","uncharacterized LOC100306384",14430,"MSTRG.4841","t40","down",NA,NA
+"1023",100306438,"LOC100306438","GLYMA_18G245900","putative acyl carrier protein, mitochondrial",106616,"MSTRG.36030","t40","down",NA,NA
+"1024",100306475,"LOC100306475","GLYMA_17G109000","uncharacterized LOC100306475",98424,"MSTRG.33380","t40","down",NA,NA
+"1025",100306476,"LOC100306476","GLYMA_14G008500","uncharacterized LOC100306476",80912,"MSTRG.27515","t40","down",NA,NA
+"1026",100306523,"LOC100306523","GLYMA_02G034600","uncharacterized LOC100306523",6069,"MSTRG.2098","t40","down",NA,NA
+"1027",100306608,"LOC100306608","GLYMA_13G282200","uncharacterized LOC100306608",78776,"MSTRG.26712","t40","down",NA,NA
+"1028",100306624,"LOC100306624","GLYMA_13G133900","uncharacterized LOC100306624",75565,"MSTRG.25519","t40","down",NA,NA
+"1029",100306683,"LOC100306683","GLYMA_17G117200","uncharacterized LOC100306683",98598,"MSTRG.33448","t40","down",NA,NA
+"1030",100306699,"LOC100306699","GLYMA_10G039900","uncharacterized LOC100306699",55915,"MSTRG.19062","t40","down",NA,NA
+"1031",100499761,"LOC100499761","GLYMA_11G209200","uncharacterized LOC100499761",118902,"MSTRG.40154","t40","down",NA,NA
+"1032",100499784,"LOC100499784","GLYMA_05G146800","60S ribosomal protein L17-2",26538,"MSTRG.8914","t40","down",NA,NA
+"1033",100499804,"LOC100499804","GLYMA_02G067400","uncharacterized LOC100499804",6776,"MSTRG.2362","t40","down",NA,NA
+"1034",100499826,"LOC100499826","GLYMA_15G071900","uncharacterized LOC100499826",87341,"MSTRG.29616","t40","down",NA,NA
+"1035",100499915,"LOC100499915","GLYMA_03G222100","nitrogen regulatory P-II-like protein",16443,"MSTRG.5595","t40","down",NA,NA
+"1036",100499916,"LOC100499916","GLYMA_15G098500","acyl carrier protein 1, chloroplastic",87876,"MSTRG.29798","t40","down",NA,NA
+"1037",100499916,"LOC100499916","GLYMA_15G098500","acyl carrier protein 1, chloroplastic",87875,"MSTRG.29798","t40","down",NA,NA
+"1038",100499922,"LOC100499922","GLYMA_10G224200","40S ribosomal protein S18",60058,"MSTRG.20326","t40","down",NA,NA
+"1039",100499935,"LOC100499935","GLYMA_16G074600","60S ribosomal protein L13",93068,"MSTRG.31521","t40","down",NA,NA
+"1040",100499979,"LOC100499979","GLYMA_03G189300","uncharacterized LOC100499979",15772,"MSTRG.5310","t40","down",NA,NA
+"1041",100499992,"LOC100499992","GLYMA_16G116300","uncharacterized LOC100499992",94032,"MSTRG.31753","t40","down",NA,NA
+"1042",100500032,"LOC100500032","GLYMA_10G213400","uncharacterized LOC100500032",59814,"MSTRG.20229","t40","down",NA,NA
+"1043",100500080,"LOC100500080","GLYMA_12G182300","uncharacterized LOC100500080",71303,"MSTRG.24173","t40","down",NA,NA
+"1044",100500102,"LOC100500102","GLYMA_19G009300","uncharacterized LOC100500102",107940,"MSTRG.36503","t40","down",NA,NA
+"1045",100500169,"LOC100500169","","uncharacterized LOC100500169",3749,"MSTRG.1186","t40","down",NA,NA
+"1046",100500170,"LOC100499944","","uncharacterized LOC100500170",94149,"MSTRG.31774","t40","down",NA,NA
+"1047",100500345,"LOC100500345","GLYMA_11G235000","uncharacterized LOC100500345",66827,"MSTRG.22804","t40","down",NA,NA
+"1048",100500459,"LOC100500459","GLYMA_05G068500v4","FCS-like zinc-finger domain-containing protein",24704,"MSTRG.8424","t40","down",NA,NA
+"1049",100500529,"LOC100500529","GLYMA_11G123600","diphthamide biosynthesis protein 3",64166,"MSTRG.21937","t40","down",NA,NA
+"1050",100526869,"LOC100526869","GLYMA_09G184500","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10-B",52955,"MSTRG.17946","t40","down",NA,NA
+"1051",100527335,"LOC100527335","GLYMA_02G258800","transport protein Sec61 subunit gamma",10857,"MSTRG.3692","t40","down",NA,NA
+"1052",100527371,"LOC100527371","GLYMA_19G213100","uncharacterized LOC100527371",112231,"MSTRG.37911","t40","down",NA,NA
+"1053",100527527,"GASA36","GLYMA_20G131100, GmGASA36","gibberellin-regulated protein 36",116079,"MSTRG.39155","t40","down",NA,NA
+"1054",100527545,"LOC100527545","GLYMA_20G198900","RRM domain-containing protein",117514,"MSTRG.39688","t40","down",NA,NA
+"1055",100527558,"LOC100527558","GLYMA_10G021300","uncharacterized LOC100527558",55541,"MSTRG.18921","t40","down",NA,NA
+"1056",100527623,"LOC100527623","GLYMA_03G231700","uncharacterized LOC100527623",16649,"MSTRG.5674","t40","down",NA,NA
+"1057",100527680,"LOC100527680","GLYMA_08G045100","uncharacterized LOC100527680",42487,"MSTRG.14443","t40","down",NA,NA
+"1058",100527721,"LOC100527721","GLYMA_11G060500","uncharacterized LOC100527721",62912,"MSTRG.21415","t40","down",NA,NA
+"1059",100527774,"LOC100527774","GLYMA_08G364400","uncharacterized LOC100527774",49224,"MSTRG.16763","t40","down",NA,NA
+"1060",100527838,"LOC100527838","GLYMA_01G167300","60S ribosomal protein L8-1",3741,"MSTRG.1183","t40","down",NA,NA
+"1061",100527888,"LOC100527888","GLYMA_16G037600","plant cysteine oxidase 2",92330,"MSTRG.31239","t40","down",NA,NA
+"1062",100527911,"LOC100527911","GLYMA_05G241200","40S ribosomal protein S16",28606,"MSTRG.9697","t40","down",NA,NA
+"1063",100775264,"CHS13","GLYMA_19G105100, GmCHS13","chalcone synthase 13",109951,"MSTRG.37042","t40","down",NA,NA
+"1064",100775486,"LOC100775486","GLYMA_05G048500","zinc finger protein SHOOT GRAVITROPISM 5",24234,"MSTRG.8279","t40","down",NA,NA
+"1065",100775561,"LOC100775561","GLYMA_01G242900","40S ribosomal protein S29",5324,"MSTRG.1810","t40","down",NA,NA
+"1066",100775871,"LOC100775871","GLYMA_13G064300","plant cysteine oxidase 2",74011,"MSTRG.24980","t40","down",NA,NA
+"1067",100776329,"LOC100776329","GLYMA_18G136900","serine/arginine-rich splicing factor RSZ21-like",104460,"MSTRG.35382","t40","down",NA,NA
+"1068",100776345,"LOC100776345","GLYMA_03G178000","40S ribosomal protein S23-like",15558,"MSTRG.5231","t40","down",NA,NA
+"1069",100776354,"LOC100776354","GLYMA_19G105700","40S ribosomal protein S27-2",109969,"MSTRG.37047","t40","down",NA,NA
+"1070",100776599,"LOC100776599","GLYMA_07G173700","histidine kinase 4",39390,"MSTRG.13300","t40","down",NA,NA
+"1071",100776723,"LOC100776723","GLYMA_12G218300","uncharacterized LOC100776723",72009,"MSTRG.24444","t40","down",NA,NA
+"1072",100776835,"LOC100776835","GLYMA_09G001900","eukaryotic translation initiation factor 2D",49366,"MSTRG.16810","t40","down",NA,NA
+"1073",100777071,"NAC021","GLYMA_04G226700","NAC transcription factor",22332,"MSTRG.7537","t40","down",NA,NA
+"1074",100777625,"LOC100777625","GLYMA_13G294600","protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial",79006,"MSTRG.26808","t40","down",NA,NA
+"1075",100778013,"LOC100778013","GLYMA_13G331900","60S ribosomal protein L35",79812,"MSTRG.27097","t40","down",NA,NA
+"1076",100778173,"LOC100778173","GLYMA_14G000800","calcium-dependent protein kinase 26",80739,"MSTRG.27449","t40","down",NA,NA
+"1077",100778317,"LOC100778317","GLYMA_20G083800","histone H4",115048,"MSTRG.38773","t40","down",NA,NA
+"1078",100778355,"LOC100778355","GLYMA_06G299000","uncharacterized LOC100778355",35005,"MSTRG.11870","t40","down",NA,NA
+"1079",100778935,"LOC100778935","GLYMA_08G192700","chaperonin CPN60-like 2, mitochondrial",45609,"MSTRG.15611","t40","down",NA,NA
+"1080",100779051,"LOC100779051","GLYMA_05G009000","early nodulin-93",23377,"MSTRG.7963","t40","down",NA,NA
+"1081",100779362,"LOC100779362","GLYMA_11G143400","60S ribosomal protein L23A",64548,"MSTRG.22092","t40","down",NA,NA
+"1082",100779467,"LOC100779467","GLYMA_16G062000","kelch repeat-containing protein At3g27220",92815,"MSTRG.31444","t40","down",NA,NA
+"1083",100779499,"LOC100779499","GLYMA_09G023600, GmHD-ZIPIII-5","homeobox-leucine zipper protein ATHB-14-like",49863,"MSTRG.16984","t40","down",NA,NA
+"1084",100780556,"LOC100780556","GLYMA_09G185200","uncharacterized LOC100780556",52968,"MSTRG.17952","t40","down",NA,NA
+"1085",100780743,"LOC100780743","GLYMA_02G258600","uncharacterized LOC100780743",10850,"MSTRG.3690","t40","down",NA,NA
+"1086",100780764,"LOC100780764","GLYMA_10G162000","GDP-mannose 3,5-epimerase-like",58705,"MSTRG.19834","t40","down",NA,NA
+"1087",100781142,"LOC100781142","GLYMA_03G144800","actin-3",14855,"MSTRG.4989","t40","down",NA,NA
+"1088",100781170,"LOC100781170","GLYMA_04G213300","NAC domain-containing protein 82",22042,"MSTRG.7432","t40","down",NA,NA
+"1089",100781420,"LOC100781420","GLYMA_08G227400","histone H3.2",46321,"MSTRG.15872","t40","down",NA,NA
+"1090",100781544,"LOC100781544","GLYMA_12G116000","RNA polymerase II subunit 5-mediating protein homolog",69842,"MSTRG.23820","t40","down",NA,NA
+"1091",100781661,"LOC100781661","GLYMA_02G287000","peroxisomal and mitochondrial division factor 2",11363,"MSTRG.3902","t40","down",NA,NA
+"1092",100781886,"LOC100781886","GLYMA_12G006700","uncharacterized LOC100781886",67572,"MSTRG.23042","t40","down",NA,NA
+"1093",100782374,"LOC100782374","GLYMA_02G143200","histone H2A variant 1",8386,"MSTRG.2907","t40","down",NA,NA
+"1094",100782542,"LOC100782542","GLYMA_17G088800v4","probable boron transporter 2",97978,"MSTRG.33211","t40","down",NA,NA
+"1095",100782730,"LOC100782730","GLYMA_10G055400","uncharacterized LOC100782730",56317,"MSTRG.19194","t40","down",NA,NA
+"1096",100782747,"LOC100782747","GLYMA_18G204200","pyruvate decarboxylase 2",105813,"MSTRG.35731","t40","down",NA,NA
+"1097",100782924,"LOC100782924","GLYMA_18G009700","glyceraldehyde-3-phosphate dehydrogenase, cytosolic-like",101960,"MSTRG.34543","t40","down",NA,NA
+"1098",100783140,"LOC100783140","GLYMA_19G221900","auxin-responsive protein IAA20",112395,"MSTRG.37986","t40","down",NA,NA
+"1099",100783161,"LOC100783161","GLYMA_20G017300","mitochondrial import inner membrane translocase subunit TIM17-2",113604,"MSTRG.38433","t40","down",NA,NA
+"1100",100783540,"LOC100783540","GLYMA_06G143800","potassium transporter 2",31877,"MSTRG.10932","t40","down",NA,NA
+"1101",100783654,"LOC100783654","GLYMA_03G026000","uncharacterized LOC100783654",12357,"MSTRG.4272","t40","down",NA,NA
+"1102",100783845,"LOC100783845","GLYMA_11G241700","histone H3.3",67012,"MSTRG.22854","t40","down",NA,NA
+"1103",100784293,"LOC100784293","GLYMA_16G155800","histidinol-phosphate aminotransferase, chloroplastic",94873,"MSTRG.32015","t40","down",NA,NA
+"1104",100784380,"LOC100784380","GLYMA_04G090100","transcription factor bHLH93-like",19342,"MSTRG.6697","t40","down",NA,NA
+"1105",100784666,"LOC100784666","GLYMA_01G061500","serine/threonine-protein kinase dst1",1464,"MSTRG.543","t40","down",NA,NA
+"1106",100785061,"LOC100785061","GLYMA_18G258900","60S ribosomal protein L34",106855,"MSTRG.36110","t40","down",NA,NA
+"1107",100785976,"LOC100785976","GLYMA_04G229000","60S acidic ribosomal protein P1",22372,"MSTRG.7560","t40","down",NA,NA
+"1108",100786167,"LOC100786167","GLYMA_05G143300","putative hydrolase C777.06c",26429,"MSTRG.8884","t40","down",NA,NA
+"1109",100786189,"LOC100786189","GLYMA_13G280300","60S ribosomal protein L5",78739,"MSTRG.26692","t40","down",NA,NA
+"1110",100786306,"LOC100786306","GLYMA_19G099600","uncharacterized LOC100786306",109863,"MSTRG.37009","t40","down",NA,NA
+"1111",100786479,"LOC100786479","GLYMA_19G110200","GATA transcription factor 5-like",110041,"MSTRG.37072","t40","down",NA,NA
+"1112",100786490,"LOC100786490","GLYMA_19G046300","LOB domain-containing protein 41",108696,"MSTRG.36736","t40","down",NA,NA
+"1113",100786807,"LOC100786807","GLYMA_02G288900","small nuclear ribonucleoprotein-associated protein B",11400,"MSTRG.3913","t40","down",NA,NA
+"1114",100786990,"LOC100786990","GLYMA_10G078400","2-cys peroxiredoxin",56744,"MSTRG.19330","t40","down",NA,NA
+"1115",100787024,"LOC100787024","GLYMA_19G193200","60S acidic ribosomal protein P2-2",111780,"MSTRG.37722","t40","down",NA,NA
+"1116",100787024,"LOC100787024","GLYMA_19G193200","60S acidic ribosomal protein P2-2",111779,"MSTRG.37722","t40","down",NA,NA
+"1117",100787151,"LOC100787151","GLYMA_01G042400","probable serine/threonine-protein kinase PIX7",1074,"MSTRG.436","t40","down",NA,NA
+"1118",100787172,"LOC100787172","GLYMA_10G160800","uncharacterized LOC100787172",58687,"MSTRG.19826","t40","down",NA,NA
+"1119",100787174,"LOC100787174","GLYMA_18G171400","E3 ubiquitin-protein ligase PRT1",105178,"MSTRG.35553","t40","down",NA,NA
+"1120",100787680,"FATB1B","GLYMA_17G120400","myristoyl-acyl carrier protein thioesterase, chloroplastic-like",98663,"MSTRG.33480","t40","down",NA,NA
+"1121",100787707,"LOC100787707","GLYMA_10G164100","GRF1-interacting factor 1",58760,"MSTRG.19850","t40","down",NA,NA
+"1122",100788131,"LOC100788131","GLYMA_05G157200","mitogen-activated protein kinase 7-like",26777,"MSTRG.9016","t40","down",NA,NA
+"1123",100788332,"LOC100788332","GLYMA_06G160400","defensin Ec-AMP-D2",32247,"MSTRG.11071","t40","down",NA,NA
+"1124",100788471,"LOC100788471","GLYMA_12G056300","AP2-like ethylene-responsive transcription factor PLT2",68631,"MSTRG.23414","t40","down",NA,NA
+"1125",100788575,"LOC100788575","GLYMA_17G218000","U-box domain-containing protein 7",100785,"MSTRG.34108","t40","down",NA,NA
+"1126",100788584,"LOC100788584","GLYMA_17G045800, GmSS","sucrose synthase",97058,"MSTRG.32857","t40","down",NA,NA
+"1127",100788686,"LOC100788686","GLYMA_06G025600","uncharacterized LOC100788686",29301,"MSTRG.9960","t40","down",NA,NA
+"1128",100788688,"LOC100788688","GLYMA_06G164800","rRNA 2'-O-methyltransferase fibrillarin 2",32358,"MSTRG.11112","t40","down",NA,NA
+"1129",100788694,"LOC100788694","GLYMA_14G133100","uncharacterized LOC100788694",83519,"MSTRG.28376","t40","down",NA,NA
+"1130",100788981,"LOC100788981","GLYMA_19G110900","putative H/ACA ribonucleoprotein complex subunit 1-like protein 1",110054,"MSTRG.37077","t40","down",NA,NA
+"1131",100789000,"LOC100789000","GLYMA_04G215900","actin-7",22098,"MSTRG.7449","t40","down",NA,NA
+"1132",100789053,"LOC100789053","GLYMA_07G153100","pyruvate decarboxylase 2",38895,"MSTRG.13209","t40","down",NA,NA
+"1133",100789332,"LOC100789332","GLYMA_11G130900","histone H3.2",64307,"MSTRG.21989","t40","down",NA,NA
+"1134",100789608,"LOC100789608","GLYMA_08G212800","pseudo histidine-containing phosphotransfer protein 6",45991,"MSTRG.15757","t40","down",NA,NA
+"1135",100789845,"LOC100789845","GLYMA_10G045900","60S ribosomal protein L35",56045,"MSTRG.19113","t40","down",NA,NA
+"1136",100790389,"LOC100790389","GLYMA_11G001400","40S ribosomal protein S29",61636,"MSTRG.20936","t40","down",NA,NA
+"1137",100791745,"LOC100791745","GLYMA_01G097500","tRNA-dihydrouridine(20) synthase [NAD(P)+]-like",2268,"MSTRG.742","t40","down",NA,NA
+"1138",100791896,"LOC100791896","GLYMA_08G232000","prohibitin-3, mitochondrial",46410,"MSTRG.15905","t40","down",NA,NA
+"1139",100791948,"LOC100791948","GLYMA_10G201500","uncharacterized LOC100791948",59508,"MSTRG.20131","t40","down",NA,NA
+"1140",100792019,"LOC100792019","GLYMA_06G161700","protein SUPPRESSOR OF GENE SILENCING 3",32281,"MSTRG.11081","t40","down",NA,NA
+"1141",100792019,"LOC100792019","GLYMA_06G161700","protein SUPPRESSOR OF GENE SILENCING 3",32282,"MSTRG.11081","t40","down",NA,NA
+"1142",100792158,"LOC100792158","GLYMA_04G217100","ribonuclease P protein subunit p25-like protein",22124,"MSTRG.7458","t40","down",NA,NA
+"1143",100792416,"LOC100792416","GLYMA_08G232400","uncharacterized LOC100792416",46418,"MSTRG.15907","t40","down",NA,NA
+"1144",100792418,"LOC100792418","GLYMA_16G206500","60S ribosomal protein L2, mitochondrial-like",95713,"MSTRG.32322","t40","down",NA,NA
+"1145",100792856,"LOC100792856","GLYMA_11G014400","peptidyl-prolyl cis-trans isomerase FKBP53",61960,"MSTRG.21046","t40","down",NA,NA
+"1146",100793233,"LOC100793233","GLYMA_20G204200","probable small nuclear ribonucleoprotein Sm D2-like",117608,"MSTRG.39726","t40","down",NA,NA
+"1147",100793429,"LOC100793429","GLYMA_13G282400","uncharacterized LOC100793429",78780,"MSTRG.26714","t40","down",NA,NA
+"1148",100793630,"LOC100793630","GLYMA_15G213100","peroxisomal 2,4-dienoyl-CoA reductase-like",90182,"MSTRG.30538","t40","down",NA,NA
+"1149",100793726,"LOC100793726","GLYMA_03G023500","uncharacterized LOC100793726",12308,"MSTRG.4256","t40","down",NA,NA
+"1150",100793880,"LOC100793880","","uncharacterized LOC100793880",57965,"MSTRG.19589","t40","down",NA,NA
+"1151",100794055,"LOC100794055","GLYMA_18G048400","deoxyuridine 5'-triphosphate nucleotidohydrolase",102745,"MSTRG.34854","t40","down",NA,NA
+"1152",100794110,"LOC100794110","GLYMA_13G126400","60S ribosomal protein L23",75420,"MSTRG.25456","t40","down",NA,NA
+"1153",100794689,"LOC100794689","GLYMA_08G129800","protein WHAT'S THIS FACTOR 9, mitochondrial",44270,"MSTRG.15126","t40","down",NA,NA
+"1154",100794762,"LOC100794762","GLYMA_18G275800","uncharacterized LOC100794762",107174,"MSTRG.36234","t40","down",NA,NA
+"1155",100794816,"LOC100794816","GLYMA_05G222400","1-aminocyclopropane-1-carboxylate oxidase 1",28172,"MSTRG.9531","t40","down",NA,NA
+"1156",100795005,"LOC100795005","GLYMA_06G000300","alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",28810,"MSTRG.9767","t40","down",NA,NA
+"1157",100795096,"LOC100795096","GLYMA_18G010300","50S ribosomal protein L11",101970,"MSTRG.34548","t40","down",NA,NA
+"1158",100795265,"LOC100795265","GLYMA_13G320700","protein saal1",79529,"MSTRG.27002","t40","down",NA,NA
+"1159",100795307,"LOC100795307","GLYMA_11G090400","upstream activation factor subunit UAF30",63471,"MSTRG.21657","t40","down",NA,NA
+"1160",100795741,"LOC100795741","GLYMA_15G070700","COP1-interacting protein 7",87311,"MSTRG.29605","t40","down",NA,NA
+"1161",100795778,"LOC100795778","GLYMA_01G020500","MADS-box transcription factor 23",655,"MSTRG.280","t40","down",NA,NA
+"1162",100795875,"LOC100795875","GLYMA_12G030800","glycine-rich protein 2",68129,"MSTRG.23232","t40","down",NA,NA
+"1163",100796208,"LOC100796208","GLYMA_20G125700","uncharacterized LOC100796208",115954,"MSTRG.39113","t40","down",NA,NA
+"1164",100796380,"LOC100796380","GLYMA_04G218800","programmed cell death protein 2-like",22157,"MSTRG.7469","t40","down",NA,NA
+"1165",100796764,"LOC100796764","GLYMA_06G086300","protein NONRESPONDING TO OXYLIPINS 2, mitochondrial",30578,"MSTRG.10437","t40","down",NA,NA
+"1166",100796961,"LOC100796961","GLYMA_14G136700","serine/arginine-rich splicing factor RSZ22",83619,"MSTRG.28396","t40","down",NA,NA
+"1167",100797105,"LOC100797105","GLYMA_05G239000","40S ribosomal protein S2-4",28568,"MSTRG.9676","t40","down",NA,NA
+"1168",100797119,"LOC100797119","GLYMA_13G236300","protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial",77784,"MSTRG.26340","t40","down",NA,NA
+"1169",100797625,"LOC100797625","GLYMA_04G200700","rRNA 2'-O-methyltransferase fibrillarin 2",21756,"MSTRG.7340","t40","down",NA,NA
+"1170",100798344,"LOC100798344","GLYMA_20G108800","mitochondrial pyruvate carrier 1",115597,"MSTRG.38989","t40","down",NA,NA
+"1171",100798373,"LOC100798373","GLYMA_13G103200","ribosomal RNA processing protein 1 homolog",74853,"MSTRG.25273","t40","down",NA,NA
+"1172",100798674,"LOC100798674","GLYMA_11G003700","40S ribosomal protein S15a-1",61675,"MSTRG.20952","t40","down",NA,NA
+"1173",100798683,"LOC100798683","GLYMA_12G218100","exosome complex exonuclease RRP44 homolog A",72007,"MSTRG.24443","t40","down",NA,NA
+"1174",100798895,"LOC100798895","GLYMA_06G087300","uncharacterized LOC100798895",30594,"MSTRG.10442","t40","down",NA,NA
+"1175",100799485,"LOC100799485","GLYMA_09G052100","RNA-binding KOW domain-containing protein",50394,"MSTRG.17194","t40","down",NA,NA
+"1176",100799491,"LOC100799491","GLYMA_09G240100","plant cysteine oxidase 2",54082,"MSTRG.18376","t40","down",NA,NA
+"1177",100799545,"LOC100799545","GLYMA_04G256800","uncharacterized LOC100799545",22986,"MSTRG.7785","t40","down",NA,NA
+"1178",100799708,"LOC100799708","GLYMA_11G105900","cold shock protein 2",63833,"MSTRG.21793","t40","down",NA,NA
+"1179",100799771,"LOC100799771","GLYMA_06G121500","transcriptional corepressor SEUSS",31354,"MSTRG.10739","t40","down",NA,NA
+"1180",100800303,"CYP43","GLYMA_06G070300, GmCYP43","peptidyl-prolyl cis-trans isomerase CYP43",30206,"MSTRG.10309","t40","down",NA,NA
+"1181",100800447,"LOC100800447","GLYMA_12G166500","MACPF domain-containing protein At4g24290",70941,"MSTRG.24063","t40","down",NA,NA
+"1182",100800528,"SWEET26","GLYMA_08G360500, GmSWEET26","sugar efflux transporter SWEET26",49146,"MSTRG.16734","t40","down",NA,NA
+"1183",100800993,"LOC100800993","GLYMA_12G227900","chromatin remodeling protein EBS-like",72164,"MSTRG.24515","t40","down",NA,NA
+"1184",100801229,"LOC100801229","GLYMA_15G048700","pinin",86867,"MSTRG.29428","t40","down",NA,NA
+"1185",100801450,"LOC100801450","GLYMA_09G094800","60S ribosomal protein L39",51245,"MSTRG.17459","t40","down",NA,NA
+"1186",100801545,"LOC100801545","GLYMA_05G133100","E3 ubiquitin-protein ligase UPL1",26218,"MSTRG.8805","t40","down",NA,NA
+"1187",100801741,"LOC100801741","GLYMA_06G135800","60S acidic ribosomal protein P1",31682,"MSTRG.10854","t40","down",NA,NA
+"1188",100801918,"LOC100801918","GLYMA_06G122600","alcohol dehydrogenase 1",31372,"MSTRG.10741","t40","down",NA,NA
+"1189",100802041,"LOC100802041","GLYMA_19G128800, GmPIN1e, PIN10a","auxin efflux transporter family protein",110428,"MSTRG.37229","t40","down",NA,NA
+"1190",100802042,"LOC100802042","GLYMA_19G019000","uncharacterized LOC100802042",108125,"MSTRG.36578","t40","down",NA,NA
+"1191",100802339,"LOC100802339","GLYMA_09G225900","equilibrative nucleotide transporter 1",53779,"MSTRG.18273","t40","down",NA,NA
+"1192",100803038,"LOC100803038","GLYMA_17G238200","probable isoaspartyl peptidase/L-asparaginase 2",101251,"MSTRG.34278","t40","down",NA,NA
+"1193",100803056,"LOC100803056","GLYMA_10G089200","actin-related protein 7",56974,"MSTRG.19381","t40","down",NA,NA
+"1194",100803594,"LOC100803594","GLYMA_18G124600","ubiquitin-conjugating enzyme E2 2",104157,"MSTRG.35319","t40","down",NA,NA
+"1195",100803701,"LOC100803701","GLYMA_07G114900","50S ribosomal protein L4, chloroplastic",38085,"MSTRG.12949","t40","down",NA,NA
+"1196",100803820,"LOC100803820","GLYMA_04G008700","zinc finger protein GIS2",17567,"MSTRG.6019","t40","down",NA,NA
+"1197",100803820,"LOC100803820","GLYMA_04G008700","zinc finger protein GIS2",17568,"MSTRG.6019","t40","down",NA,NA
+"1198",100803850,"LOC100803850","GLYMA_05G059600","40S ribosomal protein S30",24468,"MSTRG.8364","t40","down",NA,NA
+"1199",100803911,"LOC100803911","GLYMA_01G103500","auxin response factor 9",2415,"MSTRG.769","t40","down",NA,NA
+"1200",100804154,"LOC100804154","GLYMA_19G164500","protein root UVB sensitive 2, chloroplastic",111175,"MSTRG.37499","t40","down",NA,NA
+"1201",100804417,"LOC100804417","GLYMA_07G002000","uncharacterized LOC100804417",35673,"MSTRG.12088","t40","down",NA,NA
+"1202",100804466,"LOC100804466","","uncharacterized LOC100804466",10946,"MSTRG.3733","t40","down",NA,NA
+"1203",100804776,"LOC100804776","GLYMA_08G131500","60S acidic ribosomal protein P3",44305,"MSTRG.15138","t40","down",NA,NA
+"1204",100804817,"LOC100804817","GLYMA_09G257500","uncharacterized LOC100804817",54409,"MSTRG.18510","t40","down",NA,NA
+"1205",100805220,"LOC100805220","GLYMA_11G030700","thylakoid lumenal protein TL20.3, chloroplastic",62291,"MSTRG.21175","t40","down",NA,NA
+"1206",100805411,"LOC100805411","GLYMA_19G115300","plant cysteine oxidase 2",110150,"MSTRG.37121","t40","down",NA,NA
+"1207",100805957,"LOC100805957","GLYMA_04G122700","60S ribosomal protein L13-1",20018,"MSTRG.6872","t40","down",NA,NA
+"1208",100806196,"LOC100806196","GLYMA_15G077400","protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial",87474,"MSTRG.29663","t40","down",NA,NA
+"1209",100806454,"LOC100806454","GLYMA_10G048100","two-component response regulator-like APRR7",56098,"MSTRG.19129","t40","down",NA,NA
+"1210",100806473,"LOC100806473","GLYMA_19G115600","plant cysteine oxidase 2",110158,"MSTRG.37124","t40","down",NA,NA
+"1211",100807176,"LOC100807176","GLYMA_04G063000","60S ribosomal protein L39",18690,"MSTRG.6467","t40","down",NA,NA
+"1212",100807247,"LOC100807247","GLYMA_07G257700","stem-specific protein TSJT1",41088,"MSTRG.13908","t40","down",NA,NA
+"1213",100807339,"LOC100807339","GLYMA_11G195800","P-loop NTPase domain-containing protein LPA1 homolog 1",65262,"MSTRG.22321","t40","down",NA,NA
+"1214",100807850,"LOC100807850","GLYMA_18G197600","sulfoquinovosyl transferase SQD2",105670,"MSTRG.35694","t40","down",NA,NA
+"1215",100807854,"LOC100807854","GLYMA_18G297100","LOB domain-containing protein 41",107606,"MSTRG.36394","t40","down",NA,NA
+"1216",100807864,"LOC100807864","GLYMA_03G189700","pyruvate kinase 1, cytosolic",15782,"MSTRG.5313","t40","down",NA,NA
+"1217",100808209,"LOC100808209","GLYMA_10G172300","glucan endo-1,3-beta-glucosidase 11",58930,"MSTRG.19907","t40","down",NA,NA
+"1218",100808934,"LOC100808934","GLYMA_03G189600","Myb/SANT-like DNA-binding domain-containing protein",15780,"MSTRG.5312","t40","down",NA,NA
+"1219",100809096,"LOC100809096","GLYMA_02G085300","40S ribosomal protein S2-4",7108,"MSTRG.2484","t40","down",NA,NA
+"1220",100809240,"LOC100809240","GLYMA_17G098900","transcription factor bHLH47",98227,"MSTRG.33292","t40","down",NA,NA
+"1221",100809393,"LOC100809393","GLYMA_15G020700","profilin-4",86170,"MSTRG.29189","t40","down",NA,NA
+"1222",100809419,"LOC100809419","GLYMA_16G127100","pathogenesis-related thaumatin-like protein 3.5",94259,"MSTRG.31802","t40","down",NA,NA
+"1223",100809485,"LOC100809485","GLYMA_03G235800","ATP-dependent Clp protease proteolytic subunit-related protein 3, chloroplastic-like",16749,"MSTRG.5712","t40","down",NA,NA
+"1224",100810310,"LOC100810310","GLYMA_17G143200","60S ribosomal protein L15-1",99110,"MSTRG.33655","t40","down",NA,NA
+"1225",100810363,"LOC100810363","GLYMA_11G019500","40S ribosomal protein S2-4",62071,"MSTRG.21087","t40","down",NA,NA
+"1226",100810689,"LOC100810689","GLYMA_17G083200","H/ACA ribonucleoprotein complex subunit 2-like protein",97862,"MSTRG.33165","t40","down",NA,NA
+"1227",100811085,"LOC100811085","GLYMA_03G207700","40S ribosomal protein S28",16158,"MSTRG.5476","t40","down",NA,NA
+"1228",100811093,"LOC100811093","GLYMA_11G139600","epsin-3",64471,"MSTRG.22062","t40","down",NA,NA
+"1229",100811107,"LOC100811107","GLYMA_04G068400","transcription initiation factor TFIID subunit 15",18817,"MSTRG.6517","t40","down",NA,NA
+"1230",100811636,"LOC100811636","GLYMA_19G167800","60S ribosomal protein L23",111244,"MSTRG.37525","t40","down",NA,NA
+"1231",100811901,"LOC100500445","","transcription factor MYB21-like",41890,"MSTRG.14202","t40","down",NA,NA
+"1232",100811945,"HSF-21","GLYMA_10G029600, GmHSF-21","heat stress transcription factor 21",55722,"MSTRG.18995","t40","down",NA,NA
+"1233",100811997,"LOC100811997","GLYMA_20G098400","calreticulin",115359,"MSTRG.38890","t40","down",NA,NA
+"1234",100812117,"LOC100812117","GLYMA_02G103600","40S ribosomal protein S16",7552,"MSTRG.2622","t40","down",NA,NA
+"1235",100812187,"LOC100812187","GLYMA_04G042100","probable isoaspartyl peptidase/L-asparaginase 2-like",18270,"MSTRG.6305","t40","down",NA,NA
+"1236",100813075,"LOC100813075","GLYMA_12G055000","lysine-specific demethylase JMJ30",68608,"MSTRG.23405","t40","down",NA,NA
+"1237",100813165,"LOC100813165","GLYMA_16G070900","glycine-rich RNA-binding protein 3, mitochondrial",92990,"MSTRG.31495","t40","down",NA,NA
+"1238",100813408,"LOC100813408","GLYMA_10G044800","WAT1-related protein At2g37460",56018,"MSTRG.19104","t40","down",NA,NA
+"1239",100813601,"LOC100813601","GLYMA_11G032800","40S ribosomal protein S30",62338,"MSTRG.21194","t40","down",NA,NA
+"1240",100813931,"LOC100813931","GLYMA_18G107600","probable receptor-like protein kinase At2g42960",103828,"MSTRG.35235","t40","down",NA,NA
+"1241",100814175,"LOC100814175","GLYMA_13G046300","LOB domain-containing protein 41",73659,"MSTRG.24846","t40","down",NA,NA
+"1242",100814347,"LOC100814347","","uncharacterized LOC100814347",24685,"MSTRG.8419","t40","down",NA,NA
+"1243",100814521,"LOC100814521","GLYMA_12G028300","delta(24)-sterol reductase",68055,"MSTRG.23210","t40","down",NA,NA
+"1244",100814593,"LOC100814593","GLYMA_01G131100","aspartate aminotransferase, mitochondrial",2966,"MSTRG.918","t40","down",NA,NA
+"1245",100814873,"LOC100814873","GLYMA_12G200600","uncharacterized LOC100814873",71691,"MSTRG.24306","t40","down",NA,NA
+"1246",100814897,"LOC100814897","GLYMA_05G058100","L-lactate dehydrogenase B",24439,"MSTRG.8351","t40","down",NA,NA
+"1247",100815403,"LOC100815403","GLYMA_12G200800","uncharacterized LOC100815403",71694,"MSTRG.24308","t40","down",NA,NA
+"1248",100815710,"LOC100815710","GLYMA_11G081600","uncharacterized LOC100815710",63316,"MSTRG.21585","t40","down",NA,NA
+"1249",100816661,"LOC100816661","GLYMA_13G149700","putative mediator of RNA polymerase II transcription subunit 26",75933,"MSTRG.25655","t40","down",NA,NA
+"1250",100816661,"LOC100816661","GLYMA_13G149700","putative mediator of RNA polymerase II transcription subunit 26",75932,"MSTRG.25655","t40","down",NA,NA
+"1251",100816874,"LOC100816874","GLYMA_08G048200","40S ribosomal protein S16",42560,"MSTRG.14465","t40","down",NA,NA
+"1252",100816988,"LOC100816988","GLYMA_04G237300","spermine synthase",22605,"MSTRG.7635","t40","down",NA,NA
+"1253",100817130,"LOC100817130","GLYMA_18G132500","probable inactive purple acid phosphatase 1",104355,"MSTRG.35358","t40","down",NA,NA
+"1254",100817224,"LOC100817224","GLYMA_15G147300","uncharacterized LOC100817224",88730,"MSTRG.30163","t40","down",NA,NA
+"1255",100817338,"LOC100817338","GLYMA_12G115400","uncharacterized LOC100817338",69833,"MSTRG.23817","t40","down",NA,NA
+"1256",100817521,"LOC100817521","GLYMA_20G050300","alcohol dehydrogenase-like 7",114235,"MSTRG.38591","t40","down",NA,NA
+"1257",100817574,"LOC100817574","GLYMA_14G213600","plasmodesmata-located protein 7",85429,"MSTRG.28912","t40","down",NA,NA
+"1258",100817824,"LOC100817824","GLYMA_18G147100","pre-rRNA-processing protein TSR2",104668,"MSTRG.35447","t40","down",NA,NA
+"1259",100817900,"LOC100817900","GLYMA_13G025700","N-acetyltransferase 9-like",73087,"MSTRG.24711","t40","down",NA,NA
+"1260",100817911,"LOC100817911","GLYMA_06G297600","uncharacterized LOC100817911",34974,"MSTRG.11854","t40","down",NA,NA
+"1261",100818200,"LOC100818200","GLYMA_03G205800","40S ribosomal protein S28",16111,"MSTRG.5451","t40","down",NA,NA
+"1262",100818410,"LOC100818410","GLYMA_12G131700","60S ribosomal protein L11",70086,"MSTRG.23877","t40","down",NA,NA
+"1263",100818414,"LOC100818414","GLYMA_20G132800","mitotic checkpoint protein BUB3.1",116105,"MSTRG.39172","t40","down",NA,NA
+"1264",100818450,"LOC100818450","GLYMA_06G297800","uncharacterized LOC100818450",34983,"MSTRG.11859","t40","down",NA,NA
+"1265",100819098,"LOC100819098","GLYMA_19G051500","E3 ubiquitin-protein ligase RGLG2",108792,"MSTRG.36759","t40","down",NA,NA
+"1266",100819405,"LOC100819405","GLYMA_17G187300","2-aminoethanethiol dioxygenase-like",100044,"MSTRG.33955","t40","down",NA,NA
+"1267",100819571,"LOC100819571","GLYMA_01G062400","putative copper amine oxidase",1486,"MSTRG.551","t40","down",NA,NA
+"1268",100819707,"LOC100819707","GLYMA_06G316500","S-adenosylmethionine-dependent methyltransferases superfamily protein",35355,"MSTRG.11994","t40","down",NA,NA
+"1269",100819947,"LOC100819947","GLYMA_17G130400","zinc finger protein SHOOT GRAVITROPISM 5",98876,"MSTRG.33564","t40","down",NA,NA
+"1270",100820121,"LOC100820121","GLYMA_09G061200","calcium-transporting ATPase 8, plasma membrane-type",50618,"MSTRG.17261","t40","down",NA,NA
+"1271",100820292,"LOC100820292","GLYMA_17G117100","early nodulin-93-like",98595,"MSTRG.33446","t40","down",NA,NA
+"1272",102577934,"C4H1","","cinnamate 4-hydroxylase CYP73",115685,"MSTRG.39030","t40","down",NA,NA
+"1273",102660769,"LOC102660769","GLYMA_20G115300","ethylene-responsive transcription factor ERF118",115720,"MSTRG.39041","t40","down",NA,NA
+"1274",102661113,"LOC102661113","GLYMA_08G180500","protein SODIUM POTASSIUM ROOT DEFECTIVE 3",45325,"MSTRG.15512","t40","down",NA,NA
+"1275",102662805,"LOC102662805","GLYMA_06G184300","uncharacterized LOC102662805",32774,"MSTRG.11262","t40","down",NA,NA
+"1276",102665105,"LOC102665105","GLYMA_09G140800","E3 ubiquitin-protein ligase ATL31",52154,"MSTRG.17682","t40","down",NA,NA
+"1277",102665140,"LOC102665140","GLYMA_19G140500","uncharacterized LOC102665140",110667,"MSTRG.37319","t40","down",NA,NA
+"1278",102665617,"LOC102665617","GLYMA_11G022400","brassinosteroid-responsive RING protein 1",62129,"MSTRG.21114","t40","down",NA,NA
+"1279",102666841,"LOC100777575","","cyprosin-like",109546,"MSTRG.36922","t40","down",NA,NA
+"1280",102667101,"LOC102667101","","uncharacterized LOC102667101",75684,"MSTRG.25565","t40","down",NA,NA
+"1281",102668075,"LOC102668075","","uncharacterized LOC102668075",65706,"MSTRG.22463","t40","down",NA,NA
+"1282",102669499,"LOC102669499","GLYMA_07G087300","uncharacterized LOC102669499",37520,"MSTRG.12761","t40","down",NA,NA
+"1283",102670364,"LOC102670364","GLYMA_04G014000","polyol transporter 5",17676,"MSTRG.6062","t40","down",NA,NA
+"1284",106794096,"LOC106794096","GLYMA_17G054900","transmembrane protein 258",97268,"MSTRG.32946","t40","down",NA,NA
+"1285",106795008,"LOC106795008","GLYMA_10G260700","uncharacterized LOC106795008",60761,"MSTRG.20597","t40","down",NA,NA
+"1286",106796022,"LOC106796022","","uncharacterized LOC106796022",81874,"MSTRG.27863","t40","down",NA,NA
+"1287",106796585,"LOC106796585","GLYMA_16G127200","cold shock domain-containing protein 3",94260,"MSTRG.31803","t40","down",NA,NA
+"1288",106798417,"LOC100810235","","uncharacterized LOC106798417",20616,"MSTRG.7021","t40","down",NA,NA
+"1289",106798613,"LOC106798613","","uncharacterized LOC106798613",19519,"MSTRG.6758","t40","down",NA,NA
+"1290",106799481,"LOC106799481","","uncharacterized LOC106799481",40046,"MSTRG.13519","t40","down",NA,NA
+"1291",112997632,"LOC100809404","","protein LURP-one-related 10-like",92968,"MSTRG.31488","t40","down",NA,NA
+"1292",112997784,"LOC112997784","GLYMA_01G184900","precursor of CEP7",4094,"MSTRG.1333","t40","down",NA,NA
+"1293",112998429,"LOC112998429","","small nucleolar RNA snoR143",66502,"MSTRG.22663","t40","down",NA,NA
+"1294",112999036,"LOC112999036","","18S ribosomal RNA",119158,"MSTRG.40290","t40","down",NA,NA
+"1295",112999193,"LOC112999193","","28S ribosomal RNA",119073,"MSTRG.40259","t40","down",NA,NA
+"1296",112999213,"LOC112999213","","28S ribosomal RNA",73053,"MSTRG.24702","t40","down",NA,NA
+"1297",112999750,"IF7GT3","GLYMA_16G175200, GmIF7GT3","isoflavone 7-O-glucosyltransferase UGT3",95210,"MSTRG.32138","t40","down",NA,NA
+"1298",113000298,"LOC113000298","","small nucleolar RNA SNORD25",102990,"MSTRG.34937","t40","down",NA,NA
+"1299",113001441,"LOC113001441","GLYMA_04G007900","30S ribosomal protein S31, mitochondrial",17551,"MSTRG.6012","t40","down",NA,NA
+"1300",113001804,"LOC113001804","","small nucleolar RNA SNORD14",28368,"MSTRG.9598","t40","down",NA,NA
+"1301",113002019,"LOC113002019","","small nucleolar RNA Z152/R70/R12",118818,"MSTRG.40131","t40","down",NA,NA
+"1302",121173836,"LOC121173836","","40S ribosomal protein S30",99084,"MSTRG.33651","t40","down",NA,NA
+"1303",121174643,"LOC121174643","","receptor-like serine/threonine-protein kinase At2g45590",12248,"MSTRG.4233","t40","down",NA,NA
+"1304",NA,".",NA,NA,103657,"MSTRG.35188","t40","down",NA,NA
+"1305",NA,".",NA,NA,63478,"MSTRG.21659","t40","down",NA,NA
+"1306",NA,".",NA,NA,107687,"MSTRG.36423","t40","down",NA,NA
+"1307",NA,".",NA,NA,588,"MSTRG.256","t40","down",NA,NA
+"1308",NA,".",NA,NA,49021,"MSTRG.16688","t40","down",NA,NA
+"1309",NA,".",NA,NA,118978,"MSTRG.40165","t40","down",NA,NA
+"1310",NA,".",NA,NA,101830,"MSTRG.34488","t40","down",NA,NA
+"1311",NA,".",NA,NA,66912,"MSTRG.22826","t40","down",NA,NA
+"1312",NA,".",NA,NA,16280,"MSTRG.5525","t40","down",NA,NA
+"1313",NA,".",NA,NA,96547,"MSTRG.32641","t40","down",NA,NA
+"1314",NA,".",NA,NA,55540,"MSTRG.18921","t40","down",NA,NA
+"1315",NA,".",NA,NA,26551,"MSTRG.8923","t40","down",NA,NA
+"1316",NA,".",NA,NA,6471,"MSTRG.2257","t40","down",NA,NA
+"1317",NA,".",NA,NA,89389,"MSTRG.30352","t40","down",NA,NA
+"1318",NA,".",NA,NA,116062,"MSTRG.39149","t40","down",NA,NA
+"1319",NA,".",NA,NA,105623,"MSTRG.35683","t40","down",NA,NA
+"1320",NA,".",NA,NA,73030,"MSTRG.24702","t40","down",NA,NA
+"1321",NA,".",NA,NA,8005,"MSTRG.2772","t40","down",NA,NA
+"1322",NA,".",NA,NA,81135,"MSTRG.27594","t40","down",NA,NA
+"1323",NA,".",NA,NA,89118,"MSTRG.30280","t40","down",NA,NA
+"1324",NA,".",NA,NA,43201,"MSTRG.14720","t40","down",NA,NA
+"1325",NA,".",NA,NA,74758,"MSTRG.25243","t40","down",NA,NA
+"1326",NA,".",NA,NA,86653,"MSTRG.29359","t40","down",NA,NA
+"1327",NA,".",NA,NA,110810,"MSTRG.37378","t40","down",NA,NA
+"1328",NA,".",NA,NA,10982,"MSTRG.3745","t40","down",NA,NA
+"1329",NA,".",NA,NA,107706,"MSTRG.36428","t40","down",NA,NA
+"1330",NA,".",NA,NA,58358,"MSTRG.19716","t40","down",NA,NA
+"1331",NA,".",NA,NA,81944,"MSTRG.27893","t40","down",NA,NA
+"1332",NA,".",NA,NA,72689,"MSTRG.24643","t40","down",NA,NA
+"1333",NA,".",NA,NA,35004,"MSTRG.11870","t40","down",NA,NA
+"1334",NA,".",NA,NA,81217,"MSTRG.27625","t40","down",NA,NA
+"1335",NA,".",NA,NA,78544,"MSTRG.26635","t40","down",NA,NA
+"1336",NA,".",NA,NA,107859,"MSTRG.36473","t40","down",NA,NA
+"1337",NA,".",NA,NA,36585,"MSTRG.12419","t40","down",NA,NA
+"1338",NA,".",NA,NA,98895,"MSTRG.33571","t40","down",NA,NA
+"1339",NA,".",NA,NA,36053,"MSTRG.12227","t40","down",NA,NA
+"1340",NA,".",NA,NA,68934,"MSTRG.23524","t40","down",NA,NA
+"1341",NA,".",NA,NA,30612,"MSTRG.10446","t40","down",NA,NA
+"1342",NA,".",NA,NA,102853,"MSTRG.34885","t40","down",NA,NA
+"1343",NA,".",NA,NA,89186,"MSTRG.30302","t40","down",NA,NA
+"1344",NA,".",NA,NA,43192,"MSTRG.14717","t40","down",NA,NA
+"1345",NA,".",NA,NA,99506,"MSTRG.33812","t40","down",NA,NA
+"1346",NA,".",NA,NA,36932,"MSTRG.12553","t40","down",NA,NA
+"1347",NA,".",NA,NA,51439,"MSTRG.17504","t40","down",NA,NA
+"1348",NA,".",NA,NA,15136,"MSTRG.5082","t40","down",NA,NA
+"1349",NA,".",NA,NA,73037,"MSTRG.24702","t40","down",NA,NA
+"1350",NA,".",NA,NA,60708,"MSTRG.20574","t40","down",NA,NA
+"1351",NA,".",NA,NA,81134,"MSTRG.27594","t40","down",NA,NA
+"1352",NA,".",NA,NA,43289,"MSTRG.14746","t40","down",NA,NA
+"1353",NA,".",NA,NA,28772,"MSTRG.9753","t40","down",NA,NA
+"1354",NA,".",NA,NA,118157,"MSTRG.39922","t40","down",NA,NA
+"1355",NA,".",NA,NA,11428,"MSTRG.3927","t40","down",NA,NA
+"1356",NA,".",NA,NA,86700,"MSTRG.29376","t40","down",NA,NA
+"1357",NA,".",NA,NA,32440,"MSTRG.11141","t40","down",NA,NA
+"1358",NA,".",NA,NA,106444,"MSTRG.35952","t40","down",NA,NA
+"1359",NA,".",NA,NA,19763,"MSTRG.6824","t40","down",NA,NA
+"1360",NA,".",NA,NA,18395,"MSTRG.6358","t40","down",NA,NA
+"1361",NA,".",NA,NA,32405,"MSTRG.11128","t40","down",NA,NA
+"1362",NA,".",NA,NA,42456,"MSTRG.14435","t40","down",NA,NA
+"1363",NA,".",NA,NA,93914,"MSTRG.31724","t40","down",NA,NA
+"1364",NA,".",NA,NA,107701,"MSTRG.36425","t40","down",NA,NA
+"1365",NA,".",NA,NA,61514,"MSTRG.20886","t40","down",NA,NA
+"1366",NA,".",NA,NA,72620,"MSTRG.24631","t40","down",NA,NA
+"1367",NA,".",NA,NA,16095,"MSTRG.5450","t40","down",NA,NA
+"1368",NA,".",NA,NA,91632,"MSTRG.30950","t40","down",NA,NA
+"1369",NA,".",NA,NA,26466,"MSTRG.8898","t40","down",NA,NA
+"1370",NA,".",NA,NA,31193,"MSTRG.10676","t40","down",NA,NA
+"1371",NA,".",NA,NA,76421,"MSTRG.25840","t40","down",NA,NA
+"1372",NA,".",NA,NA,108805,"MSTRG.36763","t40","down",NA,NA
+"1373",NA,".",NA,NA,86744,"MSTRG.29393","t40","down",NA,NA
+"1374",NA,".",NA,NA,49019,"MSTRG.16688","t40","down",NA,NA
+"1375",NA,".",NA,NA,5932,"MSTRG.2061","t40","down",NA,NA
+"1376",NA,".",NA,NA,107732,"MSTRG.36435","t40","down",NA,NA
+"1377",NA,".",NA,NA,91891,"MSTRG.31068","t40","down",NA,NA
+"1378",NA,".",NA,NA,87696,"MSTRG.29739","t40","down",NA,NA
+"1379",NA,".",NA,NA,44738,"MSTRG.15296","t40","down",NA,NA
+"1380",NA,".",NA,NA,43288,"MSTRG.14746","t40","down",NA,NA
+"1381",NA,".",NA,NA,56534,"MSTRG.19259","t40","down",NA,NA
+"1382",NA,".",NA,NA,7672,"MSTRG.2669","t40","down",NA,NA
+"1383",NA,".",NA,NA,48169,"MSTRG.16404","t40","down",NA,NA
+"1384",NA,".",NA,NA,116829,"MSTRG.39440","t40","down",NA,NA
+"1385",NA,".",NA,NA,22802,"MSTRG.7706","t40","down",NA,NA
+"1386",NA,".",NA,NA,41307,"MSTRG.13996","t40","down",NA,NA
+"1387",NA,".",NA,NA,67986,"MSTRG.23196","t40","down",NA,NA
+"1388",NA,".",NA,NA,119231,"MSTRG.40363","t40","down",NA,NA
+"1389",NA,".",NA,NA,91527,"MSTRG.30916","t40","down",NA,NA
+"1390",NA,".",NA,NA,6751,"MSTRG.2352","t40","down",NA,NA
+"1391",NA,".",NA,NA,92544,"MSTRG.31328","t40","down",NA,NA
+"1392",NA,".",NA,NA,26154,"MSTRG.8781","t40","down",NA,NA
+"1393",NA,".",NA,NA,62850,"MSTRG.21389","t40","down",NA,NA
+"1394",NA,".",NA,NA,14531,"MSTRG.4886","t40","down",NA,NA
+"1395",NA,".",NA,NA,15651,"MSTRG.5266","t40","down",NA,NA
+"1396",NA,".",NA,NA,49437,"MSTRG.16829","t40","down",NA,NA
+"1397",NA,".",NA,NA,7494,"MSTRG.2608","t40","down",NA,NA
+"1398",NA,".",NA,NA,59176,"MSTRG.20004","t40","down",NA,NA
+"1399",NA,".",NA,NA,215,"MSTRG.103","t40","down",NA,NA
+"1400",NA,".",NA,NA,119099,"MSTRG.40278","t40","down",NA,NA
+"1401",NA,".",NA,NA,9657,"MSTRG.3243","t40","down",NA,NA
+"1402",NA,".",NA,NA,109268,"MSTRG.36858","t40","down",NA,NA
+"1403",NA,".",NA,NA,86618,"MSTRG.29344","t40","down",NA,NA
+"1404",NA,".",NA,NA,7067,"MSTRG.2460","t40","down",NA,NA
+"1405",NA,".",NA,NA,16643,"MSTRG.5674","t40","down",NA,NA
+"1406",NA,".",NA,NA,107728,"MSTRG.36433","t40","down",NA,NA
+"1407",NA,".",NA,NA,41771,"MSTRG.14153","t40","down",NA,NA
+"1408",NA,".",NA,NA,103769,"MSTRG.35221","t40","down",NA,NA
+"1409",NA,".",NA,NA,23008,"MSTRG.7788","t40","down",NA,NA
+"1410",NA,".",NA,NA,59140,"MSTRG.19991","t40","down",NA,NA
+"1411",NA,".",NA,NA,28382,"MSTRG.9603","t40","down",NA,NA
+"1412",NA,".",NA,NA,93050,"MSTRG.31513","t40","down",NA,NA
+"1413",NA,".",NA,NA,17456,"MSTRG.5972","t40","down",NA,NA
+"1414",NA,".",NA,NA,14800,"MSTRG.4967","t40","down",NA,NA
+"1415",NA,".",NA,NA,78387,"MSTRG.26573","t40","down",NA,NA
+"1416",NA,".",NA,NA,4093,"MSTRG.1333","t40","down",NA,NA
+"1417",NA,".",NA,NA,101154,"MSTRG.34232","t40","down",NA,NA
+"1418",NA,".",NA,NA,69166,"MSTRG.23596","t40","down",NA,NA
+"1419",NA,".",NA,NA,85089,"MSTRG.28797","t40","down",NA,NA
+"1420",NA,".",NA,NA,14854,"MSTRG.4989","t40","down",NA,NA
+"1421",NA,".",NA,NA,80567,"MSTRG.27379","t40","down",NA,NA
+"1422",NA,".",NA,NA,61887,"MSTRG.21015","t40","down",NA,NA
+"1423",NA,".",NA,NA,11276,"MSTRG.3876","t40","down",NA,NA
+"1424",NA,".",NA,NA,72218,"MSTRG.24531","t40","down",NA,NA
+"1425",NA,".",NA,NA,4031,"MSTRG.1309","t40","down",NA,NA
+"1426",NA,".",NA,NA,75247,"MSTRG.25401","t40","down",NA,NA
+"1427",NA,".",NA,NA,79308,"MSTRG.26919","t40","down",NA,NA
+"1428",NA,".",NA,NA,39705,"MSTRG.13398","t40","down",NA,NA
+"1429",NA,".",NA,NA,94856,"MSTRG.32010","t40","down",NA,NA
+"1430",NA,".",NA,NA,63047,"MSTRG.21467","t40","down",NA,NA
+"1431",NA,".",NA,NA,29970,"MSTRG.10209","t40","down",NA,NA
+"1432",NA,".",NA,NA,65234,"MSTRG.22315","t40","down",NA,NA
+"1433",NA,".",NA,NA,113259,"MSTRG.38324","t40","down",NA,NA
+"1434",NA,".",NA,NA,59464,"MSTRG.20115","t40","down",NA,NA
+"1435",NA,".",NA,NA,32631,"MSTRG.11208","t40","down",NA,NA
+"1436",NA,".",NA,NA,95939,"MSTRG.32397","t40","down",NA,NA
+"1437",NA,".",NA,NA,85515,"MSTRG.28955","t40","down",NA,NA
+"1438",NA,".",NA,NA,116877,"MSTRG.39453","t40","down",NA,NA
+"1439",NA,".",NA,NA,34881,"MSTRG.11820","t40","down",NA,NA
+"1440",NA,".",NA,NA,45413,"MSTRG.15542","t40","down",NA,NA
+"1441",NA,".",NA,NA,73041,"MSTRG.24702","t40","down",NA,NA
+"1442",NA,".",NA,NA,57318,"MSTRG.19442","t40","down",NA,NA
+"1443",NA,".",NA,NA,96552,"MSTRG.32642","t40","down",NA,NA
+"1444",NA,".",NA,NA,6133,"MSTRG.2134","t40","down",NA,NA
+"1445",NA,".",NA,NA,68018,"MSTRG.23202","t40","down",NA,NA
+"1446",NA,".",NA,NA,47689,"MSTRG.16245","t40","down",NA,NA
+"1447",NA,".",NA,NA,90855,"MSTRG.30705","t40","down",NA,NA
+"1448",NA,".",NA,NA,25263,"MSTRG.8540","t40","down",NA,NA
+"1449",NA,".",NA,NA,53602,"MSTRG.18209","t40","down",NA,NA
+"1450",NA,".",NA,NA,11664,"MSTRG.4029","t40","down",NA,NA
+"1451",NA,".",NA,NA,16854,"MSTRG.5746","t40","down",NA,NA
+"1452",NA,".",NA,NA,11890,"MSTRG.4105","t40","down",NA,NA
+"1453",NA,".",NA,NA,75142,"MSTRG.25363","t40","down",NA,NA
+"1454",NA,".",NA,NA,82408,"MSTRG.28036","t40","down",NA,NA
+"1455",NA,".",NA,NA,53189,"MSTRG.18041","t40","down",NA,NA
+"1456",NA,".",NA,NA,33684,"MSTRG.11517","t40","down",NA,NA
+"1457",NA,".",NA,NA,87455,"MSTRG.29657","t40","down",NA,NA
+"1458",NA,".",NA,NA,38713,"MSTRG.13164","t40","down",NA,NA
+"1459",NA,".",NA,NA,54607,"MSTRG.18585","t40","down",NA,NA
+"1460",NA,".",NA,NA,110373,"MSTRG.37208","t40","down",NA,NA
+"1461",NA,".",NA,NA,101959,"MSTRG.34542","t40","down",NA,NA
+"1462",NA,".",NA,NA,19080,"MSTRG.6601","t40","down",NA,NA
+"1463",NA,".",NA,NA,16123,"MSTRG.5462","t40","down",NA,NA
+"1464",NA,".",NA,NA,71333,"MSTRG.24183","t40","down",NA,NA
+"1465",NA,".",NA,NA,12132,"MSTRG.4193","t40","down",NA,NA
+"1466",NA,".",NA,NA,80053,"MSTRG.27178","t40","down",NA,NA
+"1467",NA,".",NA,NA,54597,"MSTRG.18580","t40","down",NA,NA
+"1468",NA,".",NA,NA,22960,"MSTRG.7776","t40","down",NA,NA
+"1469",NA,".",NA,NA,63065,"MSTRG.21475","t40","down",NA,NA
+"1470",NA,".",NA,NA,50801,"MSTRG.17332","t40","down",NA,NA
+"1471",NA,".",NA,NA,56570,"MSTRG.19273","t40","down",NA,NA
+"1472",NA,".",NA,NA,38879,"MSTRG.13202","t40","down",NA,NA
+"1473",NA,".",NA,NA,79002,"MSTRG.26808","t40","down",NA,NA
+"1474",NA,".",NA,NA,17643,"MSTRG.6048","t40","down",NA,NA
+"1475",NA,".",NA,NA,40652,"MSTRG.13737","t40","down",NA,NA
+"1476",NA,".",NA,NA,97983,"MSTRG.33214","t40","down",NA,NA
+"1477",NA,".",NA,NA,6442,"MSTRG.2245","t40","down",NA,NA
+"1478",NA,".",NA,NA,112189,"MSTRG.37888","t40","down",NA,NA
+"1479",NA,".",NA,NA,39433,"MSTRG.13308","t40","down",NA,NA
+"1480",NA,".",NA,NA,49059,"MSTRG.16706","t40","down",NA,NA
+"1481",100305418,"LOC100305418","GLYMA_12G002400","cytokinin-regulated kinase",67475,"MSTRG.23006","shared","up","cytokinin-regulated kinase","GO:0016021,GO:0005524,GO:0042803,GO:0004674"
+"1482",100306576,"LOC100306576","GLYMA_11G236500","uncharacterized LOC100306576",66880,"MSTRG.22815","shared","up","uncharacterized LOC100306576",NA
+"1483",100777818,"LOC100777818","GLYMA_06G128700","calcineurin B-like protein 4",31512,"MSTRG.10798","shared","up","calcineurin B-like protein 4","GO:0005509"
+"1484",100779180,"LOC100779180","GLYMA_11G069600","laccase-11",63088,"MSTRG.21481","shared","up","laccase-11","GO:0048046,GO:0005507,GO:0052716,GO:0016491,GO:0046274"
+"1485",100779437,"LOC100779437","GLYMA_07G102400","protein C2-DOMAIN ABA-RELATED 4",37808,"MSTRG.12875","shared","up","protein C2-DOMAIN ABA-RELATED 4","GO:0005634,GO:0005886,GO:0009738"
+"1486",100782800,"CRK71","GLYMA_20G138100, GmCRK71","cysteine-rich receptor-like protein kinase",116220,"MSTRG.39211","shared","up","cysteine-rich receptor-like protein kinase","GO:0016021,GO:0005886,GO:0005524,GO:0004674,GO:0006468"
+"1487",100784098,"LOC100784098","GLYMA_15G171000","IQ domain-containing protein IQM1",89259,"MSTRG.30323","shared","up","IQ domain-containing protein IQM1","GO:0005634"
+"1488",100784249,"LOC100784249","GLYMA_13G095100","probable xyloglucan endotransglucosylase/hydrolase protein 23",74641,"MSTRG.25203","shared","up","probable xyloglucan endotransglucosylase/hydrolase protein 23",NA
+"1489",100784908,"LOC100784908","GLYMA_11G109800","uncharacterized LOC100784908",63918,"MSTRG.21827","shared","up","uncharacterized LOC100784908","GO:0046872"
+"1490",100788062,"LOC100788062","GLYMA_10G079900","NDR1/HIN1-like protein 10",56767,"MSTRG.19337","shared","up","NDR1/HIN1-like protein 10","GO:0046658,GO:0016021,GO:0009506,GO:0098542"
+"1491",100792313,"LOC100792313","GLYMA_03G085500","GTP cyclohydrolase 1",13686,"MSTRG.4614","shared","up","GTP cyclohydrolase 1","GO:0005737,GO:0005525,GO:0003934,GO:0008270,GO:0035998,GO:0006729,GO:0046654"
+"1492",100792931,"LOC100792931","GLYMA_07G266500","scarecrow-like protein 13-like",41274,"MSTRG.13983","shared","up","scarecrow-like protein 13-like","GO:0005634,GO:0003700,GO:0043565,GO:0006355"
+"1493",100793208,"LOC100793208","GLYMA_04G2543001, GmSHMT04n","serine hydroxymethyltransferase 7",22930,"MSTRG.7766","shared","up","serine hydroxymethyltransferase 7",NA
+"1494",100793498,"LOC100793498","GLYMA_02G264200","U-box domain-containing protein 1",10939,"MSTRG.3731","shared","up","U-box domain-containing protein 1",NA
+"1495",100795896,"LOC100795896","GLYMA_13G204400","transcription factor bHLH130",77107,"MSTRG.26093","shared","up","transcription factor bHLH130","GO:0005634,GO:0000981,GO:0046983,GO:0000978,GO:0006357"
+"1496",100797211,"LOC100797211","GLYMA_10G204100","lysine histidine transporter-like 6",59580,"MSTRG.20152","shared","up","lysine histidine transporter-like 6","GO:0016021,GO:0005886,GO:0015293,GO:0006865,GO:0009734"
+"1497",100798343,"LOC100798343","GLYMA_20G092900","putative nuclear envelope-associated protein",115226,"MSTRG.38838","shared","up","putative nuclear envelope-associated protein",NA
+"1498",100799752,"LOC100799752","GLYMA_05G094400","mitogen-activated protein kinase kinase kinase 20",25417,"MSTRG.8560","shared","up","mitogen-activated protein kinase kinase kinase 20","GO:0005524,GO:0004674"
+"1499",100801386,"LOC100801386","GLYMA_13G355000","ABC transporter G family member 36",80350,"MSTRG.27289","shared","up","ABC transporter G family member 36","GO:0016021,GO:0005886,GO:0140359,GO:0005524"
+"1500",100805188,"LOC100805188","GLYMA_18G172600","protein SULFUR DEFICIENCY-INDUCED 1",105195,"MSTRG.35559","shared","up","protein SULFUR DEFICIENCY-INDUCED 1",NA
+"1501",100806690,"LOC100806690","GLYMA_06G072500","coiled-coil domain-containing protein 93",30266,"MSTRG.10324","shared","up","coiled-coil domain-containing protein 93",NA
+"1502",100811437,"LOC100811437","GLYMA_04G053300","aminopeptidase M1",18500,"MSTRG.6394","shared","up","aminopeptidase M1","GO:0043231,GO:0016020,GO:0004177,GO:0008237,GO:0008270,GO:0005737,GO:0070006,GO:0042277,GO:0043171,GO:0006508"
+"1503",100812261,"LOC100812261","GLYMA_16G111700","glutamate receptor 3.6",93940,"MSTRG.31731","shared","up","glutamate receptor 3.6","GO:0016021,GO:0005886,GO:0015276,GO:0038023"
+"1504",100813636,"LOC100813636","GLYMA_05G168400","ferredoxin-A",26998,"MSTRG.9103","shared","up","ferredoxin-A","GO:0009507,GO:0051537,GO:0009055,GO:0046872"
+"1505",100815756,"LOC100815756","GLYMA_05G169100","11S globulin seed storage protein 1",27012,"MSTRG.9108","shared","up","11S globulin seed storage protein 1","GO:0005783,GO:0000326,GO:0045735"
+"1506",100817267,"LOC100817267","GLYMA_09G246600","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380",54215,"MSTRG.18423","shared","up","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380","GO:0016021,GO:0005524,GO:0004672"
+"1507",100818944,"LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2",116110,"MSTRG.39176","shared","up","BTB/POZ domain-containing protein NPY2","GO:0009958,GO:0016567"
+"1508",100820369,"LOC100820369","GLYMA_04G225500","protein RESPONSE TO LOW SULFUR 3",22314,"MSTRG.7530","shared","up","protein RESPONSE TO LOW SULFUR 3","GO:0098869"
+"1509",102661371,"LOC102661371","GLYMA_18G209900v4","protein LURP-one-related 15-like",105931,"MSTRG.35769","shared","up","protein LURP-one-related 15-like",NA
+"1510",102664858,"LOC102664858","GLYMA_18G056400","senescence associated gene 20",102902,"MSTRG.34907","shared","up","senescence associated gene 20",NA
+"1511",112999626,"LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1",91040,"MSTRG.30735","shared","up","VQ motif-containing protein 1",NA
+"1512",112999843,"LOC112999843","","small nucleolar RNA snoR145",92190,"MSTRG.31181","shared","up","small nucleolar RNA snoR145",NA
+"1513",NA,".",NA,NA,11154,"MSTRG.3822","shared","up",NA,NA
+"1514",NA,".",NA,NA,92958,"MSTRG.31488","shared","up",NA,NA
+"1515",NA,".",NA,NA,86207,"MSTRG.29194","shared","up",NA,NA
+"1516",NA,".",NA,NA,74485,"MSTRG.25145","shared","up",NA,NA
+"1517",NA,".",NA,NA,54505,"MSTRG.18541","shared","up",NA,NA
+"1518",NA,".",NA,NA,1467,"MSTRG.543","shared","up",NA,NA
+"1519",NA,".",NA,NA,42777,"MSTRG.14562","shared","up",NA,NA
+"1520",NA,".",NA,NA,116211,"MSTRG.39210","shared","up",NA,NA
+"1521",NA,".",NA,NA,86931,"MSTRG.29454","shared","up",NA,NA
+"1522",NA,".",NA,NA,51753,"MSTRG.17586","shared","up",NA,NA
+"1523",NA,".",NA,NA,113819,"MSTRG.38502","shared","up",NA,NA
+"1524",NA,".",NA,NA,83742,"MSTRG.28421","shared","up",NA,NA
+"1525",NA,".",NA,NA,22229,"MSTRG.7496","shared","up",NA,NA
+"1526",NA,".",NA,NA,74640,"MSTRG.25203","shared","up",NA,NA
+"1527",NA,".",NA,NA,117262,"MSTRG.39593","shared","up",NA,NA
+"1528",NA,".",NA,NA,34364,"MSTRG.11665","shared","up",NA,NA
+"1529",NA,".",NA,NA,10129,"MSTRG.3407","shared","up",NA,NA
+"1530",NA,".",NA,NA,118033,"MSTRG.39884","shared","up",NA,NA
+"1531",NA,".",NA,NA,32085,"MSTRG.11007","shared","up",NA,NA
+"1532",NA,".",NA,NA,117749,"MSTRG.39768","shared","up",NA,NA
+"1533",NA,".",NA,NA,78199,"MSTRG.26504","shared","up",NA,NA
+"1534",NA,".",NA,NA,4807,"MSTRG.1609","shared","up",NA,NA
+"1535",NA,".",NA,NA,96030,"MSTRG.32423","shared","up",NA,NA
+"1536",NA,".",NA,NA,112724,"MSTRG.38122","shared","up",NA,NA
+"1537",NA,".",NA,NA,102034,"MSTRG.34572","shared","up",NA,NA
+"1538",NA,".",NA,NA,5200,"MSTRG.1757","shared","up",NA,NA
+"1539",NA,".",NA,NA,21488,"MSTRG.7254","shared","up",NA,NA
+"1540",NA,".",NA,NA,62738,"MSTRG.21341","shared","up",NA,NA
+"1541",NA,".",NA,NA,85053,"MSTRG.28779","shared","up",NA,NA
+"1542",547619,"SHOOT2","GLYMA_19G190000","SHOOT2 protein",111713,"MSTRG.37698","shared","down",NA,NA
+"1543",100037478,"SACPD-C","GLYMA_14G121400, FAB2.3","stearoyl-ACP desaturase",84260,"MSTRG.28545","shared","down",NA,NA
+"1544",100305771,"LOC100305771","GLYMA_13G301400","uncharacterized LOC100305771",79118,"MSTRG.26861","shared","down",NA,NA
+"1545",100306683,"LOC100306683","GLYMA_17G117200","uncharacterized LOC100306683",98598,"MSTRG.33448","shared","down",NA,NA
+"1546",100500345,"LOC100500345","GLYMA_11G235000","uncharacterized LOC100500345",66827,"MSTRG.22804","shared","down",NA,NA
+"1547",100500459,"LOC100500459","GLYMA_05G068500v4","FCS-like zinc-finger domain-containing protein",24704,"MSTRG.8424","shared","down",NA,NA
+"1548",100527371,"LOC100527371","GLYMA_19G213100","uncharacterized LOC100527371",112231,"MSTRG.37911","shared","down",NA,NA
+"1549",100527721,"LOC100527721","GLYMA_11G060500","uncharacterized LOC100527721",62912,"MSTRG.21415","shared","down",NA,NA
+"1550",100775486,"LOC100775486","GLYMA_05G048500","zinc finger protein SHOOT GRAVITROPISM 5",24234,"MSTRG.8279","shared","down",NA,NA
+"1551",100776345,"LOC100776345","GLYMA_03G178000","40S ribosomal protein S23-like",15558,"MSTRG.5231","shared","down",NA,NA
+"1552",100779051,"LOC100779051","GLYMA_05G009000","early nodulin-93",23377,"MSTRG.7963","shared","down",NA,NA
+"1553",100779467,"LOC100779467","GLYMA_16G062000","kelch repeat-containing protein At3g27220",92815,"MSTRG.31444","shared","down",NA,NA
+"1554",100781661,"LOC100781661","GLYMA_02G287000","peroxisomal and mitochondrial division factor 2",11363,"MSTRG.3902","shared","down",NA,NA
+"1555",100783654,"LOC100783654","GLYMA_03G026000","uncharacterized LOC100783654",12357,"MSTRG.4272","shared","down",NA,NA
+"1556",100784666,"LOC100784666","GLYMA_01G061500","serine/threonine-protein kinase dst1",1464,"MSTRG.543","shared","down",NA,NA
+"1557",100786490,"LOC100786490","GLYMA_19G046300","LOB domain-containing protein 41",108696,"MSTRG.36736","shared","down",NA,NA
+"1558",100794816,"LOC100794816","GLYMA_05G222400","1-aminocyclopropane-1-carboxylate oxidase 1",28172,"MSTRG.9531","shared","down",NA,NA
+"1559",100799771,"LOC100799771","GLYMA_06G121500","transcriptional corepressor SEUSS",31354,"MSTRG.10739","shared","down",NA,NA
+"1560",100801545,"LOC100801545","GLYMA_05G133100","E3 ubiquitin-protein ligase UPL1",26218,"MSTRG.8805","shared","down",NA,NA
+"1561",100801918,"LOC100801918","GLYMA_06G122600","alcohol dehydrogenase 1",31372,"MSTRG.10741","shared","down",NA,NA
+"1562",100803038,"LOC100803038","GLYMA_17G238200","probable isoaspartyl peptidase/L-asparaginase 2",101251,"MSTRG.34278","shared","down",NA,NA
+"1563",100803056,"LOC100803056","GLYMA_10G089200","actin-related protein 7",56974,"MSTRG.19381","shared","down",NA,NA
+"1564",100803911,"LOC100803911","GLYMA_01G103500","auxin response factor 9",2415,"MSTRG.769","shared","down",NA,NA
+"1565",100807247,"LOC100807247","GLYMA_07G257700","stem-specific protein TSJT1",41088,"MSTRG.13908","shared","down",NA,NA
+"1566",100810689,"LOC100810689","GLYMA_17G083200","H/ACA ribonucleoprotein complex subunit 2-like protein",97862,"MSTRG.33165","shared","down",NA,NA
+"1567",100811997,"LOC100811997","GLYMA_20G098400","calreticulin",115359,"MSTRG.38890","shared","down",NA,NA
+"1568",100815403,"LOC100815403","GLYMA_12G200800","uncharacterized LOC100815403",71694,"MSTRG.24308","shared","down",NA,NA
+"1569",100816661,"LOC100816661","GLYMA_13G149700","putative mediator of RNA polymerase II transcription subunit 26",75933,"MSTRG.25655","shared","down",NA,NA
+"1570",100817130,"LOC100817130","GLYMA_18G132500","probable inactive purple acid phosphatase 1",104355,"MSTRG.35358","shared","down",NA,NA
+"1571",100820292,"LOC100820292","GLYMA_17G117100","early nodulin-93-like",98595,"MSTRG.33446","shared","down",NA,NA
+"1572",102577934,"C4H1","","cinnamate 4-hydroxylase CYP73",115685,"MSTRG.39030","shared","down",NA,NA
+"1573",102665617,"LOC102665617","GLYMA_11G022400","brassinosteroid-responsive RING protein 1",62129,"MSTRG.21114","shared","down",NA,NA
+"1574",102666841,"LOC100777575","","cyprosin-like",109546,"MSTRG.36922","shared","down",NA,NA
+"1575",106799481,"LOC106799481","","uncharacterized LOC106799481",40046,"MSTRG.13519","shared","down",NA,NA
+"1576",112999750,"IF7GT3","GLYMA_16G175200, GmIF7GT3","isoflavone 7-O-glucosyltransferase UGT3",95210,"MSTRG.32138","shared","down",NA,NA
+"1577",121174643,"LOC121174643","","receptor-like serine/threonine-protein kinase At2g45590",12248,"MSTRG.4233","shared","down",NA,NA
+"1578",NA,".",NA,NA,41307,"MSTRG.13996","shared","down",NA,NA
+"1579",NA,".",NA,NA,17643,"MSTRG.6048","shared","down",NA,NA
+"1580",NA,".",NA,NA,107732,"MSTRG.36435","shared","down",NA,NA
+"1581",NA,".",NA,NA,28772,"MSTRG.9753","shared","down",NA,NA
+"1582",NA,".",NA,NA,63065,"MSTRG.21475","shared","down",NA,NA
+"1583",NA,".",NA,NA,43192,"MSTRG.14717","shared","down",NA,NA
+"1584",NA,".",NA,NA,48169,"MSTRG.16404","shared","down",NA,NA
+"1585",NA,".",NA,NA,54597,"MSTRG.18580","shared","down",NA,NA
+"1586",NA,".",NA,NA,47689,"MSTRG.16245","shared","down",NA,NA
+"1587",NA,".",NA,NA,4031,"MSTRG.1309","shared","down",NA,NA
+"1588",NA,".",NA,NA,118978,"MSTRG.40165","shared","down",NA,NA
+"1589",NA,".",NA,NA,49437,"MSTRG.16829","shared","down",NA,NA
+"1590",NA,".",NA,NA,85515,"MSTRG.28955","shared","down",NA,NA
+"1591",NA,".",NA,NA,58358,"MSTRG.19716","shared","down",NA,NA
+"1592",NA,".",NA,NA,110373,"MSTRG.37208","shared","down",NA,NA
+"1593",NA,".",NA,NA,99506,"MSTRG.33812","shared","down",NA,NA
+"1594",NA,".",NA,NA,118157,"MSTRG.39922","shared","down",NA,NA
+"1595",NA,".",NA,NA,107859,"MSTRG.36473","shared","down",NA,NA
+"1596",NA,".",NA,NA,101959,"MSTRG.34542","shared","down",NA,NA
+"1597",NA,".",NA,NA,14531,"MSTRG.4886","shared","down",NA,NA
+"1598",NA,".",NA,NA,95939,"MSTRG.32397","shared","down",NA,NA
+"1599",NA,".",NA,NA,71333,"MSTRG.24183","shared","down",NA,NA
+"1600",NA,".",NA,NA,15136,"MSTRG.5082","shared","down",NA,NA
+"1601",NA,".",NA,NA,25263,"MSTRG.8540","shared","down",NA,NA
+"1602",NA,".",NA,NA,5932,"MSTRG.2061","shared","down",NA,NA

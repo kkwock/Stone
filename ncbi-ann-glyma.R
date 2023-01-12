@@ -103,7 +103,7 @@ annoGO <- function(x, orgdb){
   # Collapse list of GO-terms to each ID
   df <- AnnotationDbi::select(orgdb, search.list, columns(orgdb), "ALIAS")
   collapsed.df <- df %>% group_by(ENTREZID, GENENAME) %>% 
-    summarise(GO = paste(GO, collapse=','))
+    summarise(GO = paste(unique(GO), collapse=','))
   colnames(collapsed.df)[1] <- 'uid'
   
   return(collapsed.df)
@@ -129,3 +129,10 @@ GO.profile <- function(x, orgdb){
   
   return(list(yy = yy, ego = ego))
 }
+
+write.GO <- function(x, csv.name, orgdb){
+  collapsed.df <- annoGO(t20.up, orgdb)
+  merge <- merge(x, collapsed.df, by = "uid", all.x = T)
+  write.csv(merge, csv.name, row.names=F)
+}
+
