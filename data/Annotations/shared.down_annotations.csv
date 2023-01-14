@@ -1,7 +1,6 @@
 "uid","gene_name","alias","desc"
 NA,".",NA,NA
 "100803911","LOC100803911","GLYMA_01G103500","auxin response factor 9"
-"112999750","IF7GT3","GLYMA_16G175200, GmIF7GT3","isoflavone 7-O-glucosyltransferase UGT3"
 NA,".",NA,NA
 "121174643","LOC121174643","","receptor-like serine/threonine-protein kinase At2g45590"
 "100527721","LOC100527721","GLYMA_11G060500","uncharacterized LOC100527721"
@@ -23,8 +22,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "547619","SHOOT2","GLYMA_19G190000","SHOOT2 protein"
-NA,".",NA,NA
-NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA

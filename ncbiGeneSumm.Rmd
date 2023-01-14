@@ -76,10 +76,10 @@ source('ncbi-ann-glyma.R')
 # reading in the files
 t20.up <- read.csv('data/FPKM_tables/FPKM_t20_up_1.5.csv', header=T)
 t20.down <- read.csv('data/FPKM_tables/FPKM_t20_down_1.5.csv', header=T)
-t40.up <- read.csv('data/FPKM_tables/FPKM_t40_up_1.5.csv', header=T)
-t40.down <- read.csv('data/FPKM_tables/FPKM_t40_down_1.5.csv', header=T)
-shared.up <- read.csv('data/FPKM_tables/FPKM_t20_t40_up_1.5.csv', header=T)
-shared.down <- read.csv('data/FPKM_tables/FPKM_t20_t40_down_1.5.csv', header=T)
+t40.up <- read.csv('data/FPKM_tables/FPKM_t40_up_corrected_2023_Jan13.csv', header=T)
+t40.down <- read.csv('data/FPKM_tables/FPKM_t40_down_corrected_2023_Jan13.csv', header=T)
+shared.up <- read.csv('data/FPKM_tables/FPKM_SHARED_t20t40_up_corrected_2023_Jan13.csv', header=T)
+shared.down <- read.csv('data/FPKM_tables/FPKM_SHARED_t20t40_down_corrected_2023_Jan13.csv', header=T)
 
 #test.shared.up <- t20.up[which(t20.up$t_id %in% t40.up$t_id),]
 #test.shared.down <- t20.down[which(t20.down$t_id %in% t40.down$t_id),]
@@ -164,11 +164,53 @@ for(i in 1:length(csv.list)){
 }
 ```
 
-```{r}
+```{r, message=F, warning=F}
 #
-goprofile <- GO.profile(t20.up, orgdb)
+g20.up <- GO.profile(t20.up, orgdb)
+g20.down <- GO.profile(t20.down, orgdb)
+g40.up <- GO.profile(t40.up, orgdb)
+g40.down <- GO.profile(t40.down, orgdb)
+gshared.up <- GO.profile(shared.up, orgdb)
+gshared.down <- GO.profile(shared.down, orgdb)
 
 # Visualization
 # library(enrichplot)
-dotplot(goprofile$ego, showCategory=5) + ggtitle('t20.up')
+a <- dotplot(g20.up$ego, showCategory=5) + ggtitle('t20.up')
+b <- dotplot(g20.down$ego, showCategory=5) + ggtitle('t20.down')
+c <- dotplot(g40.up$ego, showCategory=5) + ggtitle('t40.up')
+d <- dotplot(g40.down$ego, showCategory=5) + ggtitle('t40.down')
+e <- dotplot(gshared.up$ego, showCategory=5) + ggtitle('shared.up')
+f <- dotplot(gshared.down$ego, showCategory=5) + ggtitle('shared.down')
+
+plot_grid(a, b, labels = c('A', 'B'), label_size = 12) # 1100 x 400
+plot_grid(c, d, labels = c('C', 'D'), label_size = 12)
+plot_grid(e, f, labels = c('E', 'F'), label_size = 12)
+```
+
+```{r}
+
+```
+
+```{r}
+layout(matrix(c(1,2,3,4), 2, 2, byrow = TRUE)); a;b;c;d
+a
+b
+c
+d
+```
+
+```{r}
+library(readxl)
+
+# Create a vector of Excel files to read
+files.to.read <- list.files(path = './data/FPKM_tables/', pattern='xlsx')
+
+# Read each file and write it to csv
+lapply(files.to.read, function(f) {
+  f <- paste0('./data/FPKM_tables/', f)
+  df = read_excel(f, sheet=1)
+  write.csv(df, gsub("xlsx", "csv", f), row.names=FALSE)
+})
+
+lapply(paste0('./data/FPKM_tables/', files.to.read), file.remove)
 ```

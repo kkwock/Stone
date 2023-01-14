@@ -23,7 +23,7 @@ annotate <- function(csv, output.name){
   # for large dataset
   n <- 1000
   df <- data.frame()
-  full.df <- data.frame()
+  # full.df <- data.frame()
   
   for(j in 1:ceiling(nrow(csv)/n)) {
     nrange <- (n*(j-1)+1):(min(n*j, nrow(csv)))
@@ -58,12 +58,12 @@ annotate <- function(csv, output.name){
       }
       df <- rbind(df, temp)
     }
-    full.df <- rbind(full.df, df)
+    # full.df <- rbind(full.df, df)
     
     # Create CSV file of annotations
-    write.csv(full.df, output.name, row.names=F)
+    write.csv(df, output.name, row.names=F)
   }
-  return(full.df)
+  return(df)
 }
 
 # Rename Glyma Terms

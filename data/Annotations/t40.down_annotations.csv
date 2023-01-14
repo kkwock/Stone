@@ -53,8 +53,6 @@ NA,".",NA,NA
 "100778355","LOC100778355","GLYMA_06G299000","uncharacterized LOC100778355"
 "100499922","LOC100499922","GLYMA_10G224200","40S ribosomal protein S18"
 "100786490","LOC100786490","GLYMA_19G046300","LOB domain-containing protein 41"
-"100805411","LOC100805411","GLYMA_19G115300","plant cysteine oxidase 2"
-"100305628","LOC100305628","GLYMA_13G301600","uncharacterized LOC100305628"
 "100808934","LOC100808934","GLYMA_03G189600","Myb/SANT-like DNA-binding domain-containing protein"
 "100810310","LOC100810310","GLYMA_17G143200","60S ribosomal protein L15-1"
 NA,".",NA,NA
@@ -68,7 +66,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "100817911","LOC100817911","GLYMA_06G297600","uncharacterized LOC100817911"
-"100778935","LOC100778935","GLYMA_08G192700","chaperonin CPN60-like 2, mitochondrial"
 "100527371","LOC100527371","GLYMA_19G213100","uncharacterized LOC100527371"
 "100806454","LOC100806454","GLYMA_10G048100","two-component response regulator-like APRR7"
 "836163","LBD30","AT5G60410, AT5G60420, ATSIZ1, MUF9.5, MUF9_5","DNA-binding protein with MIZ/SP-RING zinc finger, PHD-finger and SAP domain-containing protein"
@@ -77,7 +74,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 "100799771","LOC100799771","GLYMA_06G121500","transcriptional corepressor SEUSS"
 NA,".",NA,NA
-"100800528","SWEET26","GLYMA_08G360500, GmSWEET26","sugar efflux transporter SWEET26"
 "100794816","LOC100794816","GLYMA_05G222400","1-aminocyclopropane-1-carboxylate oxidase 1"
 "100815403","LOC100815403","GLYMA_12G200800","uncharacterized LOC100815403"
 NA,".",NA,NA
@@ -96,7 +92,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
-NA,".",NA,NA
 "100499784","LOC100499784","GLYMA_05G146800","60S ribosomal protein L17-2"
 NA,".",NA,NA
 NA,".",NA,NA
@@ -105,10 +100,8 @@ NA,".",NA,NA
 "100499979","LOC100499979","GLYMA_03G189300","uncharacterized LOC100499979"
 "100814873","LOC100814873","GLYMA_12G200600","uncharacterized LOC100814873"
 "100799545","LOC100799545","GLYMA_04G256800","uncharacterized LOC100799545"
-"100778173","LOC100778173","GLYMA_14G000800","calcium-dependent protein kinase 26"
 "100789053","LOC100789053","GLYMA_07G153100","pyruvate decarboxylase 2"
 "100779467","LOC100779467","GLYMA_16G062000","kelch repeat-containing protein At3g27220"
-NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "102665617","LOC102665617","GLYMA_11G022400","brassinosteroid-responsive RING protein 1"
@@ -119,18 +112,14 @@ NA,".",NA,NA
 NA,".",NA,NA
 "102666841","LOC100777575","","cyprosin-like"
 "100781661","LOC100781661","GLYMA_02G287000","peroxisomal and mitochondrial division factor 2"
-"100811093","LOC100811093","GLYMA_11G139600","epsin-3"
 NA,".",NA,NA
-"112999750","IF7GT3","GLYMA_16G175200, GmIF7GT3","isoflavone 7-O-glucosyltransferase UGT3"
 NA,".",NA,NA
 "100798344","LOC100798344","GLYMA_20G108800","mitochondrial pyruvate carrier 1"
 NA,".",NA,NA
 "100803038","LOC100803038","GLYMA_17G238200","probable isoaspartyl peptidase/L-asparaginase 2"
 NA,".",NA,NA
 "548080","LOC548080","GLYMA_02G245100","HMG-Y related protein variant A"
-NA,".",NA,NA
 "100306608","LOC100306608","GLYMA_13G282200","uncharacterized LOC100306608"
-"100783540","LOC100783540","GLYMA_06G143800","potassium transporter 2"
 "100784666","LOC100784666","GLYMA_01G061500","serine/threonine-protein kinase dst1"
 "100808209","LOC100808209","GLYMA_10G172300","glucan endo-1,3-beta-glucosidase 11"
 "112998429","LOC112998429","","small nucleolar RNA snoR143"
@@ -139,7 +128,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
-"100795741","LOC100795741","GLYMA_15G070700","COP1-interacting protein 7"
 "100779499","LOC100779499","GLYMA_09G023600, GmHD-ZIPIII-5","homeobox-leucine zipper protein ATHB-14-like"
 "351","RPL37","AAA, ABETA, ABPP, AD1, APPI, CTFgamma, CVAP, PN-II, PN2, alpha-sAPP, preA4","amyloid beta precursor protein"
 NA,".",NA,NA
@@ -170,7 +158,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 "100781142","LOC100781142","GLYMA_03G144800","actin-3"
 NA,".",NA,NA
-"100787174","LOC100787174","GLYMA_18G171400","E3 ubiquitin-protein ligase PRT1"
 NA,".",NA,NA
 "100783654","LOC100783654","GLYMA_03G026000","uncharacterized LOC100783654"
 "100803820","LOC100803820","GLYMA_04G008700","zinc finger protein GIS2"
@@ -179,10 +166,8 @@ NA,".",NA,NA
 NA,".",NA,NA
 "100804417","LOC100804417","GLYMA_07G002000","uncharacterized LOC100804417"
 "100796380","LOC100796380","GLYMA_04G218800","programmed cell death protein 2-like"
-"100233234","LOC100233234","GLYMA_10G180600, GmCRY2a1, GmCRY2a2","cryptochrome 2"
 "100803850","LOC100803850","GLYMA_05G059600","40S ribosomal protein S30"
 "100816874","LOC100816874","GLYMA_08G048200","40S ribosomal protein S16"
-"100037484","LOC100037484","GLYMA_20G171100","hypoxanthine-guanine phosphoribosyltransferase-like"
 "100811945","HSF-21","GLYMA_10G029600, GmHSF-21","heat stress transcription factor 21"
 NA,".",NA,NA
 NA,".",NA,NA
@@ -194,7 +179,6 @@ NA,".",NA,NA
 "100783140","LOC100783140","GLYMA_19G221900","auxin-responsive protein IAA20"
 "100787024","LOC100787024","GLYMA_19G193200","60S acidic ribosomal protein P2-2"
 NA,".",NA,NA
-"100782542","LOC100782542","GLYMA_17G088800v4","probable boron transporter 2"
 "100801741","LOC100801741","GLYMA_06G135800","60S acidic ribosomal protein P1"
 "100792019","LOC100792019","GLYMA_06G161700","protein SUPPRESSOR OF GENE SILENCING 3"
 "100499992","LOC100499992","GLYMA_16G116300","uncharacterized LOC100499992"
@@ -203,7 +187,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 "100527558","LOC100527558","GLYMA_10G021300","uncharacterized LOC100527558"
 "100777625","LOC100777625","GLYMA_13G294600","protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial"
-NA,".",NA,NA
 "100792019","LOC100792019","GLYMA_06G161700","protein SUPPRESSOR OF GENE SILENCING 3"
 NA,".",NA,NA
 NA,".",NA,NA
@@ -215,13 +198,10 @@ NA,".",NA,NA
 "89","DRR1","ACTN3D","actinin alpha 3"
 NA,".",NA,NA
 NA,".",NA,NA
-NA,".",NA,NA
-NA,".",NA,NA
 "106798613","LOC106798613","","uncharacterized LOC106798613"
 "100817900","LOC100817900","GLYMA_13G025700","N-acetyltransferase 9-like"
 NA,".",NA,NA
 "106798417","LOC100810235","","uncharacterized LOC106798417"
-"100814521","LOC100814521","GLYMA_12G028300","delta(24)-sterol reductase"
 "100775264","CHS13","GLYMA_19G105100, GmCHS13","chalcone synthase 13"
 NA,".",NA,NA
 "100805220","LOC100805220","GLYMA_11G030700","thylakoid lumenal protein TL20.3, chloroplastic"
@@ -229,15 +209,12 @@ NA,".",NA,NA
 "100306475","LOC100306475","GLYMA_17G109000","uncharacterized LOC100306475"
 "100807247","LOC100807247","GLYMA_07G257700","stem-specific protein TSJT1"
 "100781170","LOC100781170","GLYMA_04G213300","NAC domain-containing protein 82"
-"100793630","LOC100793630","GLYMA_15G213100","peroxisomal 2,4-dienoyl-CoA reductase-like"
 "100776329","LOC100776329","GLYMA_18G136900","serine/arginine-rich splicing factor RSZ21-like"
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
-NA,".",NA,NA
 "100814175","LOC100814175","GLYMA_13G046300","LOB domain-containing protein 41"
-NA,".",NA,NA
 "100786479","LOC100786479","GLYMA_19G110200","GATA transcription factor 5-like"
 NA,".",NA,NA
 NA,".",NA,NA
@@ -255,7 +232,6 @@ NA,".",NA,NA
 "112999213","LOC112999213","","28S ribosomal RNA"
 "100801450","LOC100801450","GLYMA_09G094800","60S ribosomal protein L39"
 NA,".",NA,NA
-NA,".",NA,NA
 "100787151","LOC100787151","GLYMA_01G042400","probable serine/threonine-protein kinase PIX7"
 "100818200","LOC100818200","GLYMA_03G205800","40S ribosomal protein S28"
 "100797119","LOC100797119","GLYMA_13G236300","protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial"
@@ -265,15 +241,12 @@ NA,".",NA,NA
 "100499761","LOC100499761","GLYMA_11G209200","uncharacterized LOC100499761"
 "100787024","LOC100787024","GLYMA_19G193200","60S acidic ribosomal protein P2-2"
 "821717","IQD14","AT3G21630, AtCERK1, AtLYK1, LYK1, LYSM DOMAIN RECEPTOR-LIKE KINASE 1, LYSM RLK1, LysM-containing receptor-like kinase 1, chitin elicitor receptor kinase 1","chitin elicitor receptor kinase 1"
-"100527545","LOC100527545","GLYMA_20G198900","RRM domain-containing protein"
 "100782730","LOC100782730","GLYMA_10G055400","uncharacterized LOC100782730"
 NA,".",NA,NA
 NA,".",NA,NA
 "100780556","LOC100780556","GLYMA_09G185200","uncharacterized LOC100780556"
 "100306279","LOC100306279","GLYMA_01G209400","40S ribosomal protein S30"
-"100500032","LOC100500032","GLYMA_10G213400","uncharacterized LOC100500032"
 "100817130","LOC100817130","GLYMA_18G132500","probable inactive purple acid phosphatase 1"
-NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "100775486","LOC100775486","GLYMA_05G048500","zinc finger protein SHOOT GRAVITROPISM 5"
@@ -281,7 +254,6 @@ NA,".",NA,NA
 "100796764","LOC100796764","GLYMA_06G086300","protein NONRESPONDING TO OXYLIPINS 2, mitochondrial"
 "100805957","LOC100805957","GLYMA_04G122700","60S ribosomal protein L13-1"
 "100801918","LOC100801918","GLYMA_06G122600","alcohol dehydrogenase 1"
-"100791745","LOC100791745","GLYMA_01G097500","tRNA-dihydrouridine(20) synthase [NAD(P)+]-like"
 "100780764","LOC100780764","GLYMA_10G162000","GDP-mannose 3,5-epimerase-like"
 "100781886","LOC100781886","GLYMA_12G006700","uncharacterized LOC100781886"
 "100782747","LOC100782747","GLYMA_18G204200","pyruvate decarboxylase 2"
@@ -290,8 +262,6 @@ NA,".",NA,NA
 "100806196","LOC100806196","GLYMA_15G077400","protein NUCLEAR FUSION DEFECTIVE 6, mitochondrial"
 "100804817","LOC100804817","GLYMA_09G257500","uncharacterized LOC100804817"
 NA,".",NA,NA
-"113002019","LOC113002019","","small nucleolar RNA Z152/R70/R12"
-"100776835","LOC100776835","GLYMA_09G001900","eukaryotic translation initiation factor 2D"
 NA,".",NA,NA
 NA,".",NA,NA
 "100792418","LOC100792418","GLYMA_16G206500","60S ribosomal protein L2, mitochondrial-like"
@@ -306,14 +276,13 @@ NA,".",NA,NA
 "100527888","LOC100527888","GLYMA_16G037600","plant cysteine oxidase 2"
 "100804466","LOC100804466","","uncharacterized LOC100804466"
 NA,".",NA,NA
-NA,".",NA,NA
-NA,".",NA,NA
 "100795265","LOC100795265","GLYMA_13G320700","protein saal1"
 NA,".",NA,NA
 "112999036","LOC112999036","","18S ribosomal RNA"
 "100527527","GASA36","GLYMA_20G131100, GmGASA36","gibberellin-regulated protein 36"
 "100798674","LOC100798674","GLYMA_11G003700","40S ribosomal protein S15a-1"
 "100794689","LOC100794689","GLYMA_08G129800","protein WHAT'S THIS FACTOR 9, mitochondrial"
+NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "106795008","LOC106795008","GLYMA_10G260700","uncharacterized LOC106795008"
@@ -328,9 +297,6 @@ NA,".",NA,NA
 "100810363","LOC100810363","GLYMA_11G019500","40S ribosomal protein S2-4"
 "100809419","LOC100809419","GLYMA_16G127100","pathogenesis-related thaumatin-like protein 3.5"
 "100803056","LOC100803056","GLYMA_10G089200","actin-related protein 7"
-"100819405","LOC100819405","GLYMA_17G187300","2-aminoethanethiol dioxygenase-like"
-NA,".",NA,NA
-NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
@@ -345,7 +311,6 @@ NA,".",NA,NA
 "100811085","LOC100811085","GLYMA_03G207700","40S ribosomal protein S28"
 "100804776","LOC100804776","GLYMA_08G131500","60S acidic ribosomal protein P3"
 NA,".",NA,NA
-"100305735","LOC100305735","GLYMA_10G144800","uncharacterized LOC100305735"
 NA,".",NA,NA
 "113001441","LOC113001441","GLYMA_04G007900","30S ribosomal protein S31, mitochondrial"
 "100791948","LOC100791948","GLYMA_10G201500","uncharacterized LOC100791948"
@@ -379,7 +344,6 @@ NA,".",NA,NA
 "100793880","LOC100793880","","uncharacterized LOC100793880"
 "100798683","LOC100798683","GLYMA_12G218100","exosome complex exonuclease RRP44 homolog A"
 "100811901","LOC100500445","","transcription factor MYB21-like"
-"100101848","LOC100101848","GLYMA_10G214500","auxin down-regulated protein"
 "100305732","LOC100305732","GLYMA_03G242900","superoxide dismutase [Cu-Zn]"
 NA,".",NA,NA
 "100783161","LOC100783161","GLYMA_20G017300","mitochondrial import inner membrane translocase subunit TIM17-2"
@@ -387,7 +351,6 @@ NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "100794110","LOC100794110","GLYMA_13G126400","60S ribosomal protein L23"
-"100795005","LOC100795005","GLYMA_06G000300","alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase"
 "100817224","LOC100817224","GLYMA_15G147300","uncharacterized LOC100817224"
 "100814593","LOC100814593","GLYMA_01G131100","aspartate aminotransferase, mitochondrial"
 "100306523","LOC100306523","GLYMA_02G034600","uncharacterized LOC100306523"
@@ -399,15 +362,12 @@ NA,".",NA,NA
 "100795307","LOC100795307","GLYMA_11G090400","upstream activation factor subunit UAF30"
 "100778317","LOC100778317","GLYMA_20G083800","histone H4"
 "100785976","LOC100785976","GLYMA_04G229000","60S acidic ribosomal protein P1"
-"100792856","LOC100792856","GLYMA_11G014400","peptidyl-prolyl cis-trans isomerase FKBP53"
 "100812117","LOC100812117","GLYMA_02G103600","40S ribosomal protein S16"
 "100306384","LOC100306384","GLYMA_03G125800","uncharacterized LOC100306384"
 "100778013","LOC100778013","GLYMA_13G331900","60S ribosomal protein L35"
 "100813075","LOC100813075","GLYMA_12G055000","lysine-specific demethylase JMJ30"
-"100526869","LOC100526869","GLYMA_09G184500","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10-B"
 "100786807","LOC100786807","GLYMA_02G288900","small nuclear ribonucleoprotein-associated protein B"
 "100811636","LOC100811636","GLYMA_19G167800","60S ribosomal protein L23"
-"112999193","LOC112999193","","28S ribosomal RNA"
 "100802041","LOC100802041","GLYMA_19G128800, GmPIN1e, PIN10a","auxin efflux transporter family protein"
 "100791896","LOC100791896","GLYMA_08G232000","prohibitin-3, mitochondrial"
 NA,".",NA,NA
@@ -418,12 +378,9 @@ NA,".",NA,NA
 "100776354","LOC100776354","GLYMA_19G105700","40S ribosomal protein S27-2"
 "100817521","LOC100817521","GLYMA_20G050300","alcohol dehydrogenase-like 7"
 "100799491","LOC100799491","GLYMA_09G240100","plant cysteine oxidase 2"
-"100306438","LOC100306438","GLYMA_18G245900","putative acyl carrier protein, mitochondrial"
 "100788686","LOC100788686","GLYMA_06G025600","uncharacterized LOC100788686"
 "100819571","LOC100819571","GLYMA_01G062400","putative copper amine oxidase"
 "7157","TSA","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
-NA,".",NA,NA
-NA,".",NA,NA
 NA,".",NA,NA
 "100037453","KASII-B","GLYMA_13G112700","plastid 3-keto-acyl-ACP synthase II-B"
 "100800447","LOC100800447","GLYMA_12G166500","MACPF domain-containing protein At4g24290"
@@ -432,13 +389,11 @@ NA,".",NA,NA
 NA,".",NA,NA
 "100527911","LOC100527911","GLYMA_05G241200","40S ribosomal protein S16"
 NA,".",NA,NA
-"100816988","LOC100816988","GLYMA_04G237300","spermine synthase"
 NA,".",NA,NA
 "100803594","LOC100803594","GLYMA_18G124600","ubiquitin-conjugating enzyme E2 2"
 "100797625","LOC100797625","GLYMA_04G200700","rRNA 2'-O-methyltransferase fibrillarin 2"
 "100817338","LOC100817338","GLYMA_12G115400","uncharacterized LOC100817338"
 "102669499","LOC102669499","GLYMA_07G087300","uncharacterized LOC102669499"
-"100305663","LOC100305663","GLYMA_05G028000","putative 40S ribosomal protein S9"
 NA,".",NA,NA
 "100819947","LOC100819947","GLYMA_17G130400","zinc finger protein SHOOT GRAVITROPISM 5"
 "100807864","LOC100807864","GLYMA_03G189700","pyruvate kinase 1, cytosolic"
@@ -458,14 +413,11 @@ NA,".",NA,NA
 "100818410","LOC100818410","GLYMA_12G131700","60S ribosomal protein L11"
 "100795778","LOC100795778","GLYMA_01G020500","MADS-box transcription factor 23"
 "100500170","LOC100499944","","uncharacterized LOC100500170"
-"100776599","LOC100776599","GLYMA_07G173700","histidine kinase 4"
 "100795096","LOC100795096","GLYMA_18G010300","50S ribosomal protein L11"
 "100782374","LOC100782374","GLYMA_02G143200","histone H2A variant 1"
 NA,".",NA,NA
 "121173836","LOC121173836","","40S ribosomal protein S30"
-NA,".",NA,NA
 "102661113","LOC102661113","GLYMA_08G180500","protein SODIUM POTASSIUM ROOT DEFECTIVE 3"
-NA,".",NA,NA
 NA,".",NA,NA
 "100807176","LOC100807176","GLYMA_04G063000","60S ribosomal protein L39"
 NA,".",NA,NA
