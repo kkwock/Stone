@@ -1,536 +1,2269 @@
 "uid","gene_name","alias","desc"
 NA,".",NA,NA
-"100819812","LOC100819812","","uncharacterized LOC100819812"
+"100777107","LOC100777107","GLYMA_06G300200","transcription factor MYB14"
 NA,".",NA,NA
 "100815760","LOC100815760","GLYMA_05G215900","probable WRKY transcription factor 41"
+"100794321","LOC100794321","GLYMA_06G020800","uncharacterized protein At1g76070"
+"778087","LOC778087","GLYMA_06G300100, MYB117","transcription factor MYB30"
+"100780605","LOC100780605","GLYMA_11G062600, CYP71D8","cytochrome P450 71D8"
+"100802250","LOC100802250","GLYMA_12G054100","cyanogenic beta-glucosidase"
+"850504","CHS1","YFL039C, ABY1, END7","actin"
+"100306170","LOC100306170","GLYMA_10G230600","heavy-metal-associated domain-containing protein"
+"838505","WRKY27","AT1G19220, ARF11, AUXIN RESPONSE FACTOR11, IAA22, T29M8.9, T29M8_9, auxin response factor 19, indole-3-acetic acid inducible 22","auxin response factor 19"
+"100811478","LOC100811478","GLYMA_05G119200","DnaJ domain-containing protein"
 NA,".",NA,NA
-NA,".",NA,NA
+"100776708","LOC100776708","GLYMA_11G129700","cyanogenic beta-glucosidase"
+"121175284","LOC121175284","GLYMA_08G110901v4","chalcone synthase 1"
+"100783984","LOC100783984","GLYMA_02G128800","uncharacterized LOC100783984"
+"852457","CHS3","YBR160W, CDK1, HSL5, SRM5","cyclin-dependent serine/threonine-protein kinase CDC28"
+"100527189","LOC100527189","GLYMA_02G054900","uncharacterized LOC100527189"
+"100777247","LOC100777247","GLYMA_11G129800","cyanogenic beta-glucosidase"
+"100306332","LOC100306332","GLYMA_11G038600","uncharacterized LOC100306332"
 "100804277","LOC100804277","","protein ALP1-like"
+"100784723","LOC100784723","GLYMA_11G129500","cyanogenic beta-glucosidase"
+"100500558","LOC100500558","GLYMA_11G124700","uncharacterized LOC100500558"
+"41640","41640","Dmel_CG8790, BcDNA:GH02431, CG8790, DmDic1p, Dmel\CG8790","Dicarboxylate carrier 1"
+"100301896","G4DT","GLYMA_10G295300, GmPT10a, Gma.5621, PT2","Glycinol 4-dimethylallyltransferase"
+"102666898","LOC102666898","GLYMA_03G042700","probable WRKY transcription factor 33"
+"100798546","CYP82A2","GLYMA_13G285300","cytochrome P450 82A2-like"
+NA,".",NA,NA
+NA,".",NA,NA
 "113001461","LOC113001461","GLYMA_04G228900","uncharacterized LOC113001461"
+"842733","WRKY46","AT1G64280, ARABIDOPSIS NONEXPRESSER OF PR GENES 1, ATNPR1, F15H21.6, F15H21_6, NIM1, NON-INDUCIBLE IMMUNITY 1, NONEXPRESSER OF PR GENES 1, REGULATORY PROTEIN NPR1, SAI1, SALICYLIC ACID INSENSITIVE 1","regulatory protein (NPR1)"
+"106794108","LOC106794108","GLYMA_12G054000","cyanogenic beta-glucosidase"
+"100776038","SCTF-1","GLYMA_06G045400","zinc finger protein ZAT10"
+"100800709","LOC100800709","GLYMA_01G204400","protein TIFY 10a"
+"100777773","LOC100777773","GLYMA_11G129900","cyanogenic beta-glucosidase"
+"100802714","LOC100802714","GLYMA_02G210300","uncharacterized LOC100802714"
+"100500506","LOC100500506","GLYMA_17G029900v4","SRPBCC ligand-binding domain-containing protein"
+"100801449","LOC100801449","GLYMA_09G071600","protein TIFY 10A-like"
+"100813623","LOC100813623","GLYMA_12G130200","cyanogenic beta-glucosidase"
 NA,".",NA,NA
 NA,".",NA,NA
+"100306444","LOC100306444","GLYMA_09G130400","heavy-metal-associated domain-containing protein"
+"100777208","LOC100777208","GLYMA_18G254100","AAA-ATPase ASD, mitochondrial"
+"100305963","LOC100305963","GLYMA_06G295400","uncharacterized LOC100305963"
 "100795913","LOC100795913","GLYMA_14G212200","U-box domain-containing protein 20"
+"106799532","LOC106799532","GLYMA_08G151100","protein QUIRKY-like"
+"100776077","LOC100776077","GLYMA_15G268200","uncharacterized LOC100776077"
+NA,".",NA,NA
+"100776174","LOC100776174","GLYMA_11G129600","cyanogenic beta-glucosidase"
+NA,".",NA,NA
+"100805877","LOC100805877","GLYMA_01G126600","dirigent protein 22"
+"100781700","LOC100781700","GLYMA_11G242100","uncharacterized LOC100781700"
+"100526891","LOC100526891","GLYMA_12G049300","uncharacterized LOC100526891"
+"778184","LOC778184","GLYMA_12G104800, MYB122","transcription factor MYB30"
+"100795302","LOC100795302","GLYMA_03G201500","NDR1/HIN1-like protein 10"
+"100527669","LOC100527669","GLYMA_16G177900","uncharacterized LOC100527669"
+"100813287","LOC100813287","GLYMA_05G033600","uncharacterized LOC100813287"
+"100801229","LOC100801229","GLYMA_15G048700","pinin"
+"100775571","LOC100775571","GLYMA_17G245100","uncharacterized LOC100775571"
+"100802800","LOC100802800","GLYMA_13G112000","protein TIFY 10A-like"
+"100305767","LOC100305767","GLYMA_08G158100","uncharacterized LOC100305767"
+"100802275","LOC100802275","GLYMA_06G135900","uncharacterized LOC100802275"
+NA,".",NA,NA
+"4327651","WRKY5","OSNPB_010584900, P0712E02.9, WRKY5","WRKY transcription factor SUSIBA2"
+"100809123","LOC100809123","GLYMA_03G202600","E3 ubiquitin-protein ligase PUB22"
+"100792170","LOC100792170","GLYMA_20G124200","uncharacterized LOC100792170"
+"100789075","CHS3C","GLYMA_08G110300, GmCHS3c","chalcone synthase 3"
+"100820563","LOC100820563","GLYMA_13G032100","probable receptor-like protein kinase At1g11050"
 NA,".",NA,NA
 NA,".",NA,NA
+"547566","LOC547566","GLYMA_03G253200","indole-3-acetic acid induced protein ARG-2 homolog"
+"102661590","LOC102661590","GLYMA_19G202300","VQ motif-containing protein 8, chloroplastic"
 "100526897","LOC100526897","GLYMA_03G173300","C2H2-type zinc finger protein"
-"100815336","LOC100815336","GLYMA_02G268200","1-aminocyclopropane-1-carboxylate oxidase-like"
+"547527","LOC547527","","extensin-like"
+"851752","CHS5","YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36","translation termination factor GTPase eRF3"
+"100817853","LOC100817853","GLYMA_11G198300","oxalate--CoA ligase"
 NA,".",NA,NA
-"100233234","LOC100233234","GLYMA_10G180600, GmCRY2a1, GmCRY2a2","cryptochrome 2"
+"100815336","LOC100815336","GLYMA_02G268200","1-aminocyclopropane-1-carboxylate oxidase-like"
+"100820185","LOC100820185","GLYMA_19G233900","respiratory burst oxidase homolog protein B"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100785031","LOC100785031","GLYMA_02G172200","probable L-type lectin-domain containing receptor kinase S.5"
+"100784637","LOC100784637","GLYMA_08G074200","J domain-containing protein"
+"100801665","LOC100801665","GLYMA_02G055000","uncharacterized LOC100801665"
+NA,".",NA,NA
+NA,".",NA,NA
+"100816563","LOC100816563","GLYMA_17G128900","putative calcium-binding protein CML19"
+"100788896","LOC100788896","GLYMA_16G008500","putative receptor-like protein kinase At1g72540"
+"100776669","LOC100776669","GLYMA_02G035200","uncharacterized LOC100776669"
+"100527186","LOC100527186","GLYMA_08G045200","nudix hydrolase family protein"
+"100798531","LOC100798531","GLYMA_05G047100","putative calcium-binding protein CML19"
+"100819128","LOC100819128","GLYMA_20G013400","uncharacterized protein At1g66480"
+"100778467","LOC100778467","GLYMA_10G045400","zinc finger protein ZAT11"
+"100780361","LOC100780361","GLYMA_01G195300","uncharacterized LOC100780361"
+NA,".",NA,NA
+"100790997","CHS9","GLYMA_08G109500","chalcone synthase 9"
+"100793366","LOC100793366","GLYMA_03G111700","ethylene-responsive transcription factor 13"
+"102666009","LOC102666009","GLYMA_12G104600, GmMYB6","transcription factor MYB13"
+"100527075","LOC100527075","GLYMA_03G015800","C2 domain-containing protein"
+NA,".",NA,NA
+"100783411","LOC100783411","GLYMA_16G178500","heavy metal-associated isoprenylated plant protein 39"
 "111240476","LOC111240476","GLYMA_04G136200","putative calcium-binding protein"
+"102662455","LOC102662455","GLYMA_20G134000","uncharacterized LOC102662455"
+NA,".",NA,NA
+"100806731","LOC100806731","GLYMA_15G263600","uncharacterized LOC100806731"
+NA,".",NA,NA
+"100804202","LOC100804202","GLYMA_13G157400","uncharacterized LOC100804202"
+"100784458","LOC100784458","GLYMA_07G248600","protein SRC2-like"
+"100500571","LOC100500571","GLYMA_11G046400","VQ motif-containing protein"
+"100500248","LOC100500248","GLYMA_05G184500","WRKY DNA -binding domain-containing protein"
+"100815706","CYP93A3","GLYMA_03G142100","cytochrome P450 93A3"
+NA,".",NA,NA
+"100795384","SCOF-1","GLYMA_14G088300, SCOF-1","zinc finger protein ZAT10-like"
+"100527767","LOC100527767","GLYMA_15G119100","alpha-amylase inhibitor/lipid transfer/seed storage family protein"
 "100811437","LOC100811437","GLYMA_04G053300","aminopeptidase M1"
 "100787531","LOC100787531","GLYMA_10G079700","NDR1/HIN1-like protein 10"
 "100779615","LOC100779615","GLYMA_07G233900","pleiotropic drug resistance protein 3"
-"100791196","LOC100791196","GLYMA_16G161100","UPF0481 protein At3g47200"
+"100807117","LOC100807117","GLYMA_09G270900","calcium-binding protein CAST"
+"100306181","LOC100306181","GLYMA_20G129900","BSP domain-containing protien"
+"100306678","LOC100306678","GLYMA_09G131100","uncharacterized LOC100306678"
+NA,".",NA,NA
+"100793739","LOC100793739","GLYMA_19G112500","uncharacterized LOC100793739"
+"100792511","LOC100792511","GLYMA_04G040300","transferase family protein"
+"100500250","LOC100500250","","uncharacterized LOC100500250"
+NA,".",NA,NA
+"100527140","LOC100527140","GLYMA_12G110100","uncharacterized LOC100527140"
+"100500309","LOC100500309","GLYMA_13G085800","uncharacterized LOC100500309"
 NA,".",NA,NA
 NA,".",NA,NA
+"100527005","LOC100527005","GLYMA_03G157800","uncharacterized LOC100527005"
+NA,".",NA,NA
+"100784972","LOC100784972","GLYMA_14G099200","thermospermine synthase ACAULIS5"
 NA,".",NA,NA
 NA,".",NA,NA
+"113001460","LOC113001460","GLYMA_04G228800","uncharacterized LOC113001460"
+"100779173","LOC100779173","GLYMA_10G036600","ethylene-responsive transcription factor ERF098-like protein"
+"100794122","LOC100794122","GLYMA_06G286600","probable O-methyltransferase 3"
+"100801339","LOC100801339","GLYMA_12G073000, MPK3","mitogen-activated protein kinase 3"
+NA,".",NA,NA
+NA,".",NA,NA
+"100816707","LOC100816707","GLYMA_08G173800","cold-responsive protein kinase 1"
+NA,".",NA,NA
+"100812201","LOC100812201","GLYMA_05G136100","glutamate decarboxylase 1-like"
+"100527184","LOC100527184","GLYMA_01G129100","uncharacterized LOC100527184"
+"100792691","LOC100792691","GLYMA_11G048300","calcium-transporting ATPase 2, plasma membrane-type"
+"100500367","LOC100500367","","uncharacterized LOC100500367"
+"100526987","LOC100526987","GLYMA_10G002200","calmodulin-like protein"
+NA,".",NA,NA
+"100788672","LOC100788672","","protein ALP1-like"
+"100800095","LOC100800095","GLYMA_04G044900","zinc finger protein ZAT10"
+"100788183","LOC100788183","GLYMA_08G044400","protein SAR DEFICIENT 1"
 "100780940","LOC100780940","GLYMA_02G088700","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 1.4"
+"102663683","LOC102663683","GLYMA_10G273300","VQ motif-containing protein 8, chloroplastic"
+"100174967","HS1pro1","GLYMA_02G255400","nematode resistance HS1pro1 protein"
+NA,".",NA,NA
 "100796453","LOC100796453","GLYMA_15G109500","probable F-box protein At4g22030"
+"100776840","LOC100776840","GLYMA_02G280100","uncharacterized LOC100776840"
 NA,".",NA,NA
+NA,".",NA,NA
+"100781051","LOC100781051","GLYMA_14G158600","putative wall-associated receptor kinase-like 16"
+"100306254","LOC100306254","GLYMA_16G178000","uncharacterized LOC100306254"
+NA,".",NA,NA
+"100813644","LOC100813644","GLYMA_13G302500","coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 2"
+"100784518","LOC100784518","GLYMA_02G257700","probable 2-oxoglutarate-dependent dioxygenase At5g05600"
+"818395","PHT1-1","AT2G38170, ATCAX1, F16M14.10, F16M14_10, HIGH AFFINITY CALCIUM ANTIPORTER CAX1, RARE COLD INDUCIBLE 4, RCI4, cation exchanger 1","cation exchanger 1"
 "100817285","LOC100817285","GLYMA_02G063900","MLO-like protein 12"
+"21898","SCA1","Lps, Ly87, Ran/M1, Rasl2-8","toll-like receptor 4"
+NA,".",NA,NA
+NA,".",NA,NA
 "41275","41275","Dmel_CG14688, CG14688, Dmel\CG14688, PHYH, PHYHD1","Phytanoyl-CoA dioxygenase domain containing 1"
+NA,".",NA,NA
+"100526951","LOC100526951","GLYMA_05G099300","uncharacterized LOC100526951"
+"547685","NRP-A","GLYMA_20G066100, NRP","N-rich protein"
 "100790182","LOC100790182","GLYMA_02G242900","U-box domain-containing protein 21"
+"100811915","LOC100811915","GLYMA_17G159600","uncharacterized LOC100811915"
+"100812342","LOC100812342","GLYMA_03G236300","respiratory burst oxidase homolog protein B"
 NA,".",NA,NA
+"100778648","LOC100778648","GLYMA_11G181200","probable F-box protein At2g36090"
+"100301898","GSTIR","GLYMA_02G023800, GmTIR","TIR-NBS-LRR type disease resistance protein"
+"100500311","LOC100500311","GLYMA_17G105000","uncharacterized LOC100500311"
+NA,".",NA,NA
+"100780775","LOC100780775","GLYMA_10G036700","ethylene-response factor C3"
+"100779649","CHS4A","GLYMA_08G110700, CHS4, GmCHS4a","chalcone synthase 4a"
+"102669198","LOC102669198","GLYMA_09G051900","uncharacterized LOC102669198"
+"100807966","LOC100807966","GLYMA_07G023300","probable WRKY transcription factor 40"
+"7157","Ep","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
+"102661753","LOC102661753","GLYMA_16G070100","protein LURP-one-related 10"
 "100795681","LOC100795681","GLYMA_20G125500","uncharacterized LOC100795681"
+"100797171","LOC100797171","GLYMA_08G015700","BTB/POZ domain-containing protein At5g41330"
 "100787073","LOC100787073","GLYMA_13G106400","peroxidase N-like"
+"100803218","LOC100803218","GLYMA_01G037200","metalloendoproteinase 5-MMP"
 NA,".",NA,NA
+"100782266","CRK70","GLYMA_20G137900, GmCRK70","cysteine-rich receptor-like protein kinase"
 NA,".",NA,NA
+"100808718","LOC100808718","GLYMA_02G195300","syntaxin-121-like"
+"100811298","LOC100811298","GLYMA_12G093100","probable CCR4-associated factor 1 homolog 11"
+"100809653","LOC100809653","GLYMA_02G082700","tryptophan aminotransferase-related protein 3"
+"100778488","LOC100778488","GLYMA_19G188100","probable 2-oxoglutarate/Fe(II)-dependent dioxygenase-like"
+"100781699","LOC100781699","GLYMA_11G203000","NDR1/HIN1-like protein 6"
+"100799857","LOC100799857","GLYMA_02G029400","zinc finger protein 5"
+"100306396","LOC100306396","GLYMA_13G283600","calcium-binding protein PBP1-like protein"
+NA,".",NA,NA
+"100810449","LOC100810449","GLYMA_07G190100","F-box protein At1g61340"
+"100799731","LOC100799731","GLYMA_12G054200","cyanogenic beta-glucosidase"
+"100796768","LOC100796768","GLYMA_13G322500","probable xyloglucan endotransglucosylase/hydrolase protein 32-like"
+"100802257","LOC100802257","GLYMA_05G237200","protein SAR DEFICIENT 1"
+"100807339","LOC100807339","GLYMA_11G195800","P-loop NTPase domain-containing protein LPA1 homolog 1"
+"100780344","LOC100780344","GLYMA_15G124900","leucine-rich repeat receptor protein kinase HPCA1"
+"100792833","LOC100792833","GLYMA_18G208800","probable WRKY transcription factor 33"
+"100793329","LOC100793329","GLYMA_09G205700","cinnamoyl-CoA reductase-like SNL6"
+"100791368","LOC100791368","GLYMA_16G062600","lysine histidine transporter 1"
+"100782591","LOC100782591","GLYMA_03G041000","protein LURP-one-related 15"
 "100787174","LOC100787174","GLYMA_18G171400","E3 ubiquitin-protein ligase PRT1"
+"57572","AOS2","AOS2, ZIR1","dedicator of cytokinesis 6"
+"102663102","LOC102663102","GLYMA_20G116600","VQ motif-containing protein 8, chloroplastic"
+NA,".",NA,NA
+"100810865","LOC100810865","GLYMA_10G156500","E3 ubiquitin-protein ligase ATL6"
+"100776837","LOC100776837","GLYMA_09G280200","probable WRKY transcription factor 33"
+"100802124","LOC100802124","GLYMA_15G110300","probable WRKY transcription factor 31"
+"818982","MYB92","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6"
 "112997608","LOC112997608","","cysteine-rich receptor-like protein kinase 2"
+NA,".",NA,NA
+"100790403","LOC100790403","GLYMA_04G182600","transcription factor bHLH162"
 "100800966","LOC100800966","GLYMA_11G214500","U-box domain-containing protein"
 "100792833","LOC100792833","GLYMA_18G208800","probable WRKY transcription factor 33"
 "778182","LOC778182","GLYMA_03G227700, MYB160","transcription factor MYB86"
+"1401","POD","PTX1","C-reactive protein"
+"100803213","LOC100803213","GLYMA_09G182400","protein SAR DEFICIENT 1"
+"100527101","LOC100527101","GLYMA_04G178500","uncharacterized LOC100527101"
 "100813636","LOC100813636","GLYMA_05G168400","ferredoxin-A"
+"100812027","LOC100812027","GLYMA_06G125600","probable WRKY transcription factor 53"
+"100500462","LOC100500462","GLYMA_13G123000","uncharacterized LOC100500462"
+"100777295","LOC100777295","GLYMA_13G361900","pleiotropic drug resistance protein 1"
+"100777554","LOC100777554","GLYMA_10G230000","protein SGT1 homolog B-like"
+"547482","B13-1-9","GLYMA_03G201300","syringolide-induced protein B13-1-9"
+NA,".",NA,NA
+"100810852","LOC100810852","GLYMA_02G233900","peroxidase P7"
+NA,".",NA,NA
 "100499858","LOC100499858","GLYMA_13G286600","uncharacterized LOC100499858"
 "100802708","LOC100802708","","protein ALP1-like"
 NA,".",NA,NA
-"100796623","ANN11","GLYMA_15G238400","annexin D4-like"
 NA,".",NA,NA
+"100796623","ANN11","GLYMA_15G238400","annexin D4-like"
+"100784766","LOC100784766","GLYMA_20G030600","uncharacterized LOC100784766"
+"100306091","LOC100306091","GLYMA_10G257200","uncharacterized LOC100306091"
+"100306656","LOC100306656","GLYMA_15G146600","SRPBCC domain-containing protein"
 "732593","LOC732593","GLYMA_06G321600","FAD-linked oxidoreductase 2"
+"100791253","LOC100791253","GLYMA_18G260700","probable calcium-binding protein CML46"
+NA,".",NA,NA
 "100527399","LOC100527399","GLYMA_08G032800","uncharacterized LOC100527399"
+"100780155","LOC100780155","GLYMA_14G049200","1-aminocyclopropane-1-carboxylate oxidase"
+"100791118","LOC100791118","GLYMA_12G206700","signaling peptide TAXIMIN 2"
+"842733","WRKY6","AT1G64280, ARABIDOPSIS NONEXPRESSER OF PR GENES 1, ATNPR1, F15H21.6, F15H21_6, NIM1, NON-INDUCIBLE IMMUNITY 1, NONEXPRESSER OF PR GENES 1, REGULATORY PROTEIN NPR1, SAI1, SALICYLIC ACID INSENSITIVE 1","regulatory protein (NPR1)"
+NA,".",NA,NA
+"100807098","LOC100807098","GLYMA_15G170500","putative transcription factor bHLH041"
+"100305397","LOC100305397","GLYMA_17G048900","kinase-like protein"
+"100799160","LOC100799160","GLYMA_10G185200","calmodulin calcium-dependent NAD kinase"
+"100815874","LOC100815874","GLYMA_02G000800","transcription factor bHLH92"
+"100803345","LOC100803345","GLYMA_07G054000","MYB-like transcription factor 4"
 "100785752","LOC100785752","GLYMA_02G237300","probable LRR receptor-like serine/threonine-protein kinase At1g06840"
 "100806458","LOC100806458","GLYMA_03G120000","alpha-L-arabinofuranosidase 1"
 NA,".",NA,NA
 NA,".",NA,NA
-"100800451","LOC100800451","GLYMA_20G144600","linoleate 9S-lipoxygenase 5"
+"100813462","LOC100813462","GLYMA_13G043800","ABC transporter G family member 1"
+"102667147","LOC102667147","GLYMA_08G096000","VQ motif-containing protein 1"
+"102663242","LOC102663242","GLYMA_20G116700","uncharacterized LOC102663242"
+"100792830","LOC100792830","GLYMA_18G020600","uncharacterized LOC100792830"
+"840452","WRKY49","AT1G35560, AtTCP23, F15O4.35, TCP domain protein 23, TCP23","TCP family transcription factor"
+"818982","WRKY58","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6"
 NA,".",NA,NA
+NA,".",NA,NA
+"100800451","LOC100800451","GLYMA_20G144600","linoleate 9S-lipoxygenase 5"
+"100812618","LOC100812618","GLYMA_15G179600","protein TIFY 10A"
+"855104","IFS2","YMR080C, IFS2, MOF4, SUP113, SUT2, UPF1","ATP-dependent RNA helicase NAM7"
+"100815478","LOC100815478","GLYMA_16G010000","protein TIFY 10A-like"
+NA,".",NA,NA
+"100812540","LOC100812540","GLYMA_12G059800","transcription initiation factor IIA large subunit"
+NA,".",NA,NA
+"100527699","LOC100527699","GLYMA_09G118300","uncharacterized LOC100527699"
+"100782330","LOC100782330","GLYMA_08G091500","glutamate decarboxylase 1"
+"100793725","LOC100793725","GLYMA_03G201100","LEA_2 domain-containing protein"
 "100788062","LOC100788062","GLYMA_10G079900","NDR1/HIN1-like protein 10"
+"100806172","LOC100806172","GLYMA_06G220700","cucumber peeling cupredoxin"
+"100306363","LOC100306363","GLYMA_17G030100","pathogenesis-related protein"
+"100799726","LOC100799726","GLYMA_04G119700","trehalose-phosphate phosphatase A"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"778184","LOC778184","GLYMA_12G104800, MYB122","transcription factor MYB30"
+NA,".",NA,NA
+NA,".",NA,NA
+"818982","WRKY39","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6"
+"100792351","LOC100792351","GLYMA_20G001400","peroxidase 5"
+NA,".",NA,NA
 "100808692","LOC100808692","GLYMA_08G169451v4","transcription factor JUNGBRUNNEN 1"
+"106794514","LOC106794514","","uncharacterized LOC106794514"
+"100812481","LOC100812481","GLYMA_02G296600","zinc finger CCCH domain-containing protein 29"
+"100802244","LOC100802244","GLYMA_20G241800","cationic peroxidase 1"
 "100806204","LOC100806204","GLYMA_15G052000","high affinity sulfate transporter 2"
+"100500585","LOC100500585","GLYMA_17G093500","uncharacterized LOC100500585"
 "835318","CRK42","AT5G52420, K24M7.17, K24M7_17","uncharacterized protein"
+"547561","LOC547561","GLYMA_16G137200","resistance protein LM12"
+"826409","WRKY19","AT4G08500, ARAKIN, ATMEKK1, MAPK/ERK kinase kinase 1, MAPKKK8, T15F16.5, T15F16_5","MAPK/ERK kinase kinase 1"
 "100797018","LOC100797018","GLYMA_02G148200","probable aspartic proteinase GIP2"
+"100781094","LOC100781094","GLYMA_09G063300","pathogen-associated molecular patterns-induced protein A70"
+"102664567","LOC102664567","","extensin-2-like"
 "100812586","LOC100812586","GLYMA_13G067900","probable galacturonosyltransferase-like 10"
 "100780084","LOC100780084","GLYMA_19G016100","probable galacturonosyltransferase-like 10"
+"100779492","LOC100779492","GLYMA_09G281900","isoliquiritigenin 2'-O-methyltransferase-like"
 "100526874","LOC100526874","GLYMA_13G133100","C2H2-type zinc finger protein"
+"830996","NRT2","AT5G11260, BZIP TRANSCRIPTION FACTOR HY5, ELONGATED HYPOCOTYL 5, F2I11.150, F2I11_150, REVERSAL OF THE DET PHENOTYPE 5, TED 5","Basic-leucine zipper (bZIP) transcription factor family protein"
 NA,".",NA,NA
+"4327651","WRKY5","OSNPB_010584900, P0712E02.9, WRKY5","WRKY transcription factor SUSIBA2"
 "100799496","LOC100799496","GLYMA_09G004800","probable F-box protein At4g22030"
 NA,".",NA,NA
+"100805895","LOC100805895","GLYMA_09G274000, WRKY","probable WRKY transcription factor 70-like"
+"121175294","LOC121175294","GLYMA_08G134200v4","uncharacterized LOC121175294"
+"100787739","LOC100787739","GLYMA_04G075800","uncharacterized LOC100787739"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"121173309","LOC121173309","GLYMA_13G173401v4, CYP93C1, CYP93C1p, ifs2","2-hydroxyisoflavanone synthase"
 "100793598","LOC100793598","GLYMA_06G102000","protein PHOSPHATE-INDUCED 1"
+"100527550","LOC100527550","GLYMA_09G112700","uncharacterized LOC100527550"
+"834354","PHT1-3","AT5G43360, ATPT4, MWF20.5, MWF20_5, PHOSPHATE TRANSPORTER 3, PHT3, phosphate transporter 1;3","phosphate transporter 1;3"
+"100817981","LOC100817981","GLYMA_09G179900","heavy metal-associated isoprenylated plant protein 16"
 "100807334","LOC100807334","GLYMA_03G016400","uncharacterized LOC100807334"
 NA,".",NA,NA
+"547483","B15-3-5","GLYMA_03G001500","syringolide-induced protein B15-3-5"
+NA,".",NA,NA
+NA,".",NA,NA
+"100813811","LOC100813811","GLYMA_20G149500","leucine-rich repeat extensin-like protein 6"
+"100789402","LOC100789402","GLYMA_07G048900","anthranilate N-methyltransferase"
+"100820528","LOC100820528","GLYMA_11G129300","beta-glucosidase 13"
+"100783759","LOC100783759","GLYMA_15G177900","serine/threonine-protein kinase RIPK"
+"100789744","LOC100789744","GLYMA_13G065300","uncharacterized LOC100789744"
+"100527106","LOC100527106","GLYMA_12G204300","protein tfg-1"
 "100802020","LOC100802020","GLYMA_18G294300","putative glutamine amidotransferase GAT1_2.1"
-"100815486","LOC100815486","GLYMA_16G033900","TMV resistance protein N"
+NA,".",NA,NA
+"100780372","LOC100780372","GLYMA_09G111800","VQ motif-containing protein 25-like"
+"100780590","LOC100780590","","receptor-like protein kinase ANXUR2"
+NA,".",NA,NA
+"106794169","LOC106794169","GLYMA_15G065200","G-type lectin S-receptor-like serine/threonine-protein kinase B120"
 "102665380","LOC100802692","","probable serine/threonine-protein kinase At1g18390"
 NA,".",NA,NA
+"842703","WRKY56","AT1G64000, ATWRKY56, F22C12.23, F22C12_23, WRKY DNA-binding protein 56","WRKY DNA-binding protein 56"
+NA,".",NA,NA
+"100527006","LOC100527006","GLYMA_01G036600","C2H2-type zinc finger domain-containing protein"
+NA,".",NA,NA
+"100794600","LOC100794600","GLYMA_19G011700","alpha-dioxygenase 1"
+"100792319","LOC100792319","GLYMA_03G215800","probable pectinesterase/pectinesterase inhibitor 41"
+"100527564","LOC100527564","GLYMA_08G316000","uncharacterized LOC100527564"
 "840119","SYP24","AT1G32270, F27G20.2, SYNTAXIN 24, SYP24","syntaxin"
 NA,".",NA,NA
+"100798930","LOC100798930","GLYMA_08G277000","probable 1-deoxy-D-xylulose-5-phosphate synthase 2, chloroplastic"
+"842814","4CL3","AT1G65060, 4-COUMARATE:COA LIGASE, 4-coumarate:CoA ligase 3, F16G16.6, F16G16_6","4-coumarate:CoA ligase 3"
+"100527035","LOC100527035","GLYMA_12G142900","uncharacterized LOC100527035"
 NA,".",NA,NA
+"100776138","LOC100776138","GLYMA_02G087400","AP2-like ethylene-responsive transcription factor TOE3"
+NA,".",NA,NA
+"100779770","NAC018","GLYMA_06G157400","NAC transcription factor"
+"100783376","LOC100783376","GLYMA_14G016300","zinc finger CCCH domain-containing protein 29"
 "100819543","LOC100819543","GLYMA_15G099700","LEC14B homolog"
-"100783677","LOC100783677","","extensin-2-like"
+"100500607","LOC100500607","GLYMA_19G174200","C2H2-type zinc finger protein"
 NA,".",NA,NA
-"100784124","LOC100784124","GLYMA_08G180400","high affinity sulfate transporter 2"
+"100793946","LOC100793946","GLYMA_05G029000","WRKY transcription factor 72A"
+"100800650","LOC100800650","","probable protein phosphatase 2C 58"
+"100783677","LOC100783677","","extensin-2-like"
+"100793661","LOC100793661","GLYMA_01G172100","uncharacterized LOC100793661"
+NA,".",NA,NA
+NA,".",NA,NA
 "100797561","LOC100797561","GLYMA_02G024200","uncharacterized LOC100797561"
 NA,".",NA,NA
+NA,".",NA,NA
+"100781785","LOC100781785","GLYMA_15G021800","LRR receptor-like serine/threonine-protein kinase IOS1"
+"100306214","LOC100306214","GLYMA_11G216900","protein C2-DOMAIN ABA-RELATED 4-like"
+NA,".",NA,NA
+"100500512","LOC100500512","GLYMA_19G258800","SAUR-like auxin-responsive family protein"
+"100499653","LOC100499653","GLYMA_06G259800","TIR-NBS-LRR type disease resistance protein"
+"100812879","LOC100812879","GLYMA_03G073776v4","laccase-7"
+NA,".",NA,NA
+"100809158","LOC100809158","GLYMA_12G057200","extensin"
+"100787814","LOC100787814","GLYMA_15G011900","pleiotropic drug resistance protein 1"
+"842703","WRKY56","AT1G64000, ATWRKY56, F22C12.23, F22C12_23, WRKY DNA-binding protein 56","WRKY DNA-binding protein 56"
 "100791945","LOC100791945","GLYMA_18G096700","uncharacterized LOC100791945"
+"100305673","LOC100305673","GLYMA_13G267100","uncharacterized LOC100305673"
+"100790322","LOC100790322","GLYMA_16G220500","thioredoxin H9"
+"100815089","LOC100815089","GLYMA_14G222400","uncharacterized protein At1g76070"
+NA,".",NA,NA
+NA,".",NA,NA
+"100778559","LOC100778559","GLYMA_07G041400, GmJAZ1, JAZ1, ZINP3","protein TIFY 11B-like"
+"100813645","LOC100813645","GLYMA_13G032700","rust resistance kinase Lr10"
+"100817249","LOC100817249","GLYMA_01G166100","calcium-dependent protein kinase 28"
+"12568","CRK6","Crk6","cyclin-dependent kinase 5"
+NA,".",NA,NA
+"100819818","LOC100819818","GLYMA_11G178300","calmodulin-binding receptor-like cytoplasmic kinase 2"
 "100810910","LOC100810910","GLYMA_04G100300","protein PHOSPHATE-INDUCED 1"
+"100812131","LOC100812131","GLYMA_18G271500","receptor-like protein kinase ANXUR2"
 "100784249","LOC100784249","GLYMA_13G095100","probable xyloglucan endotransglucosylase/hydrolase protein 23"
 NA,".",NA,NA
+"100781077","LOC100781077","GLYMA_08G336800","probable amino acid permease 7"
+"100775558","LOC100775558","GLYMA_01G024000","mitochondrial uncoupling protein 5"
 "100782473","LOC100782473","GLYMA_07G204800","phospholipase A1-IIgamma"
+"100784372","LOC100784372","GLYMA_19G109100","NAC domain-containing protein 87"
+NA,".",NA,NA
+"100809268","LOC100809268","GLYMA_10G092800","probable 2-oxoglutarate-dependent dioxygenase AOP1"
+"834676","SARK","AT5G46330, FLAGELLIN-SENSITIVE 2, MPL12.13, MPL12.8, MPL12_13","Leucine-rich receptor-like protein kinase family protein"
+NA,".",NA,NA
 "100817267","LOC100817267","GLYMA_09G246600","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380"
-"100810158","LOC100810158","GLYMA_01G012800","uncharacterized LOC100810158"
+"547860","LOX7","GLYMA_13G347800","lipoxygenase"
+"100803576","LOC100803576","GLYMA_09G011200","cytochrome b561 and DOMON domain-containing protein At5g47530"
+"100783194","LOC100783194","GLYMA_06G114200","aspartic proteinase Asp1"
+"100305440","LOC100305440","GLYMA_18G038500","protein kinase"
+"100816412","LOC100816412","GLYMA_02G040700","mitochondrial uncoupling protein 5"
 NA,".",NA,NA
+"100800036","LOC100800036","GLYMA_02G099200, AOC2","allene oxide cyclase 4, chloroplastic-like"
+"102665158","LOC102665158","GLYMA_09G181960v4","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 2.5"
+"852457","CHS2","YBR160W, CDK1, HSL5, SRM5","cyclin-dependent serine/threonine-protein kinase CDC28"
+"100797784","LOC100797784","GLYMA_19G255300","cyclic nucleotide-gated ion channel 1"
+"100500181","LOC100500181","GLYMA_03G074000","putative PAR1 protein"
+"100785849","LOC100785849","GLYMA_13G003200","DCD domain-containing protein NRP-A-like"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100819853","LOC100819853","GLYMA_20G213700","isoflavone-7-O-methyltransferase 6-like"
 "100784098","LOC100784098","GLYMA_15G171000","IQ domain-containing protein IQM1"
-NA,".",NA,NA
+"100801929","LOC100801929","","uncharacterized LOC100801929"
+"100781316","IFR","GLYMA_11G070500, GmIFR, IFR3","isoflavone reductase"
+"100781863","LOC100781863","GLYMA_11G070600, IFR4","NmrA-like family domain-containing protein"
+"100306585","LOC100306585","GLYMA_11G119200","uncharacterized LOC100306585"
+"100793347","LOC100793347","GLYMA_10G082500","syntaxin-121"
 "100306014","LOC100306014","GLYMA_12G024100","uncharacterized LOC100306014"
-NA,".",NA,NA
-NA,".",NA,NA
-NA,".",NA,NA
+"100784251","LOC100784251","GLYMA_13G090300","7-deoxyloganetin glucosyltransferase"
+"100805360","LOC100805360","GLYMA_17G097900","WRKY transcription factor 72A"
+"100800191","LOC100800191","GLYMA_17G236900","uncharacterized LOC100800191"
+"100791862","LOC100791862","GLYMA_13G088400","TPR repeat-containing thioredoxin TTL1"
 "100305418","LOC100305418","GLYMA_12G002400","cytokinin-regulated kinase"
+NA,".",NA,NA
+"100789013","LOC100789013","GLYMA_12G030600","PI-PLC X-box domain-containing protein DDB_G0293730"
+"100793187","LOC100793187","GLYMA_03G201000","NDR1/HIN1-like protein 10"
+"100789322","LOC100789322","GLYMA_18G047800","NDR1/HIN1-like protein 6"
+NA,".",NA,NA
+"833957","NAC6","AT5G39610, ANAC092, ATNAC2, ATNAC6, Arabidopsis NAC domain containing protein 92, MIJ24.11, MIJ24_11, NAC domain containing protein  2, NAC domain containing protein  6, NAC domain containing protein 2, NAC domain containing protein 6, NAC2, ORE1, ORESARA 1","NAC domain containing protein 6"
+"100792581","CHS4B","GLYMA_08G110500, GmCHS4b","chalcone synthase 4b"
+NA,".",NA,NA
+"2541633","PRP1","SPAC664.01c, SPAC824.10c","chromodomain protein Swi6"
+"100500693","LOC100500693","GLYMA_09G135800","short-chain dehydrogenase TIC 32, chloroplastic"
+NA,".",NA,NA
 "100500381","LOC100500381","GLYMA_06G100900","uncharacterized LOC100500381"
+"189","PTS1","AGT, AGT1, AGXT1, PH1, SPAT, SPT, Ser-PyrAT, TLH6","alanine--glyoxylate aminotransferase"
+"100305781","GLYI-17","GLYMA_12G167400, GmGLYI-17","putative lactoylglutathione lyase"
+"100813980","LOC100813980","GLYMA_12G094100","apoptosis-inducing factor homolog A-like"
+"100780058","LOC100780058","GLYMA_18G015000","uncharacterized LOC100780058"
 "100801122","LOC100801122","GLYMA_03G114700","UPF0481 protein At3g47200"
 "100527593","LOC100527593","GLYMA_17G113000","putative stellacyanin"
+"100785752","LOC100785752","GLYMA_02G237300","probable LRR receptor-like serine/threonine-protein kinase At1g06840"
 NA,".",NA,NA
+"100816770","LOC100816770","GLYMA_11G096600, NAC55","NAC domain-containing protein"
 "100818724","LOC100818724","GLYMA_10G176500","isoflavone-7-O-methyltransferase 9"
+"100819846","LOC100819846","GLYMA_12G116800","probable protein phosphatase 2C 58"
+"100500076","LOC100500076","GLYMA_01G161100","lysine histidine transporter-like 8"
+NA,".",NA,NA
+"100785655","LOC100785655","GLYMA_05G043900","BTB/POZ and TAZ domain-containing protein 1"
 "100810725","LOC100810725","GLYMA_18G249100","PRA1 family protein F2-like"
+"100777465","LOC100777465","GLYMA_13G235300","homeobox-DDT domain protein RLT1"
+NA,".",NA,NA
+"100780711","LOC100780711","GLYMA_08G292000","IAA-amino acid hydrolase ILR1-like 4"
+"100793687","LOC100793687","GLYMA_09G269600","bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase-like"
+NA,".",NA,NA
+"100798477","LOC100798477","GLYMA_10G046000","exocyst complex component EXO70H1"
+"100819590","LOC100819590","GLYMA_09G060700","uncharacterized LOC100819590"
+"100820571","LOC100820571","GLYMA_13G294200","signaling peptide TAXIMIN 2"
+NA,".",NA,NA
 "100819866","LOC100819866","GLYMA_13G037000","uncharacterized LOC100819866"
 NA,".",NA,NA
+"100785572","LOC100785572","GLYMA_17G156100","transcription factor bHLH25"
+"100778278","LOC100778278","GLYMA_18G301600","uncharacterized protein At2g33490"
+"100806588","LOC100806588","GLYMA_09G242600","ethylene-responsive transcription factor 1"
+"100785446","LOC100785446","GLYMA_04G228700","uncharacterized LOC100785446"
+"100783055","LOC100783055","GLYMA_08G135200","calmodulin-binding transcription activator 2"
+"100796311","LOC100796311","GLYMA_09G284700","peroxidase 5"
 NA,".",NA,NA
+"100500465","LOC100500465","GLYMA_12G217500","calcium-binding EF-hand family protein"
+"100783298","LOC100783298","GLYMA_11G062500","cytochrome P450 71D8-like"
+"100778709","LOC100778709","GLYMA_06G171150v4","calcium-binding protein CML38-like"
+"100775262","LOC100775262","GLYMA_19G007200","cinnamoyl-CoA reductase-like SNL6"
+"100819104","LOC100819104","GLYMA_19G006900","cinnamoyl-CoA reductase-like SNL6"
+"100808625","LOC100808625","GLYMA_05G158900","two-component response regulator ORR24"
 NA,".",NA,NA
 NA,".",NA,NA
 "100799023","LOC100799023","GLYMA_11G159021v4","UPF0496 protein 4"
+"100790454","LOC100790454","GLYMA_07G039700","putative receptor-like protein kinase At1g72540"
+NA,".",NA,NA
+"100792084","LOC100792084","GLYMA_09G240000","WRKY transcription factor 72B"
+NA,".",NA,NA
 "100818282","FWL2","GmFWL2","protein FW2.2-like 2"
+"102665271","LOC102665271","GLYMA_14G002800","VQ motif-containing protein 22"
+"100819452","LOC100819452","GLYMA_11G082700","amino acid transporter protein"
+NA,".",NA,NA
+"100784455","LOC100784455","GLYMA_14G049500","putative 1-aminocyclopropane-1-carboxylate oxidase"
 NA,".",NA,NA
 NA,".",NA,NA
+"100797003","LOC100797003","GLYMA_09G069900","serine/threonine-protein kinase RIPK"
+"100788048","CHS10","GLYMA_02G130400, CHS, GmCHS10","chalcone synthase 10"
 "100782800","CRK71","GLYMA_20G138100, GmCRK71","cysteine-rich receptor-like protein kinase"
+"112997725","LOC112997725","GLYMA_09G119900","RING-H2 finger protein ATL51"
+"100794249","LOC100794249","GLYMA_03G201302v4","NDR1/HIN1-like protein 10"
+"100796491","LOC100796491","GLYMA_02G245700","probable calcium-binding protein CML18"
 NA,".",NA,NA
 NA,".",NA,NA
+"100813471","LOC100813471","GLYMA_13G084000","putative nitrate reductase 1"
+"100775372","LOC100775372","GLYMA_16G145600","MLO-like protein 12"
+"100527144","LOC100527144","GLYMA_06G162400","uncharacterized LOC100527144"
+NA,".",NA,NA
+"100778798","LOC100778798","GLYMA_02G239100","LEA domain-containing protein"
+"100810130","LOC100810130","GLYMA_08G204300","malonate--CoA ligase"
+"100806990","LOC100806990","GLYMA_03G201200","NDR1/HIN1-like protein 10"
+"100784929","LOC100784929","GLYMA_20G121200","lipid phosphate phosphatase 1-like"
+"102660944","LOC102660944","GLYMA_15G158200","uncharacterized LOC102660944"
+"1956","PC7","ERBB, ERBB1, ERRP, HER1, NISBD2, PIG61, mENA","epidermal growth factor receptor"
 "100305387","LOC100305387","GLYMA_13G054300","FERONIA receptor-like kinase"
+NA,".",NA,NA
+NA,".",NA,NA
+"100777541","LOC100777541","GLYMA_02G125900","uncharacterized LOC100777541"
+"100527193","LOC100527193","GLYMA_18G249700","uncharacterized LOC100527193"
+"113001635","LOC113001635","GLYMA_05G129200","uncharacterized LOC113001635"
+"100818119","LOC100818119","GLYMA_15G115600","cytochrome b561 and DOMON domain-containing protein At5g47530"
+"100791545","LOC100791545","GLYMA_09G042400","RING-H2 finger protein ATL2"
 "818429","WRKY12","AT2G38470, ATWRKY33, T19C21.4, T19C21_4, WRKY DNA-BINDING PROTEIN 33, WRKY DNA-binding protein 33","WRKY DNA-binding protein 33"
+"100812612","LOC100812612","GLYMA_07G098500","heavy metal-associated isoprenylated plant protein 47"
+"100815671","LOC100815671","GLYMA_09G277800","peroxidase"
+NA,".",NA,NA
+"100809557","LOC100809557","GLYMA_13G069800","senescence-associated carboxylesterase 101"
+"100780151","LOC100780151","GLYMA_14G170800","phosphatidylinositol transfer protein 3"
+NA,".",NA,NA
+"100801515","LOC100801515","GLYMA_19G259300","probable L-gulonolactone oxidase 6"
 NA,".",NA,NA
 "100779499","LOC100779499","GLYMA_09G023600, GmHD-ZIPIII-5","homeobox-leucine zipper protein ATHB-14-like"
 "121173010","LOC121173010","GLYMA_11G178501v4","uncharacterized LOC121173010"
+"100799411","LOC100799411","GLYMA_13G110700","serine/threonine-protein kinase RIPK"
+"100809566","LOC100809566","GLYMA_06G030800","uncharacterized LOC100809566"
+"100786172","LOC100786172","GLYMA_11G211100","leucine-rich repeat receptor protein kinase HPCA1"
 "100787601","LOC100787601","GLYMA_05G175800","uncharacterized LOC100787601"
+"100526894","LOC100526894","GLYMA_08G301500","uncharacterized LOC100526894"
+"100794335","LOC100794335","GLYMA_07G132900","oxysterol-binding protein-related protein 3A"
 "100788567","LOC100788567","GLYMA_01G231000","ethylene-responsive transcription factor ERF022"
+"100802739","HSF-06","GLYMA_03G135800, GmHSF-06","heat stress transcription factor 6"
+"100796450","LOC100796450","GLYMA_08G024600","DCD (development and cell death) domain-containing protein"
+"100305620","LOC100305620","GLYMA_07G031000","hypothetical protein"
+"100306423","LOC100306423","GLYMA_07G216400","uncharacterized LOC100306423"
 "100809088","LOC100809088","","probable F-box protein At4g22030"
+"100789782","LOC100789782","GLYMA_08G179700","cationic peroxidase 2-like"
 NA,".",NA,NA
 "100789537","LOC100789537","GLYMA_20G186500","transcription factor HHO3"
+"100811963","LOC100811963","GLYMA_19G100000","GEm-Related 5-like protein"
 "7157","ACS","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
 "100806690","LOC100806690","GLYMA_06G072500","coiled-coil domain-containing protein 93"
-"100811355","LOC100811355","GLYMA_08G301600","uncharacterized LOC100811355"
 NA,".",NA,NA
-"100784827","LOC100784827","GLYMA_08G194600","ABC transporter C family member 8"
-"102665310","LOC102665310","GLYMA_02G083500v4","extensin-like"
+"100791751","LOC100791751","GLYMA_17G014100","uncharacterized LOC100791751"
+"100811355","LOC100811355","GLYMA_08G301600","uncharacterized LOC100811355"
+"100805954","LOC100805954","GLYMA_11G077300","calcium-dependent protein kinase 28"
+"100785561","LOC100785561","GLYMA_09G216400","probable LRR receptor-like serine/threonine-protein kinase At3g47570"
+"100802362","LOC100802362","GLYMA_18G290100","CASP-like protein 4D1"
+"100794824","LOC100794824","GLYMA_05G059300","putative glucuronosyltransferase PGSIP8"
+"100779485","GSRLCK","GLYMA_17G117800","receptor-like cytoplasmic serine/threonine protein kinase GsRLCK"
+"547563","LOC547563","GLYMA_16G215100","resistance protein MG13"
+"100814286","LOC100814286","GLYMA_10G290500","F-box protein At2g39490"
+"547936","GSTU47","GLYMA_15G251500, GST, GST2","glutathione transferase"
+"100797572","LOC100797572","GLYMA_02G055500","U-box domain-containing protein 5"
+"100791756","LOC100791756","GLYMA_09G236800","probable calcium-binding protein CML46"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100809266","LOC100809266","GLYMA_18G082300","disease resistance protein RPM1"
+"100816416","LOC100816416","GLYMA_10G118900","ethylene-responsive transcription factor ERF105"
+"100781337","LOC100781337","GLYMA_12G186800","F-box protein At2g27310"
+"100306409","LOC100306409","GLYMA_02G088900","alpha-amylase inhibitor/lipid transfer/seed storage family protein"
+"100775465","LOC100775465","GLYMA_12G117000","ethylene-responsive transcription factor 9"
+"100798221","LOC100796618","","probable receptor-like protein kinase At1g67000-like"
+"100775893","LOC100775893","GLYMA_15G132800","berberine bridge enzyme-like 21"
+NA,".",NA,NA
+"100817877","LOC100817877","GLYMA_12G216100v4","chitin-inducible gibberellin-responsive protein 1-like"
 "100819364","LOC100819364","GLYMA_07G045600","1-phosphatidylinositol-3-phosphate 5-kinase FAB1B"
 "102660467","LOC102660467","GLYMA_14G118500","uncharacterized LOC102660467"
-"100809839","LOC100809839","GLYMA_19G199300","E3 ubiquitin-protein ligase PUB22"
-"112998383","LOC112998383","","putative calcium-binding protein CML19"
+"100792142","LOC100792142","GLYMA_11G209681v4","trans-cinnamate:CoA ligase, peroxisomal"
+"100788426","LOC100788426","GLYMA_10G295200","uncharacterized LOC100788426"
+"100778560","LOC100778560","GLYMA_14G061200","nematode resistance protein-like HSPRO2"
+"100789792","HSF-05","GLYMA_01G143500, GMHSF-05","heat stress transcription factor 5"
 NA,".",NA,NA
+"100792189","LOC100792189","GLYMA_05G209000","BTB/POZ domain-containing protein At5g41330"
+"100797629","LOC100797629","GLYMA_12G238700","transcription factor bHLH130"
+"100809839","LOC100809839","GLYMA_19G199300","E3 ubiquitin-protein ligase PUB22"
+NA,".",NA,NA
+NA,".",NA,NA
+"100781727","LOC100781727","GLYMA_04G036700","transcription factor MYB77"
+"100805348","LOC100805348","GLYMA_17G081200","truncated transcription factor CAULIFLOWER A"
+"112998383","LOC112998383","","putative calcium-binding protein CML19"
+"100803957","LOC100803957","GLYMA_10G186700","early nodulin-75-like"
+"100500484","LOC100500484","GLYMA_03G045600","dirigent-like protein"
+"100804403","LOC100804403","GLYMA_06G190800","WRKY transcription factor 72A"
+NA,".",NA,NA
+"100794209","LOC100794209","GLYMA_09G269500","bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase-like"
+"100815477","LOC100815477","GLYMA_08G189500","seed linoleate 9S-lipoxygenase"
+NA,".",NA,NA
+"102670348","LOC102670348","GLYMA_13G266800","uncharacterized LOC102670348"
+"106794186","LOC106794186","GLYMA_13G352800","LRR receptor-like serine/threonine-protein kinase IOS1"
+NA,".",NA,NA
+"100809117","LOC100809117","GLYMA_18G214000","probable serine/threonine-protein kinase PBL1"
+"100814504","LOC100814504","GLYMA_04G208300, NAC69","NAC transcription factor"
+"100781132","LOC100781132","GLYMA_18G271400","receptor-like protein kinase ANXUR2"
 "100791015","LOC100791015","GLYMA_01G019200","phosphoenolpyruvate carboxykinase (ATP) 1"
+"100782320","LOC100782320","GLYMA_15G253500","cold-responsive protein kinase 1"
+NA,".",NA,NA
+"100787393","LOC100787393","GLYMA_11G022800","uncharacterized LOC100787393"
+"100800161","LOC100800161","GLYMA_08G130800","E3 ubiquitin-protein ligase RGLG5"
 "100820369","LOC100820369","GLYMA_04G225500","protein RESPONSE TO LOW SULFUR 3"
 "100811969","LOC100811969","GLYMA_19G200200","E3 ubiquitin-protein ligase PUB22"
-"102667868","LOC102667868","GLYMA_08G351800","1-aminocyclopropane-1-carboxylate oxidase homolog 12"
+NA,".",NA,NA
+"100803537","LOC100803537","GLYMA_16G189400","transcription factor LAF1"
+"100792874","LOC100792874","GLYMA_12G060700","E3 ubiquitin-protein ligase RDUF2"
+"100782327","LOC100782327","GLYMA_08G328800","disease resistance protein RPM1"
 "100813457","LOC100813457","GLYMA_05G185500","neutral/alkaline invertase 3, chloroplastic"
-NA,".",NA,NA
+"100806112","LOC100806112","GLYMA_19G198000","HVA22-like protein j"
+"100811198","LOC100811198","GLYMA_08G170700","cysteine-rich and transmembrane domain-containing protein WIH1"
+"100787734","LOC100787734","GLYMA_19G124600","alpha-L-arabinofuranosidase 1"
+"100817981","LOC100817981","GLYMA_09G179900","heavy metal-associated isoprenylated plant protein 16"
 "102670105","LOC102670105","GLYMA_05G215700","uncharacterized LOC102670105"
+"100807466","DIR22","GLYMA_01G127200, GmDIR22","dirigent protein 22"
+"100818208","LOC100818208","GLYMA_19G057500","12-oxophytodienoate reductase 2"
+"100499697","LOC100499697","","uncharacterized LOC100499697"
+"100802260","LOC100802260","GLYMA_05G080500","phosphoglycerate mutase-like protein 4"
 "100788976","LOC100788976","GLYMA_19G224600","transcription factor MYB61"
+"100778253","LOC100778253","GLYMA_02G158700","bifunctional dihydroflavonol 4-reductase/flavanone 4-reductase-like"
+"100780305","LOC100780305","GLYMA_06G079500","uncharacterized LOC100780305"
+"100799978","LOC100799978","GLYMA_15G108700","5'-adenylylsulfate reductase 3, chloroplastic"
+"100527032","LOC100527032","GLYMA_02G017100","indole-3-acetic acid-induced protein ARG2-like"
+"100778149","LOC100778149","GLYMA_01G211800, IFR2","NmrA-like family domain-containing protein"
+"100801924","LOC100801924","GLYMA_06G290000","ethylene-responsive transcription factor 9"
 "106797139","LOC106797139","GLYMA_18G270700","receptor-like protein kinase FERONIA"
+"100778162","WRKY76","GLYMA_06G142000","WRKY transcription factor 76"
+"829036","IQD25","AT4G29150, F19B15.180, F19B15_180, IQ-domain 25","IQ-domain 25"
+"100781293","LOC100781293","GLYMA_10G201200","protein PSK SIMULATOR 3"
 "100806530","LOC100806530","GLYMA_06G310100","probable carboxylesterase 15"
-NA,".",NA,NA
+"100798588","LOC100798588","GLYMA_08G201300","ABC transporter G family member 36"
 "100784113","LOC100784113","GLYMA_16G122700","aspartyl protease family protein"
+"100818534","LOC100818534","GLYMA_02G269600v4, WBb98N11.2","protein LYK5"
+"100799343","LOC100799343","GLYMA_18G193400","laccase-7"
 NA,".",NA,NA
+"100796868","LOC100796868","GLYMA_10G069500","putative leucine-rich repeat protein kinase family protein"
 NA,".",NA,NA
+"100794402","LOC100794402","GLYMA_10G266300","uncharacterized LOC100794402"
+"35588","AOX3","Dmel_CG34392, CG15235, CG3427, CG34392, D-EPAC, D-Epac, Dm_2R:10367, Dmel\CG34392, Dmel_CG15235, Dmel_CG3427, epac","Exchange protein directly activated by cAMP"
+"7157","MAPK1","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
+"102660563","LOC102660563","GLYMA_05G154900","uncharacterized LOC102660563"
+NA,".",NA,NA
+"100526906","LOC100526906","GLYMA_05G225900","uncharacterized LOC100526906"
+"100783889","LOC100783889","GLYMA_05G001500","uncharacterized LOC100783889"
+NA,".",NA,NA
+"100782846","LOC100782846","GLYMA_14G171800","TPR repeat-containing thioredoxin TTL1"
+"100779957","LOC100779957","GLYMA_06G113100","uncharacterized protein At4g08330, chloroplastic"
+"100808399","LOC100808399","GLYMA_03G138000","calcium-dependent protein kinase 32"
+"100527902","LOC100527902","GLYMA_10G261200","BSP domain-containing protein"
+"100037460","LOC100037460","GLYMA_02G257200","phosphatidylinositol-specific phospholipase C"
+"100780722","LOC100780722","GLYMA_16G148600","nudix hydrolase 12, mitochondrial"
+"100803045","LOC100803045","GLYMA_02G134500","uncharacterized LOC100803045"
+"100306251","LOC100306251","GLYMA_08G039700","uncharacterized LOC100306251"
+"100806025","LOC100806025","GLYMA_07G015800","ABC transporter G family member 36"
+"100794711","LOC100794711","GLYMA_01G172700","phenylcoumaran benzylic ether reductase TP7"
 "100819184","LOC100819184","GLYMA_14G048900","1-aminocyclopropane-1-carboxylate oxidase-like"
+"100815453","LOC100815453","GLYMA_07G142600","laccase-7"
+"100814522","LOC100814522","GLYMA_20G227300","uncharacterized LOC100814522"
+NA,".",NA,NA
 "100788151","LOC100788151","GLYMA_06G175100","leucine-rich repeat receptor-like serine/threonine/tyrosine-protein kinase SOBIR1"
 NA,".",NA,NA
-"100791196","LOC100791196","GLYMA_16G161100","UPF0481 protein At3g47200"
-"100791341","LOC100791341","GLYMA_14G102700","chorismate mutase 2"
-"100792365","LOC100792365","GLYMA_05G032700","histone-lysine N-methyltransferase SETD1A"
+NA,".",NA,NA
+"112998406","LOC112998406","GLYMA_11G105700","PI-PLC X-box domain-containing protein"
+NA,".",NA,NA
+"547659","LOC547659","GLYMA_01G172600, GmIFR, IFR1","NADPH:isoflavone reductase"
+"100526983","LOC100526983","GLYMA_18G191600","uncharacterized LOC100526983"
+"100527585","LOC100527585","GLYMA_02G133200","uncharacterized LOC100527585"
+"100306006","LOC100306006","GLYMA_15G256300","uncharacterized LOC100306006"
+NA,".",NA,NA
+"547660","LOC547660","GLYMA_18G220600","2'-hydroxydihydrodaidzein reductase"
+"100813883","LOC100813883","GLYMA_16G212600","putative GEM-like protein 8"
+"100799846","LOC100799846","GLYMA_02G208200","protein PHOSPHATE-INDUCED 1"
+"100813334","LOC100812799","","ankyrin repeat and KH domain-containing protein 1-like"
+"100797606","LOC100797606","GLYMA_19G009100","formate dehydrogenase, mitochondrial-like"
+"100805151","LOC100805151","GLYMA_01G030300","protein bfr2"
+"100791093","LOC100791093","GLYMA_11G239900","uncharacterized LOC100791093"
+"100788258","LOC100788258","GLYMA_10G281600","uncharacterized LOC100788258"
+"100795866","LOC100795866","GLYMA_20G070000","ethylene-responsive transcription factor ERF105"
+"100796207","LOC100796207","GLYMA_20G012900","uncharacterized protein At4g06744"
+"100806975","LOC100806975","GLYMA_10G006600, GMMYB29A1","transcription factor MYB4"
+"100816766","LOC100816766","GLYMA_11G000800","putative cyclase"
+"100811344","LOC100811344","GLYMA_14G223200","4-coumarate--CoA ligase-like 5"
 NA,".",NA,NA
 NA,".",NA,NA
+"100305684","LOC100305684","GLYMA_15G057500","uncharacterized LOC100305684"
+"100780830","LOC100780830","GLYMA_01G074500","uncharacterized LOC100780830"
+"100788619","LOC100788619","GLYMA_19G008300","quinone oxidoreductase-like protein At1g23740, chloroplastic-like"
 "100807221","LOC100807221","GLYMA_13G208000","probable aspartic proteinase GIP2"
-"106794104","LOC106794104","GLYMA_09G281800","isoliquiritigenin 2'-O-methyltransferase"
-"112999626","LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1"
-"100818203","LOC100818203","GLYMA_18G110200","aspartyl protease family protein 2"
+"100783281","AMT2.2","GLYMA_18G204800, GmAMT2.2","ammonium transporter AMT2.2"
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100816043","LOC100816043","GLYMA_17G014500","uncharacterized LOC100816043"
+"106794104","LOC106794104","GLYMA_09G281800","isoliquiritigenin 2'-O-methyltransferase"
+NA,".",NA,NA
+"112999626","LOC112999626","GLYMA_15G249800","VQ motif-containing protein 1"
+"100792288","LOC100792288","GLYMA_02G024000","TMV resistance protein N-like"
+"100784784","LOC100784784","GLYMA_13G123100","ethylene-responsive transcription factor 1-like protein"
+"100527030","LOC100527030","GLYMA_11G040600","C2 domain-containing protein"
+"100780402","LOC100780402","GLYMA_18G256500","WRKY transcription factor 72A"
+NA,".",NA,NA
+"100807643","LOC100807643","","ethylene-responsive transcription factor 2-like"
+NA,".",NA,NA
+"100818203","LOC100818203","GLYMA_18G110200","aspartyl protease family protein 2"
+"100806788","LOC100806788","GLYMA_10G257900, STF-2","zinc finger protein ZAT10"
+"100500291","LOC100500291","GLYMA_05G107500","VQ motif-containing protein"
+"100305390","LOC100305390","GLYMA_01G203500","NAK-type protein kinase"
+"100527605","LOC100527605","GLYMA_11G152000","uncharacterized LOC100527605"
+"100775518","LOC100775518","GLYMA_07G173000","G-type lectin S-receptor-like serine/threonine-protein kinase At1g34300"
+NA,".",NA,NA
+"100799367","LOC100799367","GLYMA_19G127800","probable mediator of RNA polymerase II transcription subunit 26b"
 "100777197","LOC100777197","GLYMA_10G115500","cytochrome P450 71D8-like"
 NA,".",NA,NA
 NA,".",NA,NA
-"112999210","LOC112999106","","28S ribosomal RNA"
-"100305807","LOC100305807","GLYMA_11G105800","uncharacterized LOC100305807"
-"100787396","LOC100787396","GLYMA_19G222900","putative expansin-A17"
 NA,".",NA,NA
+"548010","1-3-1A","GLYMA_10G277800, MYB69","syringolide-induced protein 1-3-1A"
+NA,".",NA,NA
+"100811310","PHO1-H9","GLYMA_20G032400, GmaPHO1;H9, PHO1","PHO1 family protein"
+NA,".",NA,NA
+"827885","PUB8","AT4G21350, B80, T6K22.80, T6K22_80, plant U-box 8","plant U-box 8"
+NA,".",NA,NA
+"100305807","LOC100305807","GLYMA_11G105800","uncharacterized LOC100305807"
+"100819302","LOC100819302","GLYMA_19G069400","rust resistance kinase Lr10"
+"100801545","LOC100801545","GLYMA_05G133100","E3 ubiquitin-protein ligase UPL1"
+NA,".",NA,NA
+"100777578","LOC100777578","GLYMA_11G085300","probable serine/threonine-protein kinase PIX13"
+"100500655","LOC100500655","GLYMA_14G080200","uncharacterized LOC100500655"
+"100819630","LOC100819630","GLYMA_18G044900","trans-cinnamate:CoA ligase, peroxisomal"
+"80279","HSF-27","C53, HSF-27, IC53, LZAP, MST016, OK/SW-cl.114, PP1553","CDK5 regulatory subunit associated protein 3"
+"100796005","LOC100796005","GLYMA_03G029600","auxin-responsive protein SAUR36"
+NA,".",NA,NA
+"100780924","LOC100780924","GLYMA_09G282600","uncharacterized protein At5g23160"
 "547668","LOC547668","GLYMA_15G042000, NDX1","nodulin homeobox"
+NA,".",NA,NA
+NA,".",NA,NA
+"100527689","LOC100527689","GLYMA_12G225200","VQ motif-containing protein 19"
+"100811009","LOC100811009","GLYMA_08G307600","aspartyl protease family protein 2"
+"100779830","LOC100779830","GLYMA_01G245200","tetratricopeptide repeat protein SKI3"
 "547622","DREB1-like","GLYMA_09G147200, CBF, DREB1","CRT binding factor 1"
 NA,".",NA,NA
+NA,".",NA,NA
+"112997603","LOC112997603","GLYMA_17G179200v4","probable disease resistance protein At5g66900"
+"100794580","PHO1-H5","GLYMA_10G183300, GmaPHO1;H5, PHO1","PHO1 family protein"
+NA,".",NA,NA
+NA,".",NA,NA
+"100793782","LOC100793782","GLYMA_13G133000","zinc finger protein ZAT11"
 "100785963","LOC100785963","GLYMA_19G065800","putative aminoacrylate hydrolase RutD"
-NA,".",NA,NA
+"100820139","LOC100820139","GLYMA_10G054700","transcription factor RAX2"
+"100305647","LOC100305647","GLYMA_13G279500","uncharacterized LOC100305647"
 "100778239","LOC100778239","GLYMA_01G048400","ribonuclease 3"
+"106799623","LOC106799623","","extensin-2-like"
+"100783253","LOC100783253","GLYMA_17G247700","protein DA1"
+"100813836","LOC100813836","GLYMA_06G315100","phospholipid-transporting ATPase 1"
+"100807120","LOC100807120","GLYMA_17G126400","BTB/POZ and TAZ domain-containing protein 1"
+"100790619","LOC100790619","GLYMA_13G087500","probable glucan 1,3-beta-glucosidase A"
+"100819591","LOC100819591","GLYMA_17G145900","phospholipase A1-Ibeta2, chloroplastic"
 NA,".",NA,NA
+"100789386","CYP82A3","GLYMA_13G068800","cytochrome P450 82A3-like"
 "100797371","LOC100797371","GLYMA_09G048900","isoflavone 2'-hydroxylase"
-"100801328","LOC100801328","GLYMA_04G096300","GATA transcription factor 24"
+"100783731","LOC100783731","GLYMA_06G063900","uncharacterized LOC100783731"
+"100796271","LOC100796271","GLYMA_15G044400","ethylene-responsive transcription factor RAP2-7"
+NA,".",NA,NA
+"100776878","CYP93A1","GLYMA_03G143700, D6aH","3,9-dihydroxypterocarpan 6A-monooxygenase"
 "851752","HIR3","YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36","translation termination factor GTPase eRF3"
+"100791726","LOC100791726","GLYMA_08G199300","inositol oxygenase 1"
+"100808473","LOC100808473","GLYMA_13G342800","glucose--fructose oxidoreductase"
+"100791604","LOC100791604","GLYMA_03G000600","bifunctional protein FolD 1, mitochondrial"
+NA,".",NA,NA
+"100306379","LOC100306379","GLYMA_06G266700","TRX domain-containing protein"
 "102662076","LOC102662076","GLYMA_03G032300","putative cysteine-rich receptor-like protein kinase 35"
+"100527479","LOC100527479","GLYMA_11G030300","uncharacterized LOC100527479"
+NA,".",NA,NA
+"100816907","LOC100816907","GLYMA_17G251200","U-box domain-containing protein 5"
+NA,".",NA,NA
+"548031","LOC548031","GLYMA_05G161400, GSTU16","glutathione S-transferase GST 20"
+"100810137","LOC100810137","GLYMA_16G195600","cytochrome P450 736A117"
+NA,".",NA,NA
+"100804867","LOC100804867","GLYMA_11G137300","E3 ubiquitin-protein ligase RDUF2"
 "100798636","LOC100798636","GLYMA_18G287700","heat shock cognate 70 kDa protein 2"
+"100817162","LOC100817162","GLYMA_04G102600","sugar transport protein 5"
 "100787246","PT11C","GLYMA_11G210500, GmPT11c","prenyltransferase family protein PT11c"
 NA,".",NA,NA
 NA,".",NA,NA
+"100798875","LOC100798875","GLYMA_05G178200","calmodulin-binding transcription activator 1"
+"100527589","LOC100527589","GLYMA_18G289900","uncharacterized LOC100527589"
 NA,".",NA,NA
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100785696","LOC100785696","GLYMA_15G271900","transcription factor bHLH130"
+"100815114","LOC100815114","GLYMA_08G039600","probable ADP-ribosylation factor GTPase-activating protein AGD14"
+NA,".",NA,NA
+"102661897","LOC102661897","GLYMA_11G236600","probable E3 ubiquitin-protein ligase XERICO"
+"834355","PHT1-2","AT5G43370, APT1, ARABIDOPSIS PHOSPHATE TRANSPORTER 1, MWF20.6, MWF20_6, PHOSPHATE TRANSPORTER 2, PHT2, phosphate transporter 2","phosphate transporter 2"
 "100811511","LOC100811511","GLYMA_14G190700","calmodulin-binding receptor-like cytoplasmic kinase 2"
+"100811148","LOC100811148","GLYMA_06G255900","G-type lectin S-receptor-like serine/threonine-protein kinase At1g11300"
+"100812031","LOC100812031","GLYMA_06G184200","probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 9"
+"100787424","LOC100787424","GLYMA_12G044600","ice nucleation protein InaA"
 "100775768","LOC100775768","GLYMA_10G066000","serine/threonine-protein kinase CTR1"
-"100820209","LOC100820209","GLYMA_05G123000","probable WRKY transcription factor 9"
-"100818944","LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2"
-"100805036","LOC100805036","GLYMA_03G054100v4","disease resistance protein RPV1-like"
-"100785788","LOC100785788","GLYMA_03G024500","ruBisCO-associated protein"
+"547756","PEPC4","GLYMA_12G210600","phosphoenolpyruvate carboxylase"
 NA,".",NA,NA
+"100820209","LOC100820209","GLYMA_05G123000","probable WRKY transcription factor 9"
+"100500670","LOC100500670","GLYMA_14G179200","putative alpha/beta hydrolase"
+"100800654","LOC100800654","GLYMA_13G073900","probable serine/threonine-protein kinase PBL2"
+"100810563","LOC100810563","GLYMA_04G187700","uncharacterized LOC100810563"
+NA,".",NA,NA
+"100787509","LOC100787509","GLYMA_09G164100","putative GEM-like protein 8"
+"100818944","LOC100818944","GLYMA_20G133100","BTB/POZ domain-containing protein NPY2"
+NA,".",NA,NA
+"100813810","LOC100813810","GLYMA_20G131500","probable protein phosphatase 2C 63"
+"100815350","LOC100815350","GLYMA_10G191700","peroxidase 5"
+"100805036","LOC100805036","GLYMA_03G054100v4","disease resistance protein RPV1-like"
+NA,".",NA,NA
+NA,".",NA,NA
+"20861","STF-3","Stefin-3, Stf-3, Stf1, Stf3, Stfa3","stefin A1"
+"100817431","LOC100817431","GLYMA_01G219100","probable copper-transporting ATPase HMA5"
 "842733","WRKY62","AT1G64280, ARABIDOPSIS NONEXPRESSER OF PR GENES 1, ATNPR1, F15H21.6, F15H21_6, NIM1, NON-INDUCIBLE IMMUNITY 1, NONEXPRESSER OF PR GENES 1, REGULATORY PROTEIN NPR1, SAI1, SALICYLIC ACID INSENSITIVE 1","regulatory protein (NPR1)"
 NA,".",NA,NA
+"5873","GS-2","GS2, HsT18676, RAB27, RAM","RAB27A, member RAS oncogene family"
 NA,".",NA,NA
 NA,".",NA,NA
-"100779987","LOC100779987","GLYMA_07G103000, AT1G18270","uncharacterized LOC100779987"
+NA,".",NA,NA
+"100306332","LOC100306332","GLYMA_11G038600","uncharacterized LOC100306332"
+"100500357","LOC100500357","GLYMA_11G180500","probable CCR4-associated factor 1 homolog 11"
+"100800887","LOC100800887","GLYMA_16G003200","YTH domain-containing protein ECT4"
+"100800945","LOC100800945","GLYMA_18G230800","FT-interacting protein 3"
+NA,".",NA,NA
+"100799303","LOC100799303","GLYMA_01G187700","S-adenosyl-L-methionine-dependent methyltransferases superfamily protein"
+"851752","HIR3","YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36","translation termination factor GTPase eRF3"
+NA,".",NA,NA
+"100807284","LOC100807284","GLYMA_01G032300","uncharacterized LOC100807284"
+"840158","MYB29","AT1G32640, ATMYC2, F6N18.4, F6N18_4, JAI1, JASMONATE INSENSITIVE 1, JIN1, RD22BP1, ZBF1","Basic helix-loop-helix (bHLH) DNA-binding family protein"
+"542391","GA2OX1","ZEAMMB73_Zm00001d033859, GRMZM2G017087, KN-1, kn1","knotted 1"
+"100811812","LOC100811812","GLYMA_03G002300","probable WRKY transcription factor 70-like"
+NA,".",NA,NA
+"100787229","LOC100787229","GLYMA_12G222500","CBS domain-containing protein CBSX5"
 "113000773","LOC113000773","","putative receptor-like protein kinase At4g00960"
+"100796982","LOC100796982","GLYMA_15G109600","probable F-box protein At4g22030"
+"100802452","LOC100802452","GLYMA_06G290800","transmembrane E3 ubiquitin-protein ligase FLY2"
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100809258","LOC100809258","GLYMA_02G195400","syntaxin-121"
 "100798683","LOC100798683","GLYMA_12G218100","exosome complex exonuclease RRP44 homolog A"
+"100783043","LOC100783043","GLYMA_16G077400","uncharacterized LOC100783043"
+"855228","AOS1","YMR190C","ATP-dependent DNA helicase SGS1"
+"100817120","LOC100817120","GLYMA_02G297700","scarecrow-like protein 21"
+"100795969","LOC100795969","GLYMA_18G138400v4","carbonic anhydrase 2-like"
 NA,".",NA,NA
-"112999065","LOC112999065","","18S ribosomal RNA"
-"100814612","LOC100814612","GLYMA_17G257200","cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG1-like"
+"121175329","LOC121175329","GLYMA_08G281600v4","classical arabinogalactan protein 9-like"
+NA,".",NA,NA
+"100810665","LOC100810665","GLYMA_08G260500","uncharacterized LOC100810665"
+"100527447","LOC100527447","GLYMA_16G214500","disease-resistance protein"
+"547454","LOC547454","GLYMA_09G126200","Chitinase III-A"
 "100789009","LOC100789009","GLYMA_20G186200","AP2/ERF and B3 domain-containing transcription repressor RAV2"
+"100782012","LOC100782012","GLYMA_09G109600","protein trichome birefringence"
+"100776993","LOC100776993","GLYMA_17G053600","IQ domain-containing protein IQM1"
+"732616","LOC732616","GLYMA_15G222300","calcium and calcium/calmodulin-dependent serine/threonine-protein kinase"
+"100788382","LOC100788382","GLYMA_16G054400","probable WRKY transcription factor 75"
+"100776488","LOC100776488","GLYMA_02G125600","probable indole-3-acetic acid-amido synthetase GH3.1"
 NA,".",NA,NA
+"100791810","LOC100791810","GLYMA_11G043700","transcription factor bHLH25"
+"100800674","LOC100800674","GLYMA_14G041700","NDR1/HIN1-like protein 13"
 "100797211","LOC100797211","GLYMA_10G204100","lysine histidine transporter-like 6"
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"112997598","LOC112997598","","extra-large guanine nucleotide-binding protein 1"
+NA,".",NA,NA
+"100527430","LOC100527430","GLYMA_01G115500","uncharacterized LOC100527430"
 "113664110","IDL2A","GLYMA_01G090400v4, GmIDL2A","IDA-like protein"
+"100816719","LOC100816719","GLYMA_09G080000","probable WRKY transcription factor 47"
 "100802508","LOC100802508","GLYMA_09G072000","ethylene-responsive transcription factor ERF017"
+"102666977","LOC102666504","","MDIS1-interacting receptor like kinase 2"
+"100812124","LOC100812124","GLYMA_02G213700","carbonic anhydrase, chloroplastic-like"
+"100779306","LOC100779306","GLYMA_09G138100","oxalate--CoA ligase"
+"100804982","LOC100804982","GLYMA_17G097000","hypersensitive-induced response protein 1-like"
+"100820588","LOC100820588","GLYMA_14G221200","putative cinnamyl alcohol dehydrogenase"
+"100776196","LOC100776196","GLYMA_01G074600","hydroquinone glucosyltransferase"
+"100802892","LOC100802892","GLYMA_18G029300","nematode resistance protein-like HSPRO2"
+"113001185","LOC100785433","","TMV resistance protein N-like"
+"100783933","LOC100783933","GLYMA_07G090000","aspartyl protease APCB1"
+"22431","AOC1","D630046I19Rik, Wt-1","WT1 transcription factor"
 "100814085","LOC100814085","GLYMA_17G242000","serine/threonine-protein kinase tricornered"
+"100777264","LOC100777264","GLYMA_12G235100","protein SRG1-like"
+"106795104","LOC106795104","GLYMA_11G218900v4","receptor-like cytoplasmic kinase 176"
 NA,".",NA,NA
 NA,".",NA,NA
-"100784908","LOC100784908","GLYMA_11G109800","uncharacterized LOC100784908"
-"100306576","LOC100306576","GLYMA_11G236500","uncharacterized LOC100306576"
+"100800289","LOC100800289","GLYMA_05G196700","protein PSK SIMULATOR 1"
+"100810724","LOC100810724","GLYMA_10G272000","core-2/I-branching enzyme domain-containing protein"
+NA,".",NA,NA
 "100781718","LOC100781718","GLYMA_04G240100","WAT1-related protein At5g40210"
+NA,".",NA,NA
+"100811489","LOC100811489","GLYMA_13G253300","receptor-like protein kinase 7"
+"100780246","LOC100780246","GLYMA_11G070200","NmrA-like family domain-containing protein"
 "100785345","LOC100785345","GLYMA_15G021900","LRR receptor-like serine/threonine-protein kinase IOS1"
+"100809117","LOC100809117","GLYMA_18G214000","probable serine/threonine-protein kinase PBL1"
+"114515510","SUBI-2","GLYMA_13G117900, Gmubi2","polyubiquitin"
+"100785371","LOC100785371","GLYMA_17G008000","cytochrome b561 and DOMON domain-containing protein At5g47530"
 "100795719","LOC100795719","GLYMA_06G024000","protein PSK SIMULATOR 2"
-"100801386","LOC100801386","GLYMA_13G355000","ABC transporter G family member 36"
+"100788713","FWL8","GLYMA_15G016800, GmFWL8","protein FW2.2-like 8"
+"100798818","LOC100798818","GLYMA_10G022300","uncharacterized LOC100798818"
+"100784103","LOC100784103","GLYMA_15G038400","protein TRM32"
+"100795858","LOC100795858","GLYMA_11G054500","caffeoyl-CoA O-methyltransferase 5"
+"100806753","LOC100806753","GLYMA_17G227900","fructan 6-exohydrolase"
+"100808831","LOC100808831","GLYMA_14G034700","uncharacterized LOC100808831"
+"100796230","LOC100796230","GLYMA_13G169200","deoxynucleoside triphosphate triphosphohydrolase SAMHD1 homolog"
 "100820497","LOC100820497","GLYMA_18G201850v4","probable 2-oxoglutarate-dependent dioxygenase At5g05600"
-"100788442","LOC100788442","GLYMA_03G024566v4","ruBisCO-associated protein-like"
+"100500597","LOC100500597","GLYMA_13G054700","uncharacterized LOC100500597"
+"100306500","LOC100306500","GLYMA_13G314400","uncharacterized LOC100306500"
+"100806424","LOC100806424","GLYMA_09G006700","probable F-box protein At4g22030"
 "7157","SIK1","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
+NA,".",NA,NA
+"100305812","LOC100305812","GLYMA_09G041900","uncharacterized LOC100305812"
+"547596","PTI1B","GLYMA_17G039800","Pti1 kinase-like protein"
+"100780587","LOC100780587","GLYMA_10G023300","receptor-like cytosolic serine/threonine-protein kinase RBK2"
 "100781890","LOC100781890","GLYMA_20G059100","OBERON-like protein"
 NA,".",NA,NA
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100787788","LOC100787788","GLYMA_13G335800","uncharacterized LOC100787788"
+"100775836","LOC100775836","GLYMA_20G152900","transcription factor bHLH118-like"
+"817646","WRKY60","AT2G30950, F7F1.16, F7F1_16, FTSH2, VARIEGATED 2","FtsH extracellular protease family"
 "100779395","LOC100779395","GLYMA_05G124800","berberine bridge enzyme-like 28"
+"100806737","LOC100806737","GLYMA_08G004400","MACPF domain-containing protein At4g24290"
 NA,".",NA,NA
 NA,".",NA,NA
+NA,".",NA,NA
+"100791036","LOC100791036","GLYMA_17G030300","stress-induced protein SAM22-like"
+"100809914","LOC100809914","GLYMA_07G165900","uncharacterized LOC100809914"
+"100787650","LOC100787650","GLYMA_15G104700","probable aspartic proteinase GIP2"
 "100789630","LOC100789630","GLYMA_09G163900","kunitz trypsin inhibitor 5"
+"102667331","LOC102667331","GLYMA_08G010400","auxin-responsive protein SAUR71"
+"100820100","LOC100820100","GLYMA_16G214800","TMV resistance protein N-like"
 NA,".",NA,NA
-NA,".",NA,NA
+"7157","NIR","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
+"547939","LOC547939","GLYMA_10G051200","probable E3 ubiquitin-protein ligase RHG1A"
+"100800826","LOC100800826","GLYMA_13G119100","5'-nucleotidase domain-containing protein 4"
+"100782656","LOC100782656","GLYMA_13G058400","membrane-anchored ubiquitin-fold protein 1"
+"100306479","LOC100306479","GLYMA_18G294200","non-specific lipid-transfer protein 2"
+"121172803","LOC121172803","GLYMA_01G069000v4","uncharacterized LOC121172803"
+"100799073","LOC100799073","GLYMA_13G285400","chitin-inducible gibberellin-responsive protein 1"
+"100818076","LOC100818076","GLYMA_05G006600","cinnamoyl-CoA reductase-like SNL6"
+"100816177","LOC100816177","GLYMA_08G244700","UDP-glycosyltransferase 83A1"
+"100817682","LOC100817682","GLYMA_11G179300","apoptosis-inducing factor homolog A"
 "100791666","LOC100791666","GLYMA_05G209100","uncharacterized LOC100791666"
+"828415","CRK8","AT4G23160, F21P8.50, F21P8_50, cysteine-rich RLK (RECEPTOR-like protein kinase) 8","cysteine-rich RECEPTOR-like kinase"
+"100527107","LOC100527107","GLYMA_18G286900","uncharacterized LOC100527107"
+"100810159","LOC100810159","GLYMA_09G206200","transcription factor MYB41"
+"826983","AMT1.1","AT4G13510, ARABIDOPSIS THALIANA AMMONIUM TRANSPORT 1, ATAMT1, ATAMT1;1, T6G15.60, T6G15_60, ammonium transporter 1;1","ammonium transporter 1;1"
+"100527317","LOC100527317","GLYMA_13G257500","uncharacterized LOC100527317"
+"100800453","LOC100800453","GLYMA_05G063500","ethylene-responsive transcription factor 5"
+"100527055","LOC100527055","GLYMA_01G236500","uncharacterized LOC100527055"
+"100776177","LOC100776177","GLYMA_04G253900","uncharacterized LOC100776177"
 NA,".",NA,NA
+"100780913","LOC100780913","GLYMA_01G048500","beta-1,3-galactosyltransferase GALT1"
+NA,".",NA,NA
+"100791492","LOC100791492","GLYMA_13G338300","zinc transporter 1"
+"100792503","LOC100792503","GLYMA_20G044100","probable strigolactone esterase DAD2"
+"100037453","KASII-B","GLYMA_13G112700","plastid 3-keto-acyl-ACP synthase II-B"
 "100776660","LOC100776660","GLYMA_10G115300","cytochrome P450 71D8-like"
 "100782663","LOC100782663","GLYMA_14G208000","NDR1/HIN1-like protein 6"
-"100792931","LOC100792931","GLYMA_07G266500","scarecrow-like protein 13-like"
 "100800078","LOC100800078","GLYMA_11G230300","putative serine/threonine-protein kinase-like protein CCR3"
+"100799312","LOC100799312","GLYMA_17G123800","putative phospholipid-transporting ATPase 9"
+NA,".",NA,NA
+NA,".",NA,NA
 "100776413","LOC100776413","GLYMA_13G331400","probable NOT transcription complex subunit VIP2"
+"100815871","LOC100815871","GLYMA_18G064100","calmodulin-binding receptor-like cytoplasmic kinase 2"
+"100775519","LOC100775519","GLYMA_07G212800","ferredoxin--nitrite reductase, chloroplastic"
+NA,".",NA,NA
+"100804561","LOC100804561","GLYMA_13G270100","epidermis-specific secreted glycoprotein EP1"
 NA,".",NA,NA
 NA,".",NA,NA
-"100814739","LOC100814739","GLYMA_14G031300","BTB/POZ domain and ankyrin repeat-containing protein NPR1"
+"9612","COR2","CTG26, N-CoR2, SMAP270, SMRT, SMRTE, SMRTE-tau, TNRC14, TRAC, TRAC-1, TRAC1","nuclear receptor corepressor 2"
+"100814345","LOC100814345","GLYMA_12G007300","MDIS1-interacting receptor like kinase 2"
+"100803381","LOC100803381","GLYMA_01G235600","12-oxophytodienoate reductase 2"
+NA,".",NA,NA
+NA,".",NA,NA
+"100776295","LOC100776295","GLYMA_09G061500","plant intracellular Ras-group-related LRR protein 6"
+"100798759","LOC100798759","GLYMA_16G165900","cellulose synthase A catalytic subunit 2 [UDP-forming]"
+NA,".",NA,NA
+NA,".",NA,NA
+"100806182","LOC100806182","GLYMA_14G215800","probable calcium-binding protein CML18"
+"100500577","LOC100500577","GLYMA_18G269800","uncharacterized LOC100500577"
+"100790585","CRK81","GLYMA_20G139400, GmCRK81","cysteine-rich receptor-like protein kinase"
+NA,".",NA,NA
+"102661516","LOC102661516","GLYMA_03G112800","ethylene-responsive transcription factor 13"
+"100793140","LOC100793140","GLYMA_17G261300","uncharacterized protein At1g76070"
+"100817788","LOC100817788","GLYMA_17G069300","tetraspanin-8"
+"100780890","LOC100780890","GLYMA_16G016700","NAC domain-containing protein 69"
+NA,".",NA,NA
+NA,".",NA,NA
+"100820166","LOC100820166","GLYMA_03G102800","dynamin-related protein 1E"
+"106799753","LOC106799753","GLYMA_08G196600","uncharacterized LOC106799753"
+"100782269","LOC100782269","GLYMA_05G194100","lipase-like PAD4"
+NA,".",NA,NA
+NA,".",NA,NA
+"102663141","LOC102663141","GLYMA_13G267400","WRKY DNA-binding transcription factor 70"
+"100811170","LOC100811170","GLYMA_14G201700","peroxidase 4-like"
+"100782104","LOC100782104","GLYMA_13G095200","probable xyloglucan endotransglucosylase/hydrolase protein 23"
+NA,".",NA,NA
 "100807819","LOC100807819","GLYMA_09G049200","isoflavone 2'-hydroxylase"
 NA,".",NA,NA
+"842733","WRKY53","AT1G64280, ARABIDOPSIS NONEXPRESSER OF PR GENES 1, ATNPR1, F15H21.6, F15H21_6, NIM1, NON-INDUCIBLE IMMUNITY 1, NONEXPRESSER OF PR GENES 1, REGULATORY PROTEIN NPR1, SAI1, SALICYLIC ACID INSENSITIVE 1","regulatory protein (NPR1)"
+"100798696","LOC100798696","GLYMA_20G188800","GABA transporter 1"
 NA,".",NA,NA
-"100810503","LOC100810503","GLYMA_17G180500","L-ascorbate oxidase homolog"
+"100800788","LOC100800788","GLYMA_11G036400","ethylene-responsive transcription factor 5-like protein"
+"7157","H4","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
+"100813603","LOC100813603","GLYMA_04G239400","protein MKS1"
+"100814955","LOC100814955","GLYMA_08G015800","uncharacterized LOC100814955"
 "100794374","LOC100794374","GLYMA_09G238100","amino acid transporter AVT1I"
+NA,".",NA,NA
+NA,".",NA,NA
+"100779455","LOC100779455","GLYMA_08G352300","G-type lectin S-receptor-like serine/threonine-protein kinase At1g11300"
+NA,".",NA,NA
 "100797583","LOC100797583","GLYMA_18G210500","alanine--glyoxylate aminotransferase 2 homolog 3, mitochondrial"
 NA,".",NA,NA
-"100778890","LOC100778890","GLYMA_06G188900","HIPL1 protein"
+"100798217","LOC100798217","GLYMA_07G268400","protein C2-DOMAIN ABA-RELATED 11"
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100813404","LOC100813404","GLYMA_03G158000","beta-carotene isomerase D27, chloroplastic"
+"100797825","LOC100797825","GLYMA_12G053700","uncharacterized LOC100797825"
+"100788852","LOC100788852","GLYMA_06G099700","putative clathrin assembly protein At4g40080"
+NA,".",NA,NA
+NA,".",NA,NA
+"100305351","FAD7-1","GLYMA_18G202600, FAD7","omega-3 fatty acid desaturase"
+"100814688","LOC100814688","GLYMA_12G011700","disease resistance protein RPP13"
+"100814411","LOC100814411","GLYMA_08G118000","uncharacterized LOC100814411"
+"100780074","LOC100780074","GLYMA_03G241500","sugar transporter ERD6-like 5"
+NA,".",NA,NA
+NA,".",NA,NA
+"100776872","LOC100776872","GLYMA_03G236600","zinc finger protein GAI-ASSOCIATED FACTOR 1"
 "100810579","LOC100810579","GLYMA_12G075200","exocyst complex component EXO70H1"
-"100806595","LOC100806595","GLYMA_02G151700","peroxidase 3"
+"100798341","LOC100798341","GLYMA_12G015300","alcohol dehydrogenase-like 2-like"
+NA,".",NA,NA
+"100781710","LOC100781710","GLYMA_04G089700","phosphoenolpyruvate carboxykinase (ATP) 1"
+NA,".",NA,NA
+"100777511","LOC100777511","GLYMA_08G064700","glutamyl-tRNA reductase 2, chloroplastic"
+"100808940","LOC100808940","GLYMA_03G003000","putative receptor protein kinase ZmPK1"
+"100499848","LOC100499848","GLYMA_08G230500","uncharacterized LOC100499848"
+"100806281","LOC100806281","GLYMA_11G164700","cinnamoyl-CoA reductase 1"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100776809","LOC100776809","GLYMA_08G338200","hydroquinone glucosyltransferase"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100775581","LOC100775581","GLYMA_10G115400","cytochrome P450 71D8-like"
+NA,".",NA,NA
+NA,".",NA,NA
 NA,".",NA,NA
 "100809588","LOC100809588","GLYMA_15G072200","putative serine/threonine-protein kinase"
+"100815710","LOC100815710","GLYMA_11G081600","uncharacterized LOC100815710"
+"547930","4CL4","GLYMA_01G232400, 4CL, 4CL 2, Gm4CL4","4-coumarate--CoA ligase 4"
+"100812797","LOC100812797","GLYMA_15G038500","ENTH domain-containing protein"
 NA,".",NA,NA
 NA,".",NA,NA
+"100785554","CHS11","GLYMA_01G091400, GmCHS11","chalcone synthase 11"
 NA,".",NA,NA
+NA,".",NA,NA
+"100799550","LOC100799550","GLYMA_11G055100","mitogen-activated protein kinase kinase kinase 20"
+"100787902","PAL1.3","GLYMA_03G181600, GmPAL1.3","phenylalanine ammonia-lyase 1"
 "100780503","LOC100780503","GLYMA_07G103700","NDR1/HIN1-like protein 10"
 "100805188","LOC100805188","GLYMA_18G172600","protein SULFUR DEFICIENCY-INDUCED 1"
 NA,".",NA,NA
+"100305602","GASA27","GLYMA_17G237100, GmGASA27","gibberellin-regulated protein 27"
 NA,".",NA,NA
 NA,".",NA,NA
-"100812510","LOC100812510","GLYMA_11G001200","leucine-rich repeat protein 2"
+"100781008","LOC100781008","GLYMA_14G201100","probable O-methyltransferase 3"
+NA,".",NA,NA
+NA,".",NA,NA
 "100793208","LOC100793208","GLYMA_04G2543001, GmSHMT04n","serine hydroxymethyltransferase 7"
-"100802991","LOC100802991","GLYMA_07G270300","uncharacterized LOC100802991"
+"100793323","LOC100793323","GLYMA_17G076600","SNAP25 homologous protein SNAP33-like"
+NA,".",NA,NA
+"100818022","LOC100818022","GLYMA_18G004200","MACPF domain-containing protein At4g24290"
 "100811928","LOC100811928","GLYMA_02G026700","paired amphipathic helix protein Sin3-like 4"
 "102669549","LOC102669549","GLYMA_02G298100","heavy metal-associated isoprenylated plant protein 47"
 "100809924","LOC100809924","GLYMA_15G078600","glutaredoxin-C9"
-"100790891","LOC100790891","GLYMA_18G118300","uncharacterized LOC100790891"
-"100795896","LOC100795896","GLYMA_13G204400","transcription factor bHLH130"
-"100306610","LOC100306610","GLYMA_07G139300","uncharacterized LOC100306610"
+"100807969","LOC100807969","GLYMA_15G013900","coatomer subunit beta'-2"
+"100786053","LOC100786053","GLYMA_15G072600v4","CBS domain-containing protein CBSX5-like"
+"100804384","LOC100804384","GLYMA_13G112400","ethylene-responsive transcription factor ERF017"
 NA,".",NA,NA
+"100800623","LOC100800623","GLYMA_20G240600","caffeoylshikimate esterase"
+"100790891","LOC100790891","GLYMA_18G118300","uncharacterized LOC100790891"
+"100787659","LOC100787659","GLYMA_08G178800","probable protein phosphatase 2C 9"
+"100786579","LOC100786579","GLYMA_16G141800","UPF0496 protein At2g18630"
+"100785423","LOC100785423","GLYMA_10G115700","cytochrome P450 71D8-like"
+NA,".",NA,NA
+"819210","BZIP3","AT2G46020, ARABIDOPSIS THALIANA BRAHMA, ATBRM, BRAHMA, CHA2, CHR2, CHROMATIN REMODELING 2, T3F17.33","transcription regulatory protein SNF2"
+NA,".",NA,NA
+"100819703","LOC100819703","GLYMA_06G187200","protein EDS1L"
+"100778537","LOC100778537","GLYMA_13G352700","probable LRR receptor-like serine/threonine-protein kinase At1g05700"
+"100527596","LOC100527596","GLYMA_12G007200","uncharacterized LOC100527596"
+"100789647","LOC100789647","GLYMA_02G274400","NDR1/HIN1-like protein 13"
+"106794113","LOC106794113","GLYMA_07G095000","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 2.4"
+"100500298","LOC100500298","GLYMA_01G202200","BON association protein 2-like protein"
+NA,".",NA,NA
+"732634","INR2","GLYMA_06G109200, BCNR-A, INR1, NR, nr2","inducible nitrate reductase 2"
+"100797149","LOC100797149","GLYMA_15G238500","annexin D3"
+"100306610","LOC100306610","GLYMA_07G139300","uncharacterized LOC100306610"
+"100810170","LOC100810170","GLYMA_17G055100","beta-galactosidase"
+"100811246","LOC100811246","GLYMA_17G044300","alpha-aminoadipic semialdehyde synthase"
+NA,".",NA,NA
+NA,".",NA,NA
+"100777147","LOC100777147","GLYMA_08G273100","phosphoenolpyruvate carboxykinase (ATP) 1"
+NA,".",NA,NA
+"100816279","LOC100816279","GLYMA_20G132300","somatic embryogenesis receptor kinase 1-like"
+NA,".",NA,NA
+"6774","STP","ADMIO, ADMIO1, APRF, HIES","signal transducer and activator of transcription 3"
+"100816060","LOC100816060","GLYMA_02G297200","probable serine/threonine-protein kinase WNK11"
 "100800042","LOC100800042","GLYMA_10G119300","cucumisin"
 "102667104","LOC102667104","GLYMA_08G018300","probable WRKY transcription factor 29"
 NA,".",NA,NA
+"100814960","FWL7","GLYMA_01G084000, GmFWL7","protein FW2.2-like 7"
+"112999537","LOC112999537","GLYMA_15G256200","cysteine-rich and transmembrane domain-containing protein WIH1"
+NA,".",NA,NA
+"102659402","LOC102659402","GLYMA_04G142400","uncharacterized LOC102659402"
+"100787917","LOC100787917","GLYMA_19G018600","AAA-ATPase At3g28580"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100785400","LOC100785400","GLYMA_18G081100","scarecrow-like protein 21"
+"100791862","LOC100791862","GLYMA_13G088400","TPR repeat-containing thioredoxin TTL1"
+NA,".",NA,NA
+"100810687","LOC100810687","GLYMA_09G185900","aspartyl protease APCB1"
+"100793938","LOC100793938","GLYMA_20G004900","probable xyloglucan galactosyltransferase GT17"
+"104797301","MIR9767","gma-MIR9767","microRNA MIR9767"
+"100777171","LOC100777171","GLYMA_17G217100","two-component response regulator ARR12"
 "100527088","LOC100527088","GLYMA_03G040900","putative LURP-one-related protein"
-"100786017","LOC100786017","GLYMA_13G263800","protein SRG1"
+"100306298","FWL5","GLYMA_05G236300, GmFWL5","protein FW2.2-like 5"
+"100780267","MYB145","GLYMA_12G066000","MYB transcription factor MYB145"
+"100785561","LOC100785561","GLYMA_09G216400","probable LRR receptor-like serine/threonine-protein kinase At3g47570"
+"100785674","LOC100785674","GLYMA_13G035700","putative wall-associated receptor kinase-like 16"
+NA,".",NA,NA
+NA,".",NA,NA
+"100786460","LOC100786460","GLYMA_10G294900","uncharacterized LOC100786460"
 "100799835","LOC100799835","GLYMA_17G244200","patatin-like protein 2"
+"100777929","LOC100777929","GLYMA_10G291900","ankyrin repeat-containing protein ITN1"
+"102662623","LOC102662623","GLYMA_10G128866v4","receptor-like protein EIX2"
+"100526935","LOC100526935","GLYMA_15G105500","uncharacterized LOC100526935"
+"100790637","LOC100790637","GLYMA_14G017000","pirin-like protein"
+NA,".",NA,NA
+"100799139","LOC100799139","GLYMA_17G039000","S-adenosylmethionine synthase"
+NA,".",NA,NA
 NA,".",NA,NA
 "100787211","LOC100787211","GLYMA_11G029700v4","uncharacterized LOC100787211"
 "100784278","LOC100784278","GLYMA_07G103900","NDR1/HIN1-like protein 10"
-"100789148","LOC100789148","GLYMA_03G084200","membrane protein of ER body 2"
 NA,".",NA,NA
 "100785028","LOC100785028","GLYMA_09G087400","probable inositol transporter 2"
 "7316","ACS1","HMG20","ubiquitin C"
+"100305426","LOC100305426","GLYMA_17G219200","Avr9/Cf-9 induced kinase"
+NA,".",NA,NA
 "100781212","LOC100781212","GLYMA_13G363000","acyl-protein thioesterase 2"
-"100793934","LOC100793934","GLYMA_12G023300","L-ascorbate oxidase homolog"
 NA,".",NA,NA
+"100818628","LOC100818628","GLYMA_06G317700","U-box domain-containing protein 35"
+"100788333","LOC100788333","GLYMA_13G335900","protein TRM32"
+"100789919","LOC100789919","GLYMA_14G058500v4","protein ESKIMO 1-like"
 "8877","SPK-1","SPHK","sphingosine kinase 1"
+"100803290","LOC100803290","GLYMA_04G203100","uncharacterized LOC100803290"
+"100803804","LOC100803804","GLYMA_11G120200","probable NAD(P)H dehydrogenase (quinone) FQR1-like 2"
+"100781129","LOC100781129","GLYMA_10G214700","probable alkaline/neutral invertase D"
 NA,".",NA,NA
+"100305884","LOC100305884","GLYMA_11G096700","putative expansin-like A2"
+"100786554","MPK4B","GLYMA_07G066800","mitogen-activated protein kinase MPk4b"
+"112998296","LOC112998296","","U2 spliceosomal RNA"
+NA,".",NA,NA
+"100805941","LOC100805941","GLYMA_11G120900, HDR","4-hydroxy-3-methylbut-2-enyl diphosphate reductase, chloroplastic"
 "4344063","HSF-19","OSNPB_070640900, HSF12, HSF19, HSFB4B, OJ1340_C08.141-1, OJ1340_C08.141-2, OsHSF12, OsHsf-19, rHsf12","heat stress transcription factor B-4b-like"
+"100781948","LOC100781948","GLYMA_07G215900","uncharacterized protein At4g06744"
+NA,".",NA,NA
+"100791532","LOC100791532","GLYMA_08G050300","alpha-1,3-arabinosyltransferase XAT2"
+"100816269","LOC100816269","GLYMA_20G133000","LOB domain-containing protein 38"
+"100786925","PHR25","GLYMA_15G123100, GmPHR25","MYB-CC domain-containing transcription factor PHR25"
+"100037479","OLPa","GLYMA_11G025600, GmOLPa","osmotin-like protein, acidic"
+NA,".",NA,NA
 "100782693","LOC100782693","GLYMA_16G063500","F-box/kelch-repeat protein At3g23880"
-NA,".",NA,NA
 "100500122","LOC100500122","GLYMA_02G282400","reticulon-like protein B8"
-"100784982","LOC100784982","GLYMA_14G130000","molybdate transporter 1"
 NA,".",NA,NA
-"100776582","LOC100776582","GLYMA_13G346700","endochitinase PR4"
+"100778270","LOC100778270","GLYMA_18G300800","leucine-rich repeat extensin-like protein 6"
+NA,".",NA,NA
+"100500371","LOC100500371","GLYMA_02G094500","C2H2-type zinc finger family protein"
+"817844","PHT1-5","AT2G32830, F24L7.2, PHOSPHATE TRANSPORTER 5, PHT5, phosphate transporter 1;5","phosphate transporter 1;5"
+NA,".",NA,NA
+"100780465","LOC100780465","GLYMA_09G211600","isoflavone reductase homolog"
+"100797420","LOC100797420","GLYMA_03G263000","RING-H2 finger protein ATL3"
+"100797825","LOC100797825","GLYMA_12G053700","uncharacterized LOC100797825"
+"100791349","LOC100791349","GLYMA_07G235900","uncharacterized LOC100791349"
+NA,".",NA,NA
+"100798233","LOC100798233","GLYMA_08G235900","probable LRR receptor-like serine/threonine-protein kinase At1g56130"
+"548066","SOYSTGA","GLYMA_11G236300, BZIP52, GmTGA15, bZIP76","bZIP transcription factor"
+"100816503","LOC100816503","GLYMA_06G314200","probable pectinesterase/pectinesterase inhibitor 47"
+"100500254","LOC100500254","GLYMA_02G023900","TIR-NBS disease resistance-like protein"
+NA,".",NA,NA
+"100798264","LOC100798264","GLYMA_17G251800","uncharacterized LOC100798264"
+"547898","LOC547898","GLYMA_12G217400","Sali3-2"
+"100798402","LOC100798402","GLYMA_15G066100","protein PLANT CADMIUM RESISTANCE 10"
+NA,".",NA,NA
+"100500396","LOC100500396","GLYMA_15G274200","uncharacterized LOC100500396"
+NA,".",NA,NA
+"100787401","LOC100787401","GLYMA_11G134800","uncharacterized LOC100787401"
+"100796191","LOC100796191","GLYMA_11G153000","disease resistance protein RUN1"
+"100819010","LOC100819010","GLYMA_08G070100","RING-H2 finger protein ATL54"
+"100805826","LOC100805826","","uncharacterized LOC100805826"
+NA,".",NA,NA
+"100527377","LOC100527377","GLYMA_12G004500","plant invertase/pectin methylesterase inhibitor domain-containing protein"
+"100805391","LOC100805391","GLYMA_03G092800","non-specific phospholipase C4"
 "826796","CRK39","AT4G11890, ABA- AND  OSMOTIC-STRESS-INDUCIBLE RECEPTOR-LIKE CYTOSOLIC KINASE1, CRK45, T26M18.100, T26M18_100, cysteine-rich receptor-like protein kinase 45","Protein kinase superfamily protein"
 "100785143","LOC100785143","GLYMA_14G218100","cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG1-like"
+"100775900","LOC100775900","GLYMA_15G041100","transcription factor MYB48-like"
+"100776030","LOC100776030","GLYMA_13G048800, GBP","probable endo-1,3(4)-beta-glucanase ARB_01444"
+"100527107","LOC100527107","GLYMA_18G286900","uncharacterized LOC100527107"
+NA,".",NA,NA
+"841262","AGO5","AT1G48410, ARGONAUTE 1, AtAGO1, ICU9, T1N15.2, T1N15_2","Stabilizer of iron transporter SufD / Polynucleotidyl transferase"
+"816660","BZIP30","AT2G21230, F7O24.5, F7O24_5, bZIP30, basic leucine-zipper 30","Basic-leucine zipper (bZIP) transcription factor family protein"
+NA,".",NA,NA
+"100781974","LOC100781974","GLYMA_16G017200","soluble inorganic pyrophosphatase 1"
+"100819535","LOC100819535","GLYMA_14G157600","putative wall-associated receptor kinase-like 16"
+"100811540","ALDH2C5","GLYMA_08G039200, GmALDH2C5","aldehyde dehydrogenase family 2 member C5"
 NA,".",NA,NA
 "100807943","LOC100807943","GLYMA_06G294100","protein ACCELERATED CELL DEATH 6"
 "817097","matR","AT2G25580, F3N11.3, F3N11_3, mitochondrial editing factor 8","Tetratricopeptide repeat (TPR)-like superfamily protein"
+"100794634","LOC100794634","GLYMA_12G044400","uncharacterized LOC100794634"
+NA,".",NA,NA
+NA,".",NA,NA
+"100804484","LOC100804484","GLYMA_03G131000","calmodulin binding protein PICBP"
 "100803092","LOC100803092","GLYMA_19G020700","aldose 1-epimerase-like"
+"2158","HEMB","F9 p22, FIX, HEMB, P19, PTC, THPH8","coagulation factor IX"
+"830996","WRKY36","AT5G11260, BZIP TRANSCRIPTION FACTOR HY5, ELONGATED HYPOCOTYL 5, F2I11.150, F2I11_150, REVERSAL OF THE DET PHENOTYPE 5, TED 5","Basic-leucine zipper (bZIP) transcription factor family protein"
+"100775396","LOC100775396","GLYMA_17G060200","uncharacterized LOC100775396"
 "102666115","LOC102666115","GLYMA_20G064500","VQ motif-containing protein 22"
 NA,".",NA,NA
+"100799682","LOC100799682","GLYMA_10G152200v4","respiratory burst oxidase homolog protein B-like"
+"819331","GOLS","AT2G47180, AtGolS1, T8I13.2, galactinol synthase 1","galactinol synthase 1"
+"100305716","LOC100305716","GLYMA_08G082100","uncharacterized LOC100305716"
+"100306447","LOC100306447","GLYMA_02G108000","putative ribonuclease T2"
 NA,".",NA,NA
-"100819225","LOC100819225","GLYMA_09G134900","silicon efflux transporter LSI3"
+"100790276","LOC100790276","GLYMA_13G202500","cellulose synthase A catalytic subunit 3 [UDP-forming]"
+"100808199","LOC100808199","GLYMA_10G170900","tyrosine-protein phosphatase DSP3"
+"100817283","LOC100817283","GLYMA_10G241200","PTI1-like tyrosine-protein kinase At3g15890"
+"100779644","LOC100779644","GLYMA_08G021800","uncharacterized LOC100779644"
+NA,".",NA,NA
+"100527025","LOC100527025","GLYMA_19G117900","uncharacterized LOC100527025"
+"100778440","LOC100778440","GLYMA_02G023500","dnaJ homolog subfamily B member 13"
 NA,".",NA,NA
 NA,".",NA,NA
-"100811587","LOC100811587","GLYMA_02G086100","RNA-dependent RNA polymerase 1"
+"839602","GSTU13","AT1G27130, ATGSTU13, GLUTATHIONE S-TRANSFERASE 12, GST12, T7N9.190, T7N9_190, glutathione S-transferase tau 13","glutathione S-transferase tau 13"
+"100786006","LOC100786006","GLYMA_13G176600","MACPF domain-containing protein NSL1"
+"100792020","LOC100792020","GLYMA_13G338400","E3 ubiquitin-protein ligase RDUF1"
+"100792672","LOC100792672","GLYMA_11G184800","subtilisin-like serine-protease S"
+"100788762","LOC100788762","GLYMA_09G110500","probable L-type lectin-domain containing receptor kinase S.5"
+"100813427","LOC100813427","GLYMA_11G150034v4","uncharacterized LOC100813427"
+"547787","SCAM-4","GLYMA_10G178400, cam-4","calmodulin"
+"100794945","LOC100794945","GLYMA_19G055100","cystinosin homolog"
+"100786869","CRK72","GLYMA_20G138400, GmCRK72","cysteine-rich receptor-like protein kinase"
+"100526861","LOC100526861","GLYMA_06G037000","uncharacterized LOC100526861"
+"100796843","LOC100796843","GLYMA_17G093900","two-component response regulator ARR5"
+NA,".",NA,NA
+"100820062","LOC100820062","GLYMA_07G106600","annexin D5-like"
+"100802664","LOC100802664","","extensin-2-like"
+NA,".",NA,NA
+"100800843","LOC100800843","GLYMA_13G340500","ADP,ATP carrier protein 1, mitochondrial"
+"100809309","LOC100809309","GLYMA_19G262900","GDSL esterase/lipase 5"
+"100784166","LOC100784166","GLYMA_02G029200","protein JINGUBANG"
+NA,".",NA,NA
+"100527430","LOC100527430","GLYMA_01G115500","uncharacterized LOC100527430"
+"113000476","LOC113000476","GLYMA_19G162200","uncharacterized LOC113000476"
 NA,".",NA,NA
 "100793189","CRK41","GLYMA_11G207500, GmCRK41","cysteine-rich receptor-like protein kinase"
+"100786251","LOC100786251","GLYMA_09G065000","IQ domain-containing protein IQM1"
+NA,".",NA,NA
+"100786574","LOC100786574","GLYMA_08G092800","protein SRG1-like"
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
 "100782929","LOC100782929","GLYMA_10G232800","mitogen-activated protein kinase kinase kinase YODA"
-"100785391","LOC100785391","GLYMA_02G204700","serine carboxypeptidase 24"
+"100796195","LOC100796195","GLYMA_04G200400","chaperone protein ClpC, chloroplastic"
+NA,".",NA,NA
+"100813653","LOC100813653","GLYMA_06G139300","protein RESPONSE TO LOW SULFUR 3"
+"100500124","LOC100500124","GLYMA_05G057500","extensin-like protein"
+NA,".",NA,NA
+"100305938","LOC100305938","GLYMA_11G129100","uncharacterized LOC100305938"
+NA,".",NA,NA
+"100817862","LOC100817862","GLYMA_04G242400","uncharacterized LOC100817862"
 NA,".",NA,NA
 NA,".",NA,NA
+"100778785","LOC100778785","GLYMA_17G028000","lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial"
+NA,".",NA,NA
+NA,".",NA,NA
+"100795127","LOC100795127","GLYMA_11G026300","protein DETOXIFICATION 49"
+"102662356","LOC102662356","GLYMA_10G052800","uncharacterized LOC102662356"
+"100811984","LOC100811984","GLYMA_04G250900","uncharacterized LOC100811984"
 "100817623","LOC100817623","GLYMA_09G172100","U-box domain-containing protein 21"
-"100790279","LOC100790279","GLYMA_06G145300","peroxidase 52-like"
-"100809509","LOC100809509","GLYMA_19G081200","MDIS1-interacting receptor like kinase 2"
+"100803624","LOC100803624","GLYMA_11G215800","transcription factor MYB20"
+"100819411","LOC100819411","GLYMA_17G039200","pleiotropic drug resistance protein 3"
+"100798027","LOC100798027","GLYMA_06G119300","putative wall-associated receptor kinase-like 16"
+"100797123","LOC100797123","GLYMA_06G178000","uncharacterized LOC100797123"
 NA,".",NA,NA
+"100790279","LOC100790279","GLYMA_06G145300","peroxidase 52-like"
+"100815829","LOC100815829","GLYMA_16G031900","WRKY transcription factor 22"
+"100809509","LOC100809509","GLYMA_19G081200","MDIS1-interacting receptor like kinase 2"
+"547692","LOC547692","GLYMA_09G118800","uncharacterized LOC547692"
+"100803550","LOC100803550","GLYMA_01G232000","ethylene-responsive transcription factor ERF020"
+NA,".",NA,NA
+"102663800","LOC102663800","GLYMA_08G062800","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380"
+"823706","WRKY47","AT3G45640, ATMAPK3, ATMPK3, T6D9.4, mitogen-activated protein kinase 3","mitogen-activated protein kinase 3"
+NA,".",NA,NA
+"100795308","LOC100795308","GLYMA_19G162100","cytochrome P450 94A1"
+"100814381","LOC100814381","GLYMA_06G104600","TPR repeat-containing thioredoxin TTL1"
+NA,".",NA,NA
+"100811127","LOC100811127","GLYMA_20G148900","homocysteine S-methyltransferase 3-like"
+"839893","WRKY57","AT1G30135, TIFY5A, jasmonate-zim-domain protein 8","jasmonate-zim-domain protein 8"
+NA,".",NA,NA
+"100500374","LOC100500374","GLYMA_10G181000","uncharacterized LOC100500374"
+"100797606","LOC100797606","GLYMA_19G009100","formate dehydrogenase, mitochondrial-like"
+NA,".",NA,NA
+NA,".",NA,NA
+"100807677","LOC100807677","GLYMA_18G017500","uncharacterized LOC100807677"
+"100813423","LOC100813423","GLYMA_04G050400","ferrochelatase-2, chloroplastic"
+"100799969","LOC100799969","GLYMA_07G052900","U-box domain-containing protein 44"
 "100780567","LOC100780567","GLYMA_09G099900","probable LRR receptor-like serine/threonine-protein kinase At1g56130"
 NA,".",NA,NA
 NA,".",NA,NA
+"100805839","LOC100805839","GLYMA_15G143700","beta-D-xylosidase 1"
+"4780","NRP-B","HEBP1, IMDDHH, NRF2, Nrf-2","NFE2 like bZIP transcription factor 2"
 NA,".",NA,NA
+"100795024","LOC100795024","GLYMA_07G267200","uncharacterized LOC100795024"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100797163","LOC100797163","GLYMA_01G125400","disease resistance protein RPV1"
+"100796434","LOC100796434","GLYMA_14G119100","scarecrow-like protein 1"
 "106794901","LOC106794901","GLYMA_10G115200","cytochrome P450 71D8-like"
 NA,".",NA,NA
 NA,".",NA,NA
-"100782572","LOC100782572","GLYMA_03G187900","probable 2-oxoglutarate-dependent dioxygenase SLC1"
+"100800076","LOC100800076","GLYMA_11G151000","subtilisin inhibitor CLSI-I"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100800017","LOC100800017","GLYMA_17G064900","probable xyloglucan endotransglucosylase/hydrolase protein 23-like"
+"100786079","LOC100786079","GLYMA_01G203400","beta-amylase 3, chloroplastic"
+"100775519","LOC100775519","GLYMA_07G212800","ferredoxin--nitrite reductase, chloroplastic"
+"100499640","LOC100499640","GLYMA_13G054400","FERONIA receptor-like kinase"
+"121174328","LOC121174328","","uncharacterized LOC121174328"
+"106796583","LOC106796583","GLYMA_16G041100","uncharacterized LOC106796583"
+NA,".",NA,NA
+"100775781","LOC100775781","GLYMA_18G182000","oxysterol-binding protein-related protein 3B-like"
+"100790958","LOC100790958","GLYMA_13G251400","sulfite exporter TauE/SafE family protein 5"
+NA,".",NA,NA
+"7421","SRC2","NR1I1, PPP1R163","vitamin D receptor"
+"100784383","LOC100784383","GLYMA_04G228300","two-component response regulator-like APRR9"
+NA,".",NA,NA
+"100775462","LOC100775462","GLYMA_12G205000","probable serine/threonine-protein kinase At1g54610"
+"100797636","LOC100797636","GLYMA_12G181800","arogenate dehydratase 3"
+"100807994","LOC100807994","GLYMA_16G210600","TMV resistance protein N"
+"100809053","LOC100809053","GLYMA_16G132500","epoxide hydrolase 2-like"
+"887309","ACCA-1","Rv2501c, bccA","acetyl/propionyl-CoA carboxylase subuit alpha"
+"100794250","LOC100794250","GLYMA_03G231200","nicotianamine synthase-like protein"
+"100795679","LOC100795679","GLYMA_04G040400","uncharacterized acetyltransferase At3g50280"
+"818982","WRKY34","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6"
+"100792263","LOC100792263","GLYMA_08G119200","disease resistance protein RFL1"
+NA,".",NA,NA
+"100306716","LOC100306716","GLYMA_12G119200","thioredoxin-like superfamily protein"
+"12567","CRK3","Crk3","cyclin-dependent kinase 4"
+NA,".",NA,NA
+"100817933","LOC100817933","GLYMA_15G266300","myosin-18"
+"100790111","LOC100790111","GLYMA_14G175400","7-deoxyloganetin glucosyltransferase"
+"100775448","LOC100775448","GLYMA_11G243900","protein-tyrosine-phosphatase MKP1"
+"100799994","LOC100799994","GLYMA_08G218100","cinnamoyl-CoA reductase 1"
 NA,".",NA,NA
 NA,".",NA,NA
 "100819209","LOC100819209","GLYMA_08G062700","probably inactive leucine-rich repeat receptor-like protein kinase At5g48380"
+"100306097","LOC100306097","GLYMA_17G023000","CASP-like protein 8"
 "100789081","LOC100789081","GLYMA_08G003700","uncharacterized acetyltransferase At3g50280"
-"100301906","NAC11","GLYMA_19G108800, GmNAC181","transcriptional factor NAC11"
+"778059","CHS8","GLYMA_05G032200, GmMYB176","transcription factor MYB176"
+"100803809","LOC100803809","GLYMA_11G017700","uncharacterized LOC100803809"
 "100776419","LOC100776419","GLYMA_06G107800, GmSHMT06n","serine hydroxymethyltransferase 7"
+"100791627","LOC100791627","GLYMA_11G069300","U-box domain-containing protein 5"
+"100781706","LOC100781706","GLYMA_19G236800","E3 ubiquitin-protein ligase ATL6"
 "100779437","LOC100779437","GLYMA_07G102400","protein C2-DOMAIN ABA-RELATED 4"
+"100803886","LOC100803886","GLYMA_15G093100","protein TIFY 5A"
+"100306152","LOC100306152","GLYMA_04G177900","response regulator ARR6-like"
 NA,".",NA,NA
+"100799458","LOC100799458","GLYMA_08G058900","F-box protein At1g61340"
+"100777122","LOC100777122","GLYMA_14G081300","patatin-like protein 2"
+"100789908","LOC100789908","GLYMA_13G250900","putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase 3"
+"548066","SOYSTGA","GLYMA_11G236300, BZIP52, GmTGA15, bZIP76","bZIP transcription factor"
+NA,".",NA,NA
+"100797212","LOC100797212","GLYMA_18G192800","phosphatidylinositol:ceramide inositolphosphotransferase 1"
+NA,".",NA,NA
+"100781997","LOC100781997","GLYMA_17G104800","homeobox protein knotted-1-like LET12"
 "100798520","LOC100798520","GLYMA_12G030700","chaperone protein dnaJ 11-like protein"
+"100804965","LOC100804965","GLYMA_16G020500","transcription factor MYC2"
+"100500675","LOC100500675","GLYMA_02G045100","aspartyl protease family protein"
+"547648","LOC547648","GLYMA_20G144800","uncharacterized LOC547648"
+"100778395","LOC100778395","GLYMA_16G057600","chloride channel protein CLC-b"
+"100808326","LOC100808326","GLYMA_08G286700","carbonic anhydrase 2"
+"100807710","LOC100807710","GLYMA_11G195200","high affinity nitrate transporter 2.4"
+NA,".",NA,NA
+"100811147","LOC100811147","GLYMA_13G132500","WAT1-related protein At2g37460"
+"100794193","LOC100794193","GLYMA_09G198700","probable serine/threonine-protein kinase PIX13"
+"100782558","LOC100782558","GLYMA_10G249100","linoleate 9S-lipoxygenase 5"
+NA,".",NA,NA
+"100798901","LOC100798901","GLYMA_13G032000","probable receptor-like protein kinase At1g11050"
+"100800410","LOC100800410","GLYMA_18G278800","S-adenosylmethionine decarboxylase proenzyme"
 NA,".",NA,NA
 NA,".",NA,NA
 "100792313","LOC100792313","GLYMA_03G085500","GTP cyclohydrolase 1"
+"100527766","PHR31","GLYMA_19G146600, GmPHR31","MYB-CC domain-containing transcription factor PHR31"
+NA,".",NA,NA
 "100801760","LOC100801760","GLYMA_07G036700","protein BIG GRAIN 1-like B"
+NA,".",NA,NA
+"547882","SALI5-4A","GLYMA_12G217300","sali5-4a protein"
+"100779620","LOC100779620","GLYMA_15G057300","uncharacterized LOC100779620"
+"100784541","LOC100784541","GLYMA_18G025100","probable inactive receptor-like protein kinase At3g56050"
+"100794745","LOC100794745","GLYMA_13G030200","MLP-like protein 43"
+NA,".",NA,NA
+"100500350","LOC100500350","GLYMA_17G105300","uncharacterized LOC100500350"
 "100808550","LOC100808550","GLYMA_17G011700","probable F-box protein At4g22030"
+NA,".",NA,NA
+"54106","SODB","CD289","toll like receptor 9"
 "100779180","LOC100779180","GLYMA_11G069600","laccase-11"
+NA,".",NA,NA
+NA,".",NA,NA
 "100786002","LOC100786002","GLYMA_05G156500","uncharacterized LOC100786002"
+"112999535","LOC112999535","GLYMA_15G228200","uncharacterized LOC112999535"
+NA,".",NA,NA
+"100301876","LOC100301876","GLYMA_03G183900, MYB157","transcription factor RAX2"
+"100798226","LOC100798226","GLYMA_08G022000","uncharacterized LOC100798226"
+"100782748","LOC100782748","GLYMA_18G240600","N-terminal kinase-like protein"
+"100820346","LOC100820346","GLYMA_19G133000","calmodulin binding protein PICBP"
+NA,".",NA,NA
+"100787382","LOC100787382","GLYMA_11G252100","uncharacterized LOC100787382"
 NA,".",NA,NA
 "100804712","LOC100804712","GLYMA_12G100400","vascular-related unknown protein 1"
+"100527258","LOC100527258","GLYMA_03G001800","uncharacterized LOC100527258"
+"100790333","LOC100790333","GLYMA_01G017100","cinnamoyl-CoA reductase-like SNL6"
+NA,".",NA,NA
+NA,".",NA,NA
+"100815158","LOC100815158","GLYMA_10G009600","peroxidase 5"
+"100799367","LOC100799367","GLYMA_19G127800","probable mediator of RNA polymerase II transcription subunit 26b"
+"100814298","LOC100814298","GLYMA_18G017700","uncharacterized LOC100814298"
+"100813772","LOC100813772","GLYMA_03G160400","uncharacterized LOC100813772"
+NA,".",NA,NA
+"111138524","LOC111138524","GLYMA_07G104300","uncharacterized LOC111138524"
+"100778692","LOC100778692","GLYMA_05G041600","protein JOKA2"
+"100813563","LOC100813563","GLYMA_10G009400","peroxidase 5"
+"100787949","LOC100787949","GLYMA_20G236200","respiratory burst oxidase homolog protein B"
+"100785988","LOC100785988","GLYMA_04G046800","uncharacterized LOC100785988"
+"100809435","LOC100809435","GLYMA_17G180100","probable disease resistance protein At5g66900"
 "100813697","LOC100799113","","uncharacterized LOC100813697"
 "100500517","LOC100500517","GLYMA_02G092500","CASP-like protein 12"
 NA,".",NA,NA
+"100802333","LOC100802333","GLYMA_17G124900","high-affinity nitrate transporter 3.1"
+NA,".",NA,NA
 "100819379","LOC100819379","GLYMA_16G012500","GDSL esterase/lipase 5"
 NA,".",NA,NA
+"7157","NSP1","BCC7, BMFS5, LFS1, P53, TRP53","tumor protein p53"
+"100790034","LOC100790034","GLYMA_19G159900","calcium-transporting ATPase 12, plasma membrane-type"
+"111064645","LOC111064645","","peroxidase family protein"
 "100790964","LOC100790964","GLYMA_13G033900","rust resistance kinase Lr10"
+"100798371","LOC100798371","GLYMA_06G121000","uncharacterized LOC100798371"
+"106795446","LOC106795446","GLYMA_13G035800","putative wall-associated receptor kinase-like 16"
+"100786734","LOC100786734","GLYMA_15G154700","plasma membrane-associated cation-binding protein 1"
+"100808083","LOC100808083","GLYMA_04G205100","myb-related protein 308-like"
+"100808375","LOC100808375","GLYMA_02G250800","mannose-1-phosphate guanylyltransferase 1-like"
+"100786942","LOC100786942","GLYMA_08G211800","uncharacterized LOC100786942"
+NA,".",NA,NA
+NA,".",NA,NA
+"100798348","LOC100798348","GLYMA_05G177700","protein SENSITIVE TO PROTON RHIZOTOXICITY 2"
+"100819308","LOC100819308","GLYMA_04G042500","putative receptor protein kinase ZmPK1"
+NA,".",NA,NA
+NA,".",NA,NA
+"100784999","LOC100784999","GLYMA_15G165100","subtilisin-like protease SBT2.6"
 "100805858","LOC100805858","GLYMA_16G130900","probable serine protease EDA2-like"
 NA,".",NA,NA
+"100779130","LOC100779130","GLYMA_01G182400","wall-associated receptor kinase-like 14"
+NA,".",NA,NA
+"100792164","LOC100792164","GLYMA_20G163200","probable WRKY transcription factor 27"
 NA,".",NA,NA
 NA,".",NA,NA
-"100799162","LOC100799162","GLYMA_18G211000","cationic peroxidase 1"
+"100305395","LOC100305395","GLYMA_18G273100","serine-threonine kinase"
+NA,".",NA,NA
+"100819952","LOC100788264","","cytochrome P450 71D8-like"
+NA,".",NA,NA
+"106794124","LOC106794124","GLYMA_01G183300","probable disease resistance protein At5g66900"
+"102666741","LOC102666741","GLYMA_15G274300","MLP-like protein 43"
+NA,".",NA,NA
 "100778278","LOC100778278","GLYMA_18G301600","uncharacterized protein At2g33490"
 "100804630","LOC100804630","GLYMA_17G141000","uncharacterized LOC100804630"
+"100786020","LOC100786020","GLYMA_13G316200","glucan endo-1,3-beta-glucosidase 14-like"
+"100796915","LOC100796915","GLYMA_20G070500","putative sucrose-phosphatase"
+"100787872","PAL3.1","GLYMA_02G309300, GmPAL3.1","phenylalanine ammonia-lyase 3.1"
+"100305934","LOC100305934","GLYMA_06G053300","uncharacterized LOC100305934"
+"100500336","LOC100500336","GLYMA_13G042400","uncharacterized LOC100500336"
+NA,".",NA,NA
+"100802807","LOC100802807","GLYMA_06G196700","uncharacterized LOC100802807"
+"100527449","LOC100527449","GLYMA_03G200400","HVA22-like protein j"
+"100818195","LOC100818195","GLYMA_10G245100v4","leucine-rich repeat extensin-like protein 6"
 NA,".",NA,NA
 "100795950","LOC100795950","GLYMA_09G266000","subtilisin-like protease SBT4.14"
-"100787718","LOC100787718","GLYMA_18G026900","putative serine/threonine-protein kinase-like protein CCR3"
+"100527098","LOC100527098","GLYMA_15G143800","uncharacterized LOC100527098"
+NA,".",NA,NA
+NA,".",NA,NA
+"100305657","LOC100305657","GLYMA_05G216000","uncharacterized LOC100305657"
+"100779783","LOC100779783","GLYMA_07G035800","uncharacterized LOC100779783"
+"100527761","LOC100527761","GLYMA_04G204100","putative protein phosphatase inhibitor"
+"106795667","LOC106795667","GLYMA_13G062100","uncharacterized LOC106795667"
+"100777057","LOC100777057","GLYMA_11G157100","putative calcium-binding protein CML19"
+"100790745","LOC100790745","GLYMA_19G140800","calcium-dependent protein kinase 32"
+"100816643","LOC100816643","GLYMA_12G063200","epsin-3"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100787551","LOC100787551","GLYMA_03G228900","ATP-citrate synthase alpha chain protein 2"
+"100801557","LOC100801557","GLYMA_06G047600","uncharacterized LOC100801557"
+"2908","PRP2","GCCR, GCR, GCRST, GR, GRL","nuclear receptor subfamily 3 group C member 1"
+"100500405","LOC100500405","GLYMA_11G243300","uncharacterized LOC100500405"
+NA,".",NA,NA
+"100781528","LOC100781528","GLYMA_12G080100","xyloglucan endotransglucosylase/hydrolase protein 31"
+"100793156","LOC100793156","GLYMA_17G092700","calmodulin-binding protein 60 A"
+"100797161","LOC100797161","GLYMA_16G207700","4,5-DOPA dioxygenase extradiol"
 "100798963","LOC100798963","GLYMA_01G007500","receptor-like protein kinase HSL1"
+"100805926","LOC100805926","GLYMA_03G153800","cyclin-P3-1"
+NA,".",NA,NA
+"100815778","LOC100815778","GLYMA_06G168700","F-box/LRR-repeat protein At5g63520"
+NA,".",NA,NA
+"100791429","LOC100791429","GLYMA_10G283200","V-type proton ATPase subunit B 2"
+"100785312","LOC100785312","GLYMA_06G042300v4","uncharacterized LOC100785312"
+"100527773","LOC100527773","GLYMA_17G005000","uncharacterized LOC100527773"
+NA,".",NA,NA
+"100820331","LOC100820331","GLYMA_10G025000","stress response protein NST1"
+"100778503","LOC100778503","GLYMA_12G229000","AAA-ATPase At3g50940"
 NA,".",NA,NA
 NA,".",NA,NA
+"100801978","LOC100801978","GLYMA_17G245000","uncharacterized LOC100801978"
+"100792940","LOC100792940","GLYMA_15G017000","protein NRT1/ PTR FAMILY 1.2"
+NA,".",NA,NA
+"100788236","LOC100788236","GLYMA_02G224000","calmodulin-binding receptor-like cytoplasmic kinase 1"
+NA,".",NA,NA
+"5788","CHR1","B220, CD45, CD45R, GP180, IMD105, L-CA, LCA, LY5, T200","protein tyrosine phosphatase receptor type C"
+NA,".",NA,NA
+"100784109","LOC100784109","GLYMA_08G126000","integrin-linked protein kinase 1"
+"100803435","LOC100803435","GLYMA_11G229900v4","phosphoinositide phospholipase C 6-like"
+NA,".",NA,NA
+"100781056","LOC100781056","GLYMA_15G121000","U-box domain-containing protein 54"
+"100776117","LOC100776117","GLYMA_17G245500","probable disease resistance protein At4g33300"
 "102659758","LOC102659758","GLYMA_06G046800","uncharacterized LOC102659758"
-"100808584","LOC100808584","GLYMA_18G266900","probable endo-1,3(4)-beta-glucanase ARB_01444"
+"100194416","LOC100194416","GLYMA_18G220500","vestitone reductase"
+NA,".",NA,NA
+"100803173","LOC100803173","GLYMA_15G077100","ethylene-responsive transcription factor 4"
 "100799729","LOC100799729","GLYMA_04G186300","short-chain dehydrogenase TIC 32, chloroplastic"
-"100779570","LOC100779570","GLYMA_12G154400","cytochrome c oxidase copper chaperone 1"
+"100817950","LOC100817950","GLYMA_16G135500","TMV resistance protein N"
+"100795651","LOC100795651","GLYMA_19G103200","alpha-mannosidase At3g26720"
+"100803062","LOC100803062","GLYMA_18G153800","uncharacterized protein At5g65660"
 "100777818","LOC100777818","GLYMA_06G128700","calcineurin B-like protein 4"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100811752","LOC100811752","GLYMA_01G040400","uncharacterized LOC100811752"
+"100784402","LOC100784402","GLYMA_05G006700","serine/threonine-protein kinase BLUS1"
 "100812261","LOC100812261","GLYMA_16G111700","glutamate receptor 3.6"
-"100778656","LOC100778656","GLYMA_11G039000","NAD-capped RNA hydrolase DXO1"
-"100780528","LOC100780528","GLYMA_16G058300","DNA replication complex GINS protein PSF2"
+"100780887","LOC100780887","GLYMA_08G227200","calcium and calcium/calmodulin-dependent serine/threonine-protein kinase"
+"778149","BZIP121","GLYMA_11G108100","bZIP transcription factor bZIP121"
+NA,".",NA,NA
+"100500541","LOC100500541","","uncharacterized LOC100500541"
+"100810270","LOC100810270","GLYMA_07G196800","linoleate 13S-lipoxygenase 3-1, chloroplastic"
+"951475","RAV","HCVgp1","polyprotein;protein F"
+"100788866","LOC100788866","GLYMA_14G199600","exocyst complex component EXO70B1"
+"100811649","LOC100811649","GLYMA_04G235900","calcineurin B-like protein 7"
 NA,".",NA,NA
 NA,".",NA,NA
-"100792870","LOC100792870","GLYMA_12G053900","cyanogenic beta-glucosidase"
+"100802429","LOC100802429","GLYMA_05G181900","regulation of nuclear pre-mRNA domain-containing protein 1B"
+NA,".",NA,NA
+"100795131","LOC100795131","GLYMA_04G078100","uncharacterized LOC100795131"
+NA,".",NA,NA
+"112999805","LOC112999805","","uncharacterized LOC112999805"
 NA,".",NA,NA
 NA,".",NA,NA
+"100526973","LOC100526973","GLYMA_05G216100","uncharacterized LOC100526973"
+NA,".",NA,NA
+"100813627","LOC100813627","GLYMA_12G215000","thioredoxin-like protein CXXS1-like"
+"100805946","LOC100805946","GLYMA_11G194900","cell division cycle protein 48 homolog"
+NA,".",NA,NA
+"100811220","LOC100811220","GLYMA_01G129000","protein LURP-one-related 15"
+NA,".",NA,NA
+"100776865","LOC100776865","GLYMA_10G276600","uncharacterized LOC100776865"
+"100795728","LOC100795728","GLYMA_14G195200","probable protein phosphatase 2C 25"
+NA,".",NA,NA
+"100818728","LOC100818728","GLYMA_10G227700","hevamine-A"
+"100820376","LOC100820376","GLYMA_20G052500","protein argonaute 4"
+"100798381","LOC100798381","GLYMA_14G074700","probable LRR receptor-like serine/threonine-protein kinase At2g16250"
+"121868234","CYP45","Hamer_G012785, CYP45, Cyp3A19-L","cytochrome P450 3A31-like"
 "100792035","LOC100792035","GLYMA_07G083700","bark storage protein A"
+"100812823","LOC100812823","GLYMA_09G038600","beta-D-xylosidase 1"
+"100781461","LOC100781461","GLYMA_09G019900","BOI-related E3 ubiquitin-protein ligase 1"
+"100818879","LOC100818879","GLYMA_02G139700","transcription factor bHLH30-like"
 "100500550","LOC100500550","GLYMA_03G246800","uncharacterized LOC100500550"
-"100793120","LOC100793120","GLYMA_08G093200","type IV inositol polyphosphate 5-phosphatase 9"
 NA,".",NA,NA
 NA,".",NA,NA
+"100800666","LOC100800666","GLYMA_07G028300","internalin A"
+"100785746","LOC100785746","GLYMA_09G250700","tyrosine-protein phosphatase DSP3-like"
+"121174816","LOC121174816","","protein FREE1-like"
+NA,".",NA,NA
+"100794384","LOC100794384","GLYMA_10G143900","uncharacterized LOC100794384"
+NA,".",NA,NA
+"100800911","LOC100800911","GLYMA_01G004200","probable caffeoyl-CoA O-methyltransferase At4g26220"
+"100777390","LOC100777390","GLYMA_10G222400, gigantea","peroxidase 12"
+"100786235","LOC100786235","GLYMA_16G170300","U-box domain-containing protein 28"
+NA,".",NA,NA
+"100818353","LOC100818353","GLYMA_18G297500","uncharacterized LOC100818353"
+"100797644","LOC100797644","GLYMA_12G137700","scarecrow-like protein 21"
+"100776889","LOC100776889","GLYMA_11G200700","uncharacterized protein DDB_G0280205"
+"100500574","LOC100500574","GLYMA_15G063700","uncharacterized LOC100500574"
+"100820416","LOC100820416","GLYMA_14G057400","probable inactive receptor-like protein kinase At3g56050"
+NA,".",NA,NA
+"100805334","LOC100805334","GLYMA_01G009200","lachrymatory-factor synthase"
+NA,".",NA,NA
+"100500694","LOC100500694","GLYMA_16G076400","protein MODIFYING WALL LIGNIN-1"
+NA,".",NA,NA
+"100817320","LOC100817320","GLYMA_19G081500","F-box protein CPR1"
+"100305419","LOC100305419","GLYMA_11G144800","protein kinase family protein"
+"100794713","LOC100794713","GLYMA_09G139000","transcription factor LAF1"
+"100807691","LOC100807691","GLYMA_03G032500","UDP-glycosyltransferase 72D1"
+NA,".",NA,NA
+"100786800","LOC100786800","GLYMA_09G026900","berberine bridge enzyme-like 13"
+NA,".",NA,NA
+"100810651","LOC100810651","GLYMA_08G323400","probable long-chain-alcohol O-fatty-acyltransferase 1"
+"100807570","LOC100807570","GLYMA_20G224700","transcription factor UNE12"
+"100785907","LOC100785907","GLYMA_01G007400","receptor-like protein kinase 5"
+"100790768","LOC100790768","GLYMA_20G123800","protein FAM133"
+NA,".",NA,NA
+"100782392","LOC100782392","GLYMA_03G120700","calmodulin-binding protein 25"
+"100781624","LOC100781624","GLYMA_08G351932v4","1-aminocyclopropane-1-carboxylate oxidase homolog 1"
 "100527108","LOC100527108","GLYMA_15G228500","uncharacterized LOC100527108"
-"100816220","LOC100816220","GLYMA_10G240200","transcription factor TCP19"
+"100794852","LOC100794852","GLYMA_14G023500","calcium-dependent protein kinase 33"
+"100527731","LOC100527731","GLYMA_07G243600","uncharacterized LOC100527731"
+NA,".",NA,NA
+"100820005","LOC100820005","GLYMA_12G173500","BTB domain and kelch-repeat-containing protein"
+NA,".",NA,NA
+"100785599","LOC100785599","GLYMA_03G107900","uncharacterized LOC100785599"
+"100807515","LOC100807515","GLYMA_18G233500","U-box domain-containing protein 33"
+"100813896","LOC100813896","","uncharacterized LOC100813896"
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
+"843205","PHO1-H1","AT1G68740, F24J5.2, F24J5_2","EXS (ERD1/XPR1/SYG1) family protein"
+"100305644","LOC100305644","GLYMA_20G036100","putative ribonuclease 1"
+"2099","TUBB1","ER, ESR, ESRA, ESTRR, Era, NR3A1","estrogen receptor 1"
 "102660238","LOC102660238","GLYMA_17G155300","uncharacterized LOC102660238"
 NA,".",NA,NA
-"100786257","LOC100786257","GLYMA_09G203500","phosphoenolpyruvate carboxykinase (ATP) 1"
+"100805879","LOC100805879","GLYMA_16G054700","uncharacterized LOC100805879"
 NA,".",NA,NA
-"102665971","LOC102665971","GLYMA_01G011800","uncharacterized LOC102665971"
+"100813233","LOC100813233","","disease resistance RPP13-like protein 4"
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"112997783","LOC112997783","GLYMA_09G173300","uncharacterized LOC112997783"
+"100792716","LOC100792716","GLYMA_05G160500","uncharacterized LOC100792716"
 "100799780","LOC100799780","GLYMA_13G053800","receptor-like protein kinase FERONIA"
+"100783239","LOC100783239","GLYMA_17G057600","plant intracellular Ras-group-related LRR protein 6"
 "547794","LOC547794","GLYMA_13G333100, GmTIP1;6, TIP1-6","nodulin-26"
+NA,".",NA,NA
+"100795576","LOC100795576","GLYMA_16G065900","cystinosin homolog"
+"100809874","LOC100809874","GLYMA_05G023100","SNAP25 homologous protein SNAP33"
+"100792744","LOC100792744","GLYMA_13G051900","vegetative cell wall protein gp1"
 "100806805","LOC100806805","GLYMA_03G016300","BON1-associated protein 2"
 "100805331","LOC100805331","GLYMA_08G100400","phospholipase A1-Igamma1, chloroplastic"
 NA,".",NA,NA
-"100783801","LOC100783801","GLYMA_10G140200","putative expansin-A17"
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
-"100805807","LOC100805807","GLYMA_06G106700","uncharacterized LOC100805807"
+"100775453","LOC100775453","GLYMA_04G104200","uncharacterized WD repeat-containing protein C2A9.03"
+"102661081","LOC102661081","GLYMA_16G077900","pcbC domain-containing protein"
 NA,".",NA,NA
+"100805357","LOC100805357","GLYMA_09G273500","mannan endo-1,4-beta-mannosidase 6"
+"100306243","LOC100306243","GLYMA_02G109700","uncharacterized LOC100306243"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100819844","LOC100819844","","uncharacterized LOC100819844"
+"100797246","LOC100797246","GLYMA_04G165800","uncharacterized LOC100797246"
+NA,".",NA,NA
+"100791741","LOC100791741","GLYMA_08G118700, GSTU34","probable glutathione S-transferase"
+"100800834","LOC100800834","GLYMA_13G111500","inter alpha-trypsin inhibitor, heavy chain 4"
+"100306018","LOC100306018","GLYMA_07G191500","FBPase/IMPase/glpX-like domain-containing protein"
+"100815528","LOC100815528","GLYMA_10G266500","uncharacterized LOC100815528"
+NA,".",NA,NA
+NA,".",NA,NA
+"100785732","LOC100785732","GLYMA_17G258500","thaumatin-like protein 1"
+"100799947","LOC100799947","GLYMA_06G310700","WAT1-related protein At5g07050"
+"100805802","LOC100805802","GLYMA_13G158200","blue copper protein"
+"778183","LOC778183","GLYMA_17G037500, MYB102, MYB72","transcription factor MYB108"
+"100784565","LOC100784565","GLYMA_11G051300","uncharacterized LOC100784565"
+NA,".",NA,NA
+NA,".",NA,NA
+"100795713","LOC100795713","GLYMA_06G119700","TOM1-like protein 4"
+"100804125","LOC100804125","","uncharacterized LOC100804125"
+"102659498","LOC102659498","GLYMA_01G114400","UPF0481 protein At3g47200"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100819507","LOC100819507","GLYMA_13G091000","tetraspanin family protein"
+"100306373","LOC100306373","GLYMA_10G151000","hypothetical protein"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100783219","LOC100783219","GLYMA_08G292600","formin-like protein 8"
+"100791888","LOC100791888","GLYMA_08G228800","phospholipid-transporting ATPase 1"
+"100803024","LOC100803024","GLYMA_01G222000","mitogen-activated protein kinase 4-like"
+"113000590","LOC113000590","","small nucleolar RNA R160"
+"100808712","LOC100808712","GLYMA_09G275100","probable serine/threonine-protein kinase PBL1"
 NA,".",NA,NA
 "100776430","LOC100776430","GLYMA_07G195300","stem-specific protein TSJT1"
 "100817780","LOC100817780","GLYMA_01G002100","auxin response factor 19"
 NA,".",NA,NA
+"100791439","LOC100791439","GLYMA_03G260600","probable L-gulonolactone oxidase 6"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100795674","LOC100795674","GLYMA_04G091700","ubiquitin carboxyl-terminal hydrolase 17"
+"100790977","LOC100790977","GLYMA_07G120900","dynamin-related protein 1E"
+"2745879","WI12","AT3G10985, ARABIDOPSIS THALIANA WOUND-INDUCED PROTEIN 12, ATWI-12, WI12, WOUND-INDUCED PROTEIN 12, senescence associated gene 20","senescence associated gene 20"
+NA,".",NA,NA
+"100775260","LOC100775260","","disease resistance protein RML1A-like"
+NA,".",NA,NA
+NA,".",NA,NA
 NA,".",NA,NA
 "102669056","LOC102669056","GLYMA_01G145200","uncharacterized LOC102669056"
+"100781764","LOC100781764","GLYMA_06G036400","mitogen-activated protein kinase kinase kinase 5"
 NA,".",NA,NA
+"117626383","LOC100800652","ALMOND_2B011141","uncharacterized LOC117626383"
+"102660599","LOC100817208","","probable receptor-like protein kinase At5g39020-like"
 NA,".",NA,NA
+"100810464","LOC100810464","GLYMA_08G031200","vacuolar protein sorting-associated protein 32 homolog 2"
+"100527208","LOC100527208","GLYMA_15G218900","uncharacterized LOC100527208"
+"827872","CRK27","AT4G21230, F7J7.170, F7J7_170, cysteine-rich RLK (RECEPTOR-like protein kinase) 27","cysteine-rich RLK (RECEPTOR-like protein kinase) 27"
+"100306311","LOC100306311","GLYMA_04G063200","uncharacterized LOC100306311"
+NA,".",NA,NA
+"778123","BZIP90","GLYMA_13G316900, GmTGA20, bZIP91","bZIP transcription factor"
+"100787041","LOC100787041","GLYMA_04G103400","TPR repeat-containing thioredoxin TTL1"
+NA,".",NA,NA
+"100808014","LOC100808014","GLYMA_01G011600","uncharacterized LOC100808014"
+NA,".",NA,NA
+"100796288","LOC100796288","GLYMA_08G009800","probable protein S-acyltransferase 5"
 "100797784","LOC100797784","GLYMA_19G255300","cyclic nucleotide-gated ion channel 1"
 NA,".",NA,NA
+"100791891","LOC100791891","GLYMA_15G152200","disease resistance-like protein DSC1"
+"100775682","LOC100775682","GLYMA_14G070700","BEL1-like homeodomain protein 7"
+NA,".",NA,NA
+"100776109","LOC100776109","GLYMA_17G007600","scarecrow-like protein 13"
+"100816256","LOC100816256","GLYMA_11G244900","probable pectate lyase 5"
+NA,".",NA,NA
+"100789972","LOC100789972","GLYMA_09G161100","receptor-like protein kinase HSL1"
+"100816232","LOC100816232","GLYMA_18G236700","probable polygalacturonase"
+NA,".",NA,NA
+"834367","LOC100778851","AT5G43470, DISEASE RESISTANCE PROTEIN RPP8, HRT, HYPERSENSITIVE RESPONSE TO TCV, MWF20.19, MWF20_19, RCY1, RECOGNITION OF PERONOSPORA PARASITICA 8, RESISTANT TO CMV(Y) 1","Disease resistance protein (CC-NBS-LRR class) family"
+"100806599","LOC100806599","GLYMA_02G295200","protein HOMOLOG OF MAMMALIAN LYST-INTERACTING PROTEIN 5"
 NA,".",NA,NA
 "102668575","LOC102668575","","uncharacterized LOC102668575"
+"100500254","LOC100500254","GLYMA_02G023900","TIR-NBS disease resistance-like protein"
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"351","CAMK1","AAA, ABETA, ABPP, AD1, APPI, CTFgamma, CVAP, PN-II, PN2, alpha-sAPP, preA4","amyloid beta precursor protein"
+"100305396","LOC100305396","GLYMA_08G060500","protein kinase"
+"100818907","LOC100818907","GLYMA_03G162500","ethylene-responsive transcription factor 15-like"
+"100815307","LOC100815307","GLYMA_01G108700","putative PAR1 protein"
+"24835","AO","RATTNF, TNF-alpha, Tnfa","tumor necrosis factor"
 NA,".",NA,NA
 "100811876","LOC100811876","GLYMA_15G219400","nuclear-pore anchor"
+"100813637","LOC100813637","GLYMA_08G263200","DNA-3-methyladenine glycosylase I-like"
+"100796226","LOC100796226","GLYMA_13G109700","putative 12-oxophytodienoate reductase"
+"100781713","LOC100781713","GLYMA_04G195700","F-box protein At1g67340"
+"100818892","LOC100818892","GLYMA_18G297900","protein SWEETIE"
+"106798964","LOC106798964","GLYMA_06G262700","G-type lectin S-receptor-like serine/threonine-protein kinase At4g27290"
 NA,".",NA,NA
+"837997","MYB124","AT1G14350, AtMYB124, F14L17.12, F14L17_12, FOUR LIPS, MYB124, myb domain protein 124","Duplicated homeodomain-like superfamily protein"
 "102666149","LOC102666149","GLYMA_02G043500","F-box protein At2g26160"
+"834623","GA2OX6","AT5G45830, ATDOG1, DELAY OF GERMINATION 1, GAAS5, GLUCOSE SENSING QTL 5, GSQ5, K15I22.3, K15I22_3, germination ability after storage 5","delay of germination 1"
 "100785248","LOC100785248","GLYMA_03G149200","sugar transporter ERD6-like 7"
 "100806077","LOC100806077","GLYMA_02G059700","lysM domain receptor-like kinase 4"
 "100813304","LOC100813304","GLYMA_13G102200","probable serine/threonine-protein kinase PIX13"
+NA,".",NA,NA
+"100777073","LOC100777073","GLYMA_20G043000","hydroxymethylglutaryl-CoA lyase, mitochondrial"
 "100820356","LOC100820356","GLYMA_11G244000","E3 ubiquitin-protein ligase RGLG5"
 NA,".",NA,NA
+"100794273","LOC100794273","GLYMA_04G149300","3-ketoacyl-CoA synthase 11"
+"100790804","LOC100790804","GLYMA_06G268600","disease resistance protein RUN1"
+NA,".",NA,NA
+NA,".",NA,NA
+"100791645","LOC100791645","GLYMA_12G084600","glucomannan 4-beta-mannosyltransferase 2"
+"100785491","LOC100785491","GLYMA_13G297700","E3 ubiquitin-protein ligase RMA1H1-like"
+"100814174","LOC100814174","GLYMA_05G216500","putative adenylate cyclase regulatory protein"
+"100796094","LOC100796094","GLYMA_15G276100","uncharacterized LOC100796094"
+"100819620","LOC100819620","GLYMA_18G181500","probable serine/threonine-protein kinase NAK-like"
+"100784434","LOC100784434","GLYMA_13G364900","phospholipase D alpha 1"
+"844356","GLYI-7","AT1G80160, F18B13.24, F18B13_24, glyoxylase I 7","Lactoylglutathione lyase / glyoxalase I family protein"
+"100305921","LOC100305921","GLYMA_15G141900","uncharacterized LOC100305921"
+"100810192","LOC100810192","GLYMA_18G127400","thioredoxin H2"
+NA,".",NA,NA
+"102663416","LOC100306495","","hydrophobic protein RCI2B-like"
+"100819296","LOC100819296","GLYMA_19G020600","probable WRKY transcription factor 72"
+"100793053","LOC100793053","GLYMA_20G003500","isoliquiritigenin 2'-O-methyltransferase-like"
+"100817683","LOC100817683","GLYMA_19G133400","2-oxoglutarate-dependent dioxygenase AOP2"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100305347","LOC100305347","GLYMA_19G264200, MYB100","MYB-like transcription factor EOBI"
 "100796496","LOC100796496","GLYMA_02G306200","scarecrow-like transcription factor PAT1"
-NA,".",NA,NA
+"100775550","LOC100775550","GLYMA_01G173800","U-box domain-containing protein 5"
+"100787214","LOC100787214","GLYMA_19G003700","uncharacterized LOC100787214"
 "100795948","LOC100795948","GLYMA_17G058100","uncharacterized LOC100795948"
+"100527790","LOC100527790","GLYMA_07G192500","uncharacterized LOC100527790"
+"100807569","MYB29B2","GLYMA_20G209700, GmMYB29B2, MYB29","MYB/HD-like transcription factor"
+"100779314","LOC100779314","GLYMA_17G042300","WRKY transcription factor 6"
+"100813428","LOC100813428","GLYMA_19G018400","thaumatin-like protein"
+"100806935","LOC100806935","GLYMA_01G127100","dirigent protein 22"
 NA,".",NA,NA
+"100804548","LOC100804548","GLYMA_05G034600","calmodulin-binding protein 60 A"
+"100791406","LOC100791406","GLYMA_17G158000","transcription factor RAX3"
+"100792859","LOC100792859","GLYMA_11G252700","MACPF domain-containing protein At1g14780"
+"100800009","LOC100800009","GLYMA_01G017800","uncharacterized LOC100800009"
+"100801116","LOC100801116","GLYMA_02G078200","uncharacterized LOC100801116"
+"100802939","LOC100802939","GLYMA_12G027500","uncharacterized LOC100802939"
+"100787108","LOC100787108","GLYMA_15G054500","7-deoxyloganetin glucosyltransferase"
+"843976","PHT1-9","AT1G76430, F15M4.7, phosphate transporter 1;9","phosphate transporter 1;9"
+"100787713","LOC100787713","GLYMA_18G241800","tyrosine-protein phosphatase DSP5"
 NA,".",NA,NA
-NA,".",NA,NA
-"100783849","LOC100783849","GLYMA_19G202900","probable carboxylesterase 15"
-NA,".",NA,NA
+"100789814","LOC100789814","GLYMA_17G069900","AFG1-like ATPase family protein"
+"100795477","LOC100795477","GLYMA_11G224800","uncharacterized LOC100795477"
+"100785598","LOC100785598","GLYMA_10G081900","E3 ubiquitin-protein ligase PUB23"
+"100794580","PHO1-H5","GLYMA_10G183300, GmaPHO1;H5, PHO1","PHO1 family protein"
 "100778084","LOC100778084","GLYMA_10G070200v4, C4DT","glycinol 4-dimethylallyltransferase-like"
+"100795990","LOC100795990","GLYMA_10G266900","sarcoplasmic reticulum histidine-rich calcium-binding protein"
 "100801021","LOC100801021","GLYMA_06G087700","protein SAWADEE HOMEODOMAIN HOMOLOG 2"
-"100803806","LOC100803806","GLYMA_11G137100","pumilio homolog 2"
+"100811407","LOC100811407","GLYMA_18G294500","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 1.4"
+"100527487","LOC100527487","GLYMA_15G030100","EF-hand, calcium binding motif-containing protein"
+"100778601","LOC100778601","GLYMA_02G171200","protein trichome birefringence"
 NA,".",NA,NA
-"100794703","LOC100794703","GLYMA_08G094400","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 1.2"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100776740","LOC100776740","GLYMA_05G072300","peptidyl serine alpha-galactosyltransferase"
+"100815166","LOC100815166","GLYMA_18G200300","alcohol dehydrogenase-like 4"
+NA,".",NA,NA
+"100816893","LOC100816893","GLYMA_01G219000","probable copper-transporting ATPase HMA5"
+"100777751","LOC100777751","GLYMA_03G210900","spermatogenesis-associated protein 20"
+NA,".",NA,NA
+NA,".",NA,NA
+"100816188","LOC100816188","GLYMA_01G165900","uncharacterized LOC100816188"
+"100783541","LOC100783541","GLYMA_06G159100","probable magnesium transporter NIPA6"
+"100809530","LOC100809530","GLYMA_12G045300","probable NAD(P)H dehydrogenase (quinone) FQR1-like 2"
+"100793074","LOC100793074","GLYMA_06G162200","chaperone protein ClpD, chloroplastic"
+"100801673","LOC100801673","GLYMA_03G198600","probable F-box protein At2g36090"
 "100798011","LOC100798011","GLYMA_05G110600","transcription factor bHLH18"
+"100306632","LOC100306632","GLYMA_15G008300","uncharacterized LOC100306632"
+"100803911","LOC100803911","GLYMA_01G103500","auxin response factor 9"
+NA,".",NA,NA
+"100817471","LOC100817471","GLYMA_10G292400","uncharacterized LOC100817471"
+"100790724","LOC100790724","GLYMA_10G236600","transcription factor LAF1-like"
+"100815312","LOC100815312","GLYMA_17G230600","probable protein phosphatase 2C 72"
+"100803091","LOC100803091","","ethylene-response factor C3-like"
 "100779571","LOC100779571","GLYMA_20G119100","probable protein phosphatase 2C 15"
+"839141","WRKY10","AT1G25540, F2J7.4, F2J7_4, MED25, PHYTOCHROME AND FLOWERING TIME 1, mediator 25","phytochrome and flowering time regulatory protein (PFT1)"
+NA,".",NA,NA
+"100777930","LOC100777930","GLYMA_18G270051v4","uncharacterized LOC100777930"
+"100781089","LOC100781089","GLYMA_01G020800","rhamnogalacturonate lyase"
+"100500476","LOC100500476","GLYMA_19G198900v4","NDR1/HIN1-like protein 1"
+"100794996","LOC100794996","GLYMA_05G042200","high-affinity nitrate transporter 3.1"
+"100807181","LOC100807181","GLYMA_19G016300","paired amphipathic helix protein Sin3-like 2"
+NA,".",NA,NA
+NA,".",NA,NA
+"100791515","LOC100791515","GLYMA_15G212400","ALA-interacting subunit 3"
 NA,".",NA,NA
 NA,".",NA,NA
 "102669093","LOC102669093","GLYMA_06G200600","exocyst complex component EXO70B1"
+"100802411","LOC100802411","GLYMA_12G110600","probable polyol transporter 4"
 "100527485","LOC100527485","GLYMA_11G119900","BURP domain-containing protein"
 NA,".",NA,NA
+"100301890","NAC35","GLYMA_15G254000","transcriptional factor NAC35"
+"100813092","LOC100813092","GLYMA_05G238400","probable calcium-binding protein CML25"
+"100813900","LOC100813900","GLYMA_01G014000","cellulose synthase-like protein D2"
+"100785631","LOC100785631","GLYMA_20G048300","probable serine/threonine-protein kinase PBL2"
+"100799838","LOC100799838","GLYMA_17G011600","S-type anion channel SLAH4"
 NA,".",NA,NA
-"100798009","LOC100798009","GLYMA_13G272100","sodium/calcium exchanger NCL2"
+"100788541","LOC100788541","GLYMA_15G036200","zinc transporter 1-like"
+NA,".",NA,NA
+NA,".",NA,NA
+"100780892","LOC100780892","GLYMA_08G008100","auxin response factor 2B"
+NA,".",NA,NA
+"100802372","LOC100802372","GLYMA_03G249800","histone-lysine N-methyltransferase SUVR4"
+NA,".",NA,NA
+"100814614","LOC100814614","GLYMA_02G067500","nudix hydrolase 12, mitochondrial"
+"100305637","LOC100305637","GLYMA_13G316100","uncharacterized LOC100305637"
+NA,".",NA,NA
+"100782969","LOC100782969","GLYMA_12G176900","high affinity nitrate transporter 2.4"
+"102660295","LOC102660295","GLYMA_13G248800","G-type lectin S-receptor-like serine/threonine-protein kinase B120"
+"100527420","LOC100527420","GLYMA_20G033800, GmCASP6","CASP-like protein 2"
+NA,".",NA,NA
+"100808618","LOC100808618","GLYMA_12G091200","NAC domain-containing protein 90"
+"100817276","LOC100817276","GLYMA_10G057600v4","serine/threonine-protein kinase PCRK1-like"
 "100799752","LOC100799752","GLYMA_05G094400","mitogen-activated protein kinase kinase kinase 20"
-"100527307","LOC100527307","GLYMA_07G243900","SRPBCC domain-containing protein"
+"100781328","LOC100781328","GLYMA_11G086700","amino acid transporter AVT3C"
+"100797934","LOC100797934","GLYMA_02G228200","probable protein phosphatase 2C 25"
 NA,".",NA,NA
+"100527307","LOC100527307","GLYMA_07G243900","SRPBCC domain-containing protein"
+"100819484","LOC100819484","GLYMA_20G133200","zinc finger protein ZAT10"
+"100807425","LOC100807425","GLYMA_15G247600","disease resistance protein UNI"
+NA,".",NA,NA
+"100778340","LOC100778340","GLYMA_13G095300","probable xyloglucan endotransglucosylase/hydrolase protein 23"
+"100803619","LOC100803619","GLYMA_03G038700","peroxidase P7"
+"100777388","LOC100777388","GLYMA_02G299700","two-pore potassium channel 1"
+NA,".",NA,NA
+"100793353","TGA23","GLYMA_18G020900, GmTGA23","bZIP transcription factor"
+"100804075","LOC100804075","GLYMA_08G004300","protein PSK SIMULATOR 1"
 "102661371","LOC102661371","GLYMA_18G209900v4","protein LURP-one-related 15-like"
+"100809318","LOC100809318","GLYMA_04G080300","sulfite exporter TauE/SafE family protein 3"
 "100783199","LOC100783199","GLYMA_06G063700","zinc finger protein 1"
+NA,".",NA,NA
 "100787405","LOC100787405","GLYMA_11G004800","sugar transport protein 13"
+NA,".",NA,NA
 "102660244","LOC102660244","GLYMA_06G294400","protein ACCELERATED CELL DEATH 6"
+"100795809","LOC100795809","GLYMA_02G080900","cellulose synthase A catalytic subunit 2 [UDP-forming]"
+"833836","WRKY35","AT5G38480, GF14PSI ISOFORM, MXI10.21, MXI10_21, RCI1, general regulatory factor 3","general regulatory factor 3"
+"100785796","PRR3A","GLYMA_11G148362v4, GmPRR3A","two-component response regulator PRR3A"
+NA,".",NA,NA
+NA,".",NA,NA
+"100778207","LOC100778207","GLYMA_08G176000","uncharacterized protein"
+NA,".",NA,NA
+NA,".",NA,NA
 "100815815","LOC100815815","GLYMA_08G086100","protein CHROMATIN REMODELING 4"
 "100814180","LOC100814180","GLYMA_13G302601v4","coumaroyl-CoA:anthocyanidin 3-O-glucoside-6''-O-coumaroyltransferase 2-like"
+"100527788","LOC100527788","GLYMA_08G036100, SPEAR6","uncharacterized LOC100527788"
+"100783255","LOC100783255","GLYMA_17G019500","UDP-glucose flavonoid 3-O-glucosyltransferase 7"
+"100780208","LOC100780208","GLYMA_02G091500","uncharacterized LOC100780208"
+"106798695","LOC102669209","","polyribonucleotide nucleotidyltransferase 2, mitochondrial-like"
+"2944","GSTT2","GST1, GSTM1-1, GSTM1a-1a, GSTM1b-1b, GTH4, GTM1, H-B, MU, MU-1","glutathione S-transferase mu 1"
+"100810046","LOC100810046","GLYMA_04G058100","uncharacterized acetyltransferase At3g50280"
+"100808554","LOC100808554","GLYMA_09G008700","RPM1-interacting protein 4"
 "102667089","LOC102667089","","uncharacterized LOC102667089"
-"100816285","LOC100816285","GLYMA_05G237100","LEAF RUST 10 DISEASE-RESISTANCE LOCUS RECEPTOR-LIKE PROTEIN KINASE-like 2.5"
+"100808542","LOC100808542","GLYMA_09G057100","peroxidase 16"
+NA,".",NA,NA
+"100820237","LOC100820237","GLYMA_06G187300","protein EDS1L"
+"102664018","LOC102664018","GLYMA_19G155100","antifungal protein ginkbilobin-like protein"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100784229","LOC100784229","GLYMA_20G200000","uncharacterized LOC100784229"
+"100812429","LOC100812429","GLYMA_15G265400","YTH domain-containing protein ECT2"
+"100776621","SOMT-2","GLYMA_08G2467002","flavonoid 4'-O-methyltransferase SOMT-2"
+"100797292","LOC100797292","GLYMA_06G103100","probable protein phosphatase 2C 10"
+"100795989","LOC100795989","GLYMA_18G209800","protein LURP-one-related 10"
+"100815313","LOC100815313","GLYMA_17G250800","probable LRR receptor-like serine/threonine-protein kinase At2g16250"
+"100306267","PTS-L5","GLYMA_19G151300, GmPTS-L5","pterocarpan synthase-like"
+NA,".",NA,NA
+"100779095","LOC100779095","GLYMA_07G262500","S-type anion channel SLAH4"
+"100783726","ALDH3H2","GLYMA_06G114300, GmALDH3H2","aldehyde dehydrogenase family 3 member H2"
+"778055","MYB139","GLYMA_13G333200","MYB transcription factor MYB139"
 "102660925","LOC102660925","GLYMA_13G005100","VQ motif-containing protein 22"
 NA,".",NA,NA
 NA,".",NA,NA
+"100808242","LOC100808242","GLYMA_04G008900","GATA transcription factor 7"
+"100790733","LOC100790733","GLYMA_03G084600","ER lumen protein-retaining receptor"
+"7444101","HSF-32","THAPS_6935","HSF32, heat shock transcription factor DNA-binding domain-containing protein, DNA binding, transcription factor"
+"100807220","LOC100806688","","TMV resistance protein N-like"
+NA,".",NA,NA
+NA,".",NA,NA
+"100816499","LOC100816499","","uncharacterized LOC100816499"
+NA,".",NA,NA
+NA,".",NA,NA
+"100801298","LOC100801298","GLYMA_10G023500","uncharacterized LOC100801298"
+"112998473","LOC112998473","","small nucleolar RNA Z195/SNORD33/SNORD32 family"
+"121174048","LOC121174048","GLYMA_18G281600v4","probable disease resistance protein At4g27220"
+"102663487","LOC102663487","GLYMA_19G081700","F-box/kelch-repeat protein At3g23880"
+"547584","GSTU42","GLYMA_10G192900","glutathione S-transferase GST 15"
+NA,".",NA,NA
+"100789049","LOC100789049","GLYMA_07G083300","cytochrome P450 704C1"
+"100782542","LOC100782542","GLYMA_17G088800v4","probable boron transporter 2"
 NA,".",NA,NA
 NA,".",NA,NA
 NA,".",NA,NA
-"11920","G6PDH","C030026E19Rik","ataxia telangiectasia mutated"
+"100783345","LOC100783345","GLYMA_12G005000","agamous-like MADS-box protein AGL12-like protein"
+"100776039","LOC100776039","GLYMA_06G241300","ankyrin repeat-containing protein BDA1"
 NA,".",NA,NA
+"100807421","LOC100807421","GLYMA_14G053600","peroxidase P7"
+"100795040","LOC100795040","GLYMA_16G065800","cystinosin homolog"
+"100807163","LOC100807163","GLYMA_11G232200","probable inactive receptor-like protein kinase At3g56050"
+"100788258","LOC100788258","GLYMA_10G281600","uncharacterized LOC100788258"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100814952","LOC100814952","GLYMA_08G288600","probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 10"
+"100798816","LOC100798816","GLYMA_18G013100","E3 ubiquitin-protein ligase RGLG5"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100791552","LOC100791552","GLYMA_09G239900","polyvinylalcohol dehydrogenase"
+"100800203","LOC100800203","GLYMA_02G277300","putative late embryogenesis abundant protein"
+NA,".",NA,NA
+"100782720","LOC100782720","GLYMA_17G019400","UDP-glucose flavonoid 3-O-glucosyltransferase 7"
+"100814471","LOC100814471","GLYMA_18G026500","flavonol synthase/flavanone 3-hydroxylase-like"
+"102659743","LOC100794948","","probable pectinesterase/pectinesterase inhibitor 17"
+"100527903","LOC100527903","GLYMA_09G180800","reticulon domain-containing protein"
+NA,".",NA,NA
+"100816315","LOC100816315","GLYMA_06G205600","UDP-arabinopyranose mutase 3"
+"547691","LOC547691","GLYMA_07G165700","uncharacterized LOC547691"
+"100819574","LOC100819574","GLYMA_08G013000","intracellular protein transport protein USO1"
 NA,".",NA,NA
 NA,".",NA,NA
 "100795427","LOC100795427","GLYMA_09G168600","probable cyclic nucleotide-gated ion channel 20, chloroplastic"
-"100805697","LOC100805697","GLYMA_09G073200","respiratory burst oxidase homolog protein E"
-"100813434","LOC100813434","GLYMA_20G089100","putative expansin-A17"
 NA,".",NA,NA
-"100301877","NFR5A","GLYMA_11G063100","Nod factor receptor protein 5A"
-"100793554","LOC100793554","GLYMA_04G184000","boron transporter 1"
+"100784912","LOC100784912","GLYMA_11G039400","beta-amylase 3, chloroplastic"
+"100526852","LOC100526852","GLYMA_04G136600","putative calcium-binding protein"
+"100779984","LOC100779984","GLYMA_07G027500","putative UPF0481 protein At3g02645"
+NA,".",NA,NA
+"100807744","LOC100807744","GLYMA_13G185000","uncharacterized LOC100807744"
+"100791666","LOC100791666","GLYMA_05G209100","uncharacterized LOC100791666"
+NA,".",NA,NA
+"100807879","LOC100807879","GLYMA_11G233100","protein trichome birefringence-like 33"
+"100817061","LOC100817061","GLYMA_15G166800","transcription factor bHLH35"
+"852848","CAT4","YGL035C, CAT4, SSN1, TDS22","transcription factor MIG1"
+"100778775","LOC100778775","GLYMA_01G036800","protein JINGUBANG"
+"100810694","LOC100810694","GLYMA_09G156900","4,5-DOPA dioxygenase extradiol-like protein-like"
+NA,".",NA,NA
+"100796647","LOC100796647","GLYMA_16G156200","leucine-rich repeat receptor-like tyrosine-protein kinase PXC3"
+"100527571","LOC100527571","GLYMA_06G013200","uncharacterized LOC100527571"
+"100781603","LOC100781603","GLYMA_15G186300","WRKY transcription factor 42"
+"100305943","LOC100305943","GLYMA_11G208700","OXS3-like protein"
 NA,".",NA,NA
 "100776165","LOC100776165","GLYMA_11G193600","probable xyloglucan endotransglucosylase/hydrolase protein 32-like"
 NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100807570","LOC100807570","GLYMA_20G224700","transcription factor UNE12"
 "100799350","LOC100799350","GLYMA_03G005000","ELMO domain-containing protein A"
 "100787465","LOC100787465","GLYMA_15G008900","probable polygalacturonase At1g80170"
-"112999843","LOC112999843","","small nucleolar RNA snoR145"
 "100780563","LOC100780563","GLYMA_17G110300","xylogalacturonan beta-1,3-xylosyltransferase"
+"100819521","LOC100819521","GLYMA_14G194100","zinc finger CCCH domain-containing protein 66"
+"100805024","LOC100805024","GLYMA_10G039500","uncharacterized LOC100805024"
+"102667117","LOC102667117","GLYMA_15G053700","probable protein phosphatase 2C 10"
+"100803768","LOC100803768","GLYMA_02G100600","probable lipid-A-disaccharide synthase, mitochondrial"
 NA,".",NA,NA
+"100779628","LOC100779628","GLYMA_15G207200","probable acyl-activating enzyme 17, peroxisomal"
 "102662104","LOC102662104","GLYMA_13G033200","rust resistance kinase Lr10"
+"100819514","LOC100819514","GLYMA_13G072800","E3 ubiquitin-protein ligase RZF1"
+"100789910","LOC100789910","GLYMA_13G281400","ADP-ribosylation factor GTPase-activating protein AGD5"
+NA,".",NA,NA
+"100780580","LOC100780580","GLYMA_10G296900","clathrin interactor EPSIN 2"
+"100812919","LOC100812919","GLYMA_05G215100","COP1-interactive protein 1"
+"100305729","LOC100305729","GLYMA_05G198900","uncharacterized LOC100305729"
 "100305727","LOC100305727","GLYMA_02G212100","uncharacterized LOC100305727"
+"100499835","LOC100499835","GLYMA_17G140700","autophagy-related protein 8f-like"
+"100784988","LOC100784988","GLYMA_15G215400","phospholipid-transporting ATPase 1"
+NA,".",NA,NA
+"100817354","LOC100817354","GLYMA_05G025900","cyclic dof factor 3"
+"100798636","LOC100798636","GLYMA_18G287700","heat shock cognate 70 kDa protein 2"
+NA,".",NA,NA
 "100811928","LOC100811928","GLYMA_02G026700","paired amphipathic helix protein Sin3-like 4"
 NA,".",NA,NA
+"100818988","LOC100818988","GLYMA_07G253400","uncharacterized LOC100818988"
+"102668954","LOC102668954","","uncharacterized LOC102668954"
+"100802636","LOC100802636","GLYMA_14G107300","serine/threonine-protein kinase RIPK"
+"100779508","LOC100779508","GLYMA_18G077900","disease resistance protein RPM1"
+"818982","WRKY55","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6"
+"100790234","LOC100790234","GLYMA_04G092100","mitochondrial uncoupling protein 4"
+NA,".",NA,NA
+NA,".",NA,NA
 "100790322","LOC100790322","GLYMA_16G220500","thioredoxin H9"
+"100499838","LOC100499838","GLYMA_07G065800","uncharacterized LOC100499838"
+"100789938","LOC100789938","","ABC transporter G family member 35-like"
+"100784079","LOC100784079","GLYMA_06G017600","probable serine/threonine-protein kinase PIX13"
+"100791877","LOC100791877","GLYMA_07G236000","alkaline/neutral invertase A, mitochondrial"
+"100802048","LOC100802048","GLYMA_19G028200","membrane-anchored ubiquitin-fold protein 1-like"
 "102659833","LOC102659833","GLYMA_15G257600","1-aminocyclopropane-1-carboxylate oxidase homolog 1"
 "100809413","LOC100809413","GLYMA_16G085900","disease resistance protein RPV1"
+"100815855","LOC100815855","GLYMA_02G064100","ribonuclease S-2"
+"100793150","LOC100793150","GLYMA_17G233700","uncharacterized LOC100793150"
+"100816647","LOC100816647","GLYMA_20G012600","protein OBERON 3"
 "100794151","LOC100794151","GLYMA_08G027000","lupeol synthase"
 NA,".",NA,NA
+"100785936","LOC100785936","GLYMA_10G007000","ethylene-response factor C3"
+"100797603","LOC100797603","GLYMA_11G010800","transcription factor-like protein DPB"
+"100797201","LOC100797201","GLYMA_10G208200","U-box domain-containing protein 14"
+"100790513","LOC100790513","GLYMA_09G146700","BAG family molecular chaperone regulator-like protein"
+"100810983","LOC100810983","GLYMA_07G190200","telomerase Cajal body protein 1"
+"838883","MYB73","AT1G22770, FB, GIGANTEA, T22J18.6, T22J18_6","gigantea protein (GI)"
+"100805218","LOC100805218","GLYMA_19G019200","plasma membrane ATPase 1"
+"100793896","LOC100793896","GLYMA_18G095400","uncharacterized LOC100793896"
+"100783009","LOC100783009","GLYMA_13G036200","2-oxoglutarate-dependent dioxygenase 19"
 NA,".",NA,NA
 NA,".",NA,NA
+"100775353","LOC100775353","GLYMA_15G132600","berberine bridge enzyme-like 13"
+"102666498","LOC102666498","GLYMA_11G151100","calmodulin binding protein PICBP"
+NA,".",NA,NA
+"100779546","LOC100779546","GLYMA_11G243100","GATA zinc finger domain-containing protein 14"
+"100800239","LOC100800239","GLYMA_11G119000","organ-specific protein P4-like"
+NA,".",NA,NA
+"100779686","LOC100779686","GLYMA_10G111700","uncharacterized LOC100779686"
+"100815735","LOC100815735","GLYMA_12G076700","cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG1"
+"100808509","RIN4B","GLYMA_16G090700, RIN4","RPM1-interacting protein 4-like"
+"100813775","LOC100813775","GLYMA_03G019500","uncharacterized LOC100813775"
 NA,".",NA,NA
 NA,".",NA,NA
-"100803799","LOC100803799","GLYMA_03G025200","ruBisCO-associated protein"
+"100818281","LOC100818281","GLYMA_07G171600","transcription factor bHLH121"
+"100820534","LOC100820534","GLYMA_20G154700","uncharacterized LOC100820534"
+"100808470","LOC100808470","GLYMA_13G289200v4","cyanidin 3-O-galactoside 2''-O-xylosyltransferase FGGT1-like"
+"100794183","LOC100794183","GLYMA_16G201500","receptor-like serine/threonine-protein kinase At4g25390"
+"100790930","LOC100790930","GLYMA_04G034400","elongation of fatty acids protein 3-like"
+"100784444","LOC100784444","GLYMA_07G033700","probable 2-oxoglutarate-dependent dioxygenase AOP1"
+NA,".",NA,NA
+NA,".",NA,NA
+"818982","ERF6","AT2G43790, ATMAPK6, ATMPK6, F18O19.10, MAP KINASE 6, MAP kinase 6, MAPK6","MAP kinase 6"
+"100817514","LOC100817514","GLYMA_19G041700","protein trichome birefringence-like 19"
+"100795088","LOC100795088","GLYMA_02G260500","uncharacterized LOC100795088"
 "100803784","LOC100803784","GLYMA_18G021700","protein NRT1/ PTR FAMILY 5.1"
-"100801736","LOC100801736","GLYMA_06G238400","protein RICE SALT SENSITIVE 3"
+"100779617","LOC100779617","GLYMA_07G127100","probable LRR receptor-like serine/threonine-protein kinase At4g29180-like"
+"100801071","LOC100801071","GLYMA_01G118900","probable leucine-rich repeat receptor-like serine/threonine-protein kinase At3g14840"
+"100819985","LOC100819985","GLYMA_19G120000","GDSL esterase/lipase At3g26430"
+NA,".",NA,NA
+NA,".",NA,NA
+"100817460","LOC100817460","GLYMA_02G008500","pto-interacting protein 1-like"
+"100527729","LOC100527729","GLYMA_01G162500","uncharacterized LOC100527729"
+"100775377","LOC100775377","GLYMA_16G214000","TMV resistance protein N-like"
+NA,".",NA,NA
+NA,".",NA,NA
+"100780368","LOC100780368","GLYMA_01G037600","formin-like protein 8"
+"100799515","LOC100799515","GLYMA_10G221200","ethanolamine kinase 2-like"
+NA,".",NA,NA
 "102660301","LOC102660301","GLYMA_02G252500","uncharacterized LOC102660301"
+"100795524","LOC100795524","GLYMA_05G208300","transcription factor EGL1"
 "100789312","LOC100789312","GLYMA_10G265100","uncharacterized LOC100789312"
-"100527629","LOC100527629","GLYMA_04G021600","putative expansin"
+"100781997","LOC100781997","GLYMA_17G104800","homeobox protein knotted-1-like LET12"
+"100527660","LOC100527660","GLYMA_02G137400","uncharacterized LOC100527660"
+"100810841","LOC100810841","GLYMA_17G255800","bZIP transcription factor 29"
+NA,".",NA,NA
+"100807048","LOC100807048","GLYMA_13G037100","scarecrow-like protein 1"
+"100787942","LOC100787942","GLYMA_12G163008v4","putative protein phosphatase 2C"
 "100791152","LOC100791152","GLYMA_06G215600","probable receptor-like protein kinase At5g20050"
-"100818475","LOC100818475","GLYMA_15G266400","LRR receptor-like serine/threonine-protein kinase IOS1"
+NA,".",NA,NA
+"100527025","LOC100527025","GLYMA_19G117900","uncharacterized LOC100527025"
 "100815756","LOC100815756","GLYMA_05G169100","11S globulin seed storage protein 1"
+"100170751","LOC100170751","GLYMA_05G195000, NAC32","NAC domain-containing protein 2"
+"100805186","LOC100805186","GLYMA_18G153100","inactive rhomboid protein 1-like"
+"100802179","LOC100802179","GLYMA_02G082500","vacuolar iron transporter homolog 3"
+"100500439","LOC100500439","GLYMA_19G193600","BON and LysM domains-containing protein"
+"100799282","LOC100799282","GLYMA_16G145700","rhomboid-like protein 19"
+"4952","PIP2-5","DENT2, Dent-2, INPP5F, LOCR, NPHL2, OCRL-1, OCRL1","OCRL inositol polyphosphate-5-phosphatase"
+"100805175","LOC100805175","GLYMA_10G063000","probable 2-oxoglutarate-dependent dioxygenase SLC1"
 "100806797","LOC100806797","GLYMA_03G1577002","calcium-transporting ATPase 12, plasma membrane-type"
-NA,".",NA,NA
+"100791543","HSF-01","GLYMA_01G185800, GmHSF-01","heat stress transcription factor 1"
+"100820300","LOC100820300","GLYMA_09G216100","putative class VII receptor-like cytoplasmic kinase"
 "100784831","LOC100784831","GLYMA_16G064100","MDIS1-interacting receptor like kinase 2"
-"100817389","LOC100816849","","cellulose synthase-like protein E2-like"
+"100819749","LOC100819749","GLYMA_16G145500","MLO-like protein 12"
+NA,".",NA,NA
+"100787661","LOC100787661","GLYMA_08G251200","uncharacterized protein YwbO"
+NA,".",NA,NA
+"100816073","LOC100816073","GLYMA_10G290100","2-oxoglutarate dehydrogenase, mitochondrial"
+NA,".",NA,NA
+"100820574","LOC100820574","GLYMA_06G229900, Gmppc2","phosphoenolpyruvate carboxylase, housekeeping isozyme-like"
+"100816461","LOC100816461","GLYMA_19G083200","casparian strip membrane protein 5-like"
+"102670326","LOC102670326","GLYMA_16G097800","uncharacterized LOC102670326"
+"100796973","LOC100796973","GLYMA_07G106800","transcription repressor KAN1"
+"547630","LOC547630","GLYMA_09G004400","adenosine 5'-phosphosulfate reductase"
+"102661161","LOC102661161","GLYMA_08G226000","uncharacterized LOC102661161"
 "100798343","LOC100798343","GLYMA_20G092900","putative nuclear envelope-associated protein"
-NA,".",NA,NA
-NA,".",NA,NA
+"100776975","LOC100776975","GLYMA_16G095700","probable calcium-binding protein CML21"
+"100804361","LOC100804361","GLYMA_20G128100","putative UDP-glucose glucosyltransferase"
+"100819098","LOC100819098","GLYMA_19G051500","E3 ubiquitin-protein ligase RGLG2"
+"100811649","LOC100811649","GLYMA_04G235900","calcineurin B-like protein 7"
 "100795828","LOC100795828","GLYMA_10G045200","zinc finger protein ZAT11"
+"100780060","LOC100780060","GLYMA_18G184500","auxin response factor 9"
 NA,".",NA,NA
+"100790324","LOC100790324","GLYMA_16G045300","uncharacterized LOC100790324"
 "102669340","LOC100792603","","toll/interleukin-1 receptor-like protein"
+NA,".",NA,NA
 "100805529","LOC100805529","GLYMA_09G210600","disease resistance protein RPM1"
 "100813697","LOC100799113","","uncharacterized LOC100813697"
+"100809846","LOC100809846","GLYMA_04G082700","protein NRT1/ PTR FAMILY 1.2"
 NA,".",NA,NA
 "100811980","LOC100811980","GLYMA_04G190400","leucine-rich repeat receptor-like serine/threonine/tyrosine-protein kinase SOBIR1"
+"100783389","LOC100783389","GLYMA_07G004500","ras-related protein Rab7"
+NA,".",NA,NA
+NA,".",NA,NA
+"100785037","LOC100785037","GLYMA_02G129500","putative phospholipid-transporting ATPase 9"
+"101501671","NAC23","CaNAC23","NAC domain-containing protein"
+"100301880","LOC100301880","GLYMA_18G227200","peroxisomal biogenesis factor 11 family protein"
+"778130","BZIP59","GLYMA_10G013300","bZIP transcription factor bZIP59"
+NA,".",NA,NA
+"100811930","LOC100811930","GLYMA_02G296500","pirin-like protein"
+NA,".",NA,NA
+"100804032","LOC100804032","GLYMA_06G123500","uncharacterized LOC100804032"
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+NA,".",NA,NA
+"100527258","LOC100527258","GLYMA_03G001800","uncharacterized LOC100527258"
+"100783596","LOC100783596","GLYMA_09G159400","uncharacterized oxidoreductase At4g09670"
 NA,".",NA,NA
 "100793498","LOC100793498","GLYMA_02G264200","U-box domain-containing protein 1"
-"100809369","LOC100809369","GLYMA_06G026100","uncharacterized LOC100809369"
-"100785662","LOC100785662","GLYMA_06G302700","peroxidase 3"
+"100802504","LOC100802504","GLYMA_01G027500v4","lipase-like"
+"100818268","LOC100818268","GLYMA_13G0654002","plasma membrane ATPase 2"
+"100812802","LOC100812802","GLYMA_08G152500","transcription factor bHLH130"
+"100815566","LOC100815566","GLYMA_11G147100","uncharacterized LOC100815566"
+"100306701","LOC100306701","GLYMA_08G348300","ethylene-responsive transcription factor-like protein At4g13040"
+"100817076","LOC100817076","GLYMA_08G348000","galacturonosyltransferase 8-like"
+"100818804","LOC100818804","GLYMA_13G276100","VQ motif-containing protein 19"
+"100798416","LOC100798416","GLYMA_08G359100","laccase-17"
+"851752","CHS6","YDR172W, GST1, PNM2, SAL3, SUF12, SUP2, SUP36","translation termination factor GTPase eRF3"
 NA,".",NA,NA
-"100801372","LOC100801372","GLYMA_13G364700","probable polygalacturonase At3g15720"
-"102664858","LOC102664858","GLYMA_18G056400","senescence associated gene 20"
+"100819843","LOC100819843","GLYMA_12G064600","UDP-glucuronic acid decarboxylase 1-like"
+NA,".",NA,NA
+"100798084","LOC100798084","GLYMA_09G254800","WRKY transcription factor 22"
+"100499895","LOC100499895","GLYMA_09G047200, DREPP","plasma membrane-associated cation-binding protein 1-like"
+"113000588","LOC113000588","","small nucleolar RNA Z199"
+NA,".",NA,NA
+NA,".",NA,NA
+"100816580","LOC100816580","GLYMA_18G055500","cationic peroxidase 1"
+"102667557","LOC102667557","GLYMA_17G035900","uncharacterized LOC102667557"
+NA,".",NA,NA
+"100812818","LOC100812818","GLYMA_01G083000","uncharacterized LOC100812818"
+"100799675","LOC100799675","GLYMA_10G233500","U-box domain-containing protein 32"
+NA,".",NA,NA
+NA,".",NA,NA
+"100305511","LOC100305511","GLYMA_08G344300","alpha-amylase inhibitor/lipid transfer/seed storage family protein"
+"100816981","LOC100816981","GLYMA_11G035300","2-oxoglutarate-Fe(II) type oxidoreductase hxnY"
+"100793263","LOC100793263","GLYMA_06G286200","probable O-methyltransferase 3"
+"100802416","LOC100802416","GLYMA_12G143000","G-type lectin S-receptor-like serine/threonine-protein kinase At4g27290"
+NA,".",NA,NA
+NA,".",NA,NA
 NA,".",NA,NA
