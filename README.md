@@ -1,7 +1,7 @@
 # Stone
 
 ## Contents
-### Code
+### Code: [Preview](https://htmlpreview.github.io/?https://github.com/kkwock/Stone/blob/main/ncbiGeneSumm.html)
 * `ncbi-ann-glyma.R`: Rscript with source functions
 * `ncbiGeneSumm.Rmd`: R Notebook with raw code
 * `ncbiGeneSumm.html`: HTML output of notebook
